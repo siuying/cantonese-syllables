@@ -6,8 +6,10 @@ module Cantonese
   module Syllables
     class Scraper
       LIST_URL = "http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/syllables.php"
-      FINAL_REGEXP = %r{phonetic_final\[[0-9]+\] = "([^"]+)";}
-      TONE_REGEXP = %r{phonetic_tone\[[0-9]+\] = "([^"]+)";}
+
+      INITIAL_REGEXP = %r{phonetic_initial\[[0-9]+\] = "([^"]*)";}
+      FINAL_REGEXP = %r{phonetic_final\[[0-9]+\] = "([^"]*)";}
+      TONE_REGEXP = %r{phonetic_tone\[[0-9]+\] = "([^"]*)";}
 
       # get syllables list
       def self.list
@@ -26,7 +28,7 @@ module Cantonese
         doc.search(".pho-rel tr").collect do |node|
           cells = node.search("td")
           js = cells[0].text rescue nil
-          phonetic = js.match(FINAL_REGEXP)[1] + js.match(TONE_REGEXP)[1] rescue nil
+          phonetic = js.match(INITIAL_REGEXP)[1] + js.match(FINAL_REGEXP)[1] + js.match(TONE_REGEXP)[1] rescue nil
           text = cells[2].text.split(",").collect{|text| text.strip } rescue nil
 
           if text && phonetic

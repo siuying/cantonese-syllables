@@ -16,6 +16,10 @@ describe Cantonese::Syllables::Scraper do
       syllable = scraper.syllable("http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/pho-rel.php?initial=-&final=aa")
       expect(syllable).to be_a(Array)
       expect(syllable).to be_include(syllable: "aa4", characters: ["啊"])
+
+      syllable = scraper.syllable("http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/pho-rel.php?initial=gw&final=ai")
+      expect(syllable).to be_a(Array)
+      expect(syllable).to be_include(syllable: "gwai1", characters: %w{傀 刲 圭 媯 廆 歸 洼 溈 珪 瑰 皈 硅 茥 藈 邽 閨 騩 鮭 龜})
     end
   end
 end
