@@ -3,6 +3,7 @@ $LOAD_PATH << "lib"
 
 require "cantonese/syllables/scraper"
 require 'json'
+require 'set'
 
 desc "scrape data file"
 task :scrape do
@@ -20,7 +21,7 @@ task :scrape do
         all_characters[character] = sounds
         sounds.each do |sound|
           all_sounds[sound] ||= []
-          all_sounds[sound] << character
+          all_sounds[sound] << character unless all_sounds[sound].include?(character)
         end        
       end
     end
