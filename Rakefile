@@ -16,7 +16,9 @@ task :scrape do
     sounds = Scraper.syllable(syllable[:url])
     sounds.each do |sound|
       sound[:characters].each do |character|
-        all_characters[character] = sound[:syllable]
+        all_characters[character] ||= []
+        all_characters[character] << sound[:syllable]
+
         all_sounds[sound[:syllable]] ||= []
         all_sounds[sound[:syllable]] << character
       end
