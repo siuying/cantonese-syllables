@@ -1,26 +1,14 @@
 # Cantonese::Syllables
 
-TODO: Write a gem description
-
-## Installation
-
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'cantonese-syllables'
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install cantonese-syllables
+Scrape cantonese syllables from CUHK [Multi-function Chinese Character Database](http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/)
 
 ## Usage
 
-TODO: Write usage instructions here
+Use the file [characters.json]() or [sounds.json]().
+
+Or generate the data yourself:
+
+    $ rake scrape
 
 ## Contributing
 
