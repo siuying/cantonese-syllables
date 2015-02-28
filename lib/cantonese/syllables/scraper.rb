@@ -1,12 +1,14 @@
 require 'http'
 require 'nokogiri'
+require 'cgi'
+
 require 'pry'
 
 module Cantonese
   module Syllables
     class Scraper
       LIST_URL = "http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/syllables.php"
-
+      WORD_URL = "http://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word="
       INITIAL_REGEXP = %r{phonetic_initial\[[0-9]+\] = "([^"]*)";}
       FINAL_REGEXP = %r{phonetic_final\[[0-9]+\] = "([^"]*)";}
       TONE_REGEXP = %r{phonetic_tone\[[0-9]+\] = "([^"]*)";}
@@ -36,6 +38,16 @@ module Cantonese
           else
             nil
           end
+        end.compact
+      end
+
+      # get detail of a word
+      def self.word(word)
+        url = WORD_URL + CGI::escape(word)
+        doc = Nokogiri::HTML(HTTP.get(url).body.to_s)
+        doc.search("#char_can_table tr").collect do |node|
+          js = node.search("td.char_can_head").first.text rescue nil
+          js.match(INITIAL_REGEXP)[1] + js.match(FINAL_REGEXP)[1] + js.match(TONE_REGEXP)[1] rescue nil
         end.compact
       end
     end

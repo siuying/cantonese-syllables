@@ -22,4 +22,17 @@ describe Cantonese::Syllables::Scraper do
       expect(syllable).to be_include(syllable: "gwai1", characters: %w{傀 刲 圭 媯 廆 歸 洼 溈 珪 瑰 皈 硅 茥 藈 邽 閨 騩 鮭 龜})
     end
   end
+
+  context "#word" do
+    it "should return sounds of a word" do
+      sounds = scraper.word("不")
+      expect(sounds).to be_a(Array)
+      expect(sounds).to be_include("bat1")
+      expect(sounds).to be_include("fau2")
+
+      sounds = scraper.word("誠")
+      expect(sounds).to be_a(Array)
+      expect(sounds).to eq(["sing4"])
+    end
+  end
 end

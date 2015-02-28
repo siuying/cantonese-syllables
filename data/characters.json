@@ -22,8 +22,8 @@
   "啞": [
     "aa1",
     "aa2",
-    "ngaa2",
     "ak1",
+    "ngaa2",
     "ngak1"
   ],
   "孲": [
@@ -52,10 +52,10 @@
   ],
   "嗄": [
     "aa2",
-    "haa2",
-    "saa3",
     "aai3",
-    "ngaai3"
+    "haa2",
+    "ngaai3",
+    "saa3"
   ],
   "掗": [
     "aa2",
@@ -67,9 +67,9 @@
   "阿": [
     "aa2",
     "aa3",
-    "ngaa3",
     "aak3",
     "o1",
+    "ngaa3",
     "ngo1"
   ],
   "亞": [
@@ -90,18 +90,18 @@
   ],
   "襾": [
     "aa3",
-    "ngaa3",
-    "haa2"
+    "haa2",
+    "ngaa3"
   ],
   "鈳": [
     "aa3",
-    "ko1",
-    "ho1"
+    "ho1",
+    "ko1"
   ],
   "錒": [
     "aa3",
-    "ngaa3",
-    "o1"
+    "o1",
+    "ngaa3"
   ],
   "叭": [
     "baa1"
@@ -201,9 +201,9 @@
     "paak1"
   ],
   "扒": [
+    "baat3",
     "paa1",
-    "paa4",
-    "baat3"
+    "paa4"
   ],
   "舥": [
     "paa1"
@@ -218,10 +218,10 @@
     "paa3"
   ],
   "帕": [
-    "paa3",
-    "paak3",
+    "mak6",
     "mat6",
-    "mak6"
+    "paa3",
+    "paak3"
   ],
   "怕": [
     "paa3"
@@ -242,8 +242,8 @@
     "paa4"
   ],
   "么": [
-    "maa1",
     "jiu1",
+    "maa1",
     "mo1"
   ],
   "嗎": [
@@ -295,8 +295,8 @@
     "maa4"
   ],
   "痳": [
-    "maa4",
-    "lam4"
+    "lam4",
+    "maa4"
   ],
   "蟆": [
     "maa4"
@@ -345,9 +345,9 @@
   ],
   "嘩": [
     "faa1",
+    "jip6",
     "waa1",
-    "waa4",
-    "jip6"
+    "waa4"
   ],
   "花": [
     "faa1",
@@ -396,8 +396,8 @@
     "to4"
   ],
   "她": [
-    "taa1",
-    "ji1"
+    "ji1",
+    "taa1"
   ],
   "它": [
     "taa1",
@@ -414,8 +414,8 @@
     "taa1"
   ],
   "鉈": [
-    "taa1",
     "si1",
+    "taa1",
     "to4"
   ],
   "南": [
@@ -440,13 +440,13 @@
     "naa4"
   ],
   "挐": [
+    "jyu4",
     "naa4",
-    "naau4",
-    "jyu4"
+    "naau4"
   ],
   "蒘": [
-    "naa4",
-    "jyu4"
+    "jyu4",
+    "naa4"
   ],
   "那": [
     "naa5",
@@ -516,8 +516,8 @@
   ],
   "家": [
     "gaa1",
-    "ze1",
-    "gu1"
+    "gu1",
+    "ze1"
   ],
   "尕": [
     "gaa1"
@@ -660,8 +660,8 @@
   ],
   "擖": [
     "gaa3",
-    "kaa1",
-    "jip6"
+    "jip6",
+    "kaa1"
   ],
   "架": [
     "gaa3"
@@ -681,20 +681,20 @@
   "卡": [
     "kaa1",
     "kaa2",
-    "zaap6",
-    "kaat1"
+    "kaat1",
+    "zaap6"
   ],
   "哈": [
-    "kaa1",
     "haa1",
     "haa5",
-    "haai1"
+    "haai1",
+    "kaa1"
   ],
   "喀": [
-    "kaa1",
-    "kaa3",
     "haak1",
-    "haak3"
+    "haak3",
+    "kaa1",
+    "kaa3"
   ],
   "鉲": [
     "kaa1"
@@ -709,24 +709,24 @@
     "ngaa4"
   ],
   "吾": [
-    "ngaa4",
+    "ng4",
     "jyu4",
-    "ng4"
+    "ngaa4"
   ],
   "岈": [
-    "ngaa4",
-    "haa1"
+    "haa1",
+    "ngaa4"
   ],
   "牙": [
     "ngaa4"
   ],
   "玡": [
-    "ngaa4",
-    "je4"
+    "je4",
+    "ngaa4"
   ],
   "琊": [
-    "ngaa4",
-    "je4"
+    "je4",
+    "ngaa4"
   ],
   "芽": [
     "ngaa4"
@@ -756,8 +756,8 @@
     "ngaa5"
   ],
   "御": [
-    "ngaa6",
-    "jyu6"
+    "jyu6",
+    "ngaa6"
   ],
   "犽": [
     "ngaa6"
@@ -807,9 +807,9 @@
     "haa4"
   ],
   "蛤": [
-    "haa4",
     "gaap3",
-    "gap3"
+    "gap3",
+    "haa4"
   ],
   "赮": [
     "haa4"
@@ -838,10 +838,10 @@
     "wu6"
   ],
   "呱": [
+    "gu1",
     "gwaa1",
     "gwaa2",
-    "waa1",
-    "gu1"
+    "waa1"
   ],
   "媧": [
     "gwaa1",
@@ -856,8 +856,8 @@
   ],
   "緺": [
     "gwaa1",
-    "waa1",
-    "gwo1"
+    "gwo1",
+    "waa1"
   ],
   "胍": [
     "gwaa1"
@@ -913,9 +913,9 @@
     "kwaa2"
   ],
   "咼": [
+    "gwo1",
     "kwaa1",
     "waa1",
-    "gwo1",
     "wo4"
   ],
   "喎": [
@@ -934,13 +934,13 @@
     "kwaa1"
   ],
   "晇": [
-    "kwaa1",
-    "heoi1"
+    "heoi1",
+    "kwaa1"
   ],
   "胯": [
+    "fu3",
     "kwaa1",
-    "kwaa3",
-    "fu3"
+    "kwaa3"
   ],
   "誇": [
     "kwaa1"
@@ -957,19 +957,19 @@
     "kwaa3"
   ],
   "挎": [
-    "kwaa3",
-    "fu1"
+    "fu1",
+    "kwaa3"
   ],
   "舿": [
     "kwaa3"
   ],
   "凹": [
-    "waa1",
     "aau1",
     "aau3",
-    "ngaau1",
+    "lap1",
     "nap1",
-    "lap1"
+    "ngaau1",
+    "waa1"
   ],
   "划": [
     "waa1",
@@ -980,10 +980,10 @@
     "waa1"
   ],
   "唲": [
-    "waa1",
     "aai1",
+    "ji4",
     "ngaai1",
-    "ji4"
+    "waa1"
   ],
   "娃": [
     "waa1"
@@ -993,8 +993,8 @@
     "waat3"
   ],
   "搳": [
-    "waa1",
-    "hat6"
+    "hat6",
+    "waa1"
   ],
   "汙": [
     "waa1",
@@ -1006,8 +1006,8 @@
     "wu3"
   ],
   "洼": [
-    "waa1",
-    "gwai1"
+    "gwai1",
+    "waa1"
   ],
   "溛": [
     "waa1"
@@ -1031,8 +1031,8 @@
     "waa1"
   ],
   "豁": [
-    "waa1",
-    "kut3"
+    "kut3",
+    "waa1"
   ],
   "鏵": [
     "waa1",
@@ -1052,16 +1052,16 @@
     "waa6"
   ],
   "釪": [
-    "waa4",
-    "jyu4"
+    "jyu4",
+    "waa4"
   ],
   "釫": [
     "waa4",
     "wu1"
   ],
   "鋘": [
-    "waa4",
-    "ng4"
+    "ng4",
+    "waa4"
   ],
   "驊": [
     "waa4"
@@ -1090,17 +1090,17 @@
     "wok6"
   ],
   "纗": [
-    "waa6",
-    "kwai4"
+    "kwai4",
+    "waa6"
   ],
   "罫": [
-    "waa6",
-    "gwaai2"
+    "gwaai2",
+    "waa6"
   ],
   "觟": [
-    "waa6",
     "haai5",
-    "haai6"
+    "haai6",
+    "waa6"
   ],
   "話": [
     "waa6"
@@ -1129,19 +1129,19 @@
     "zaa1"
   ],
   "喳": [
-    "zaa1",
-    "caa1"
+    "caa1",
+    "zaa1"
   ],
   "奓": [
-    "zaa1",
-    "zaa3",
     "ce1",
+    "ci2",
     "se1",
-    "ci2"
+    "zaa1",
+    "zaa3"
   ],
   "抓": [
-    "zaa1",
     "aau1",
+    "zaa1",
     "zaau2"
   ],
   "抯": [
@@ -1151,21 +1151,21 @@
     "zaa1"
   ],
   "撾": [
-    "zaa1",
     "gwo1",
-    "wo1"
+    "wo1",
+    "zaa1"
   ],
   "查": [
-    "zaa1",
-    "caa4"
+    "caa4",
+    "zaa1"
   ],
   "柤": [
     "zaa1",
     "zo2"
   ],
   "楂": [
-    "zaa1",
-    "caa4"
+    "caa4",
+    "zaa1"
   ],
   "樝": [
     "zaa1"
@@ -1180,8 +1180,8 @@
     "zaa1"
   ],
   "潳": [
-    "zaa1",
-    "tou4"
+    "tou4",
+    "zaa1"
   ],
   "皻": [
     "zaa1"
@@ -1195,15 +1195,15 @@
     "zaa1"
   ],
   "簻": [
-    "zaa1",
-    "gwo1"
+    "gwo1",
+    "zaa1"
   ],
   "膼": [
     "zaa1"
   ],
   "蔖": [
-    "zaa1",
-    "co4"
+    "co4",
+    "zaa1"
   ],
   "觰": [
     "zaa1"
@@ -1219,13 +1219,13 @@
     "zaa3"
   ],
   "苴": [
-    "zaa2",
-    "zaa3",
     "caa1",
     "caa4",
+    "ceoi1",
+    "zaa2",
+    "zaa3",
     "zeoi1",
-    "zeoi2",
-    "ceoi1"
+    "zeoi2"
   ],
   "謯": [
     "zaa2",
@@ -1244,19 +1244,19 @@
     "zaa3"
   ],
   "喥": [
-    "zaa3",
-    "dok6"
+    "dok6",
+    "zaa3"
   ],
   "囃": [
     "zaa3"
   ],
   "奼": [
-    "zaa3",
-    "caa3"
+    "caa3",
+    "zaa3"
   ],
   "扠": [
-    "zaa3",
-    "caa1"
+    "caa1",
+    "zaa3"
   ],
   "搾": [
     "zaa3"
@@ -1277,8 +1277,8 @@
     "zaa3"
   ],
   "煠": [
-    "zaa3",
-    "saap6"
+    "saap6",
+    "zaa3"
   ],
   "痄": [
     "zaa3"
@@ -1294,11 +1294,11 @@
     "zaak3"
   ],
   "蜡": [
-    "zaa3",
-    "zaa6",
     "caa3",
+    "cai3",
     "laap6",
-    "cai3"
+    "zaa3",
+    "zaa6"
   ],
   "詐": [
     "zaa3"
@@ -1347,8 +1347,8 @@
   ],
   "欻": [
     "caa3",
-    "fat1",
-    "cuk1"
+    "cuk1",
+    "fat1"
   ],
   "汊": [
     "caa3"
@@ -1371,8 +1371,8 @@
   ],
   "捈": [
     "caa4",
-    "tou4",
-    "syu1"
+    "syu1",
+    "tou4"
   ],
   "搽": [
     "caa4"
@@ -1394,8 +1394,8 @@
   "荼": [
     "caa4",
     "ce4",
-    "tou4",
-    "syu1"
+    "syu1",
+    "tou4"
   ],
   "卅": [
     "saa1",
@@ -1425,8 +1425,8 @@
     "saa1"
   ],
   "硰": [
-    "saa1",
-    "co2"
+    "co2",
+    "saa1"
   ],
   "紗": [
     "saa1"
@@ -1448,10 +1448,10 @@
     "saa1"
   ],
   "洒": [
+    "ceoi1",
     "saa2",
     "sai2",
-    "sin2",
-    "ceoi1"
+    "sin2"
   ],
   "灑": [
     "saa2"
@@ -1463,9 +1463,9 @@
     "jaa5"
   ],
   "廾": [
+    "gung2",
     "jaa6",
-    "je6",
-    "gung2"
+    "je6"
   ],
   "廿": [
     "jaa6",
@@ -1475,14 +1475,14 @@
   ],
   "哎": [
     "aai1",
+    "ai3",
     "ngaai1",
-    "ngaai6",
-    "ai3"
+    "ngaai6"
   ],
   "唉": [
     "aai1",
-    "ngaai1",
     "oi1",
+    "ngaai1",
     "ngoi1"
   ],
   "噯": [
@@ -1494,21 +1494,21 @@
   ],
   "埃": [
     "aai1",
-    "ngaai1",
     "oi1",
+    "ngaai1",
     "ngoi1"
   ],
   "娭": [
     "aai1",
-    "ngaai1",
+    "oi1",
     "hei1",
-    "oi1"
+    "ngaai1"
   ],
   "挨": [
     "aai1",
+    "oi2",
     "ngaai1",
     "ngaai4",
-    "oi2",
     "ngoi2"
   ],
   "欸": [
@@ -1533,13 +1533,13 @@
   ],
   "嗌": [
     "aai3",
-    "ngaai3",
-    "jik1"
+    "jik1",
+    "ngaai3"
   ],
   "噫": [
     "aai3",
-    "ngaai3",
-    "ji1"
+    "ji1",
+    "ngaai3"
   ],
   "砨": [
     "aai3",
@@ -1551,15 +1551,15 @@
   ],
   "阨": [
     "aai3",
-    "ngaai3",
     "ak1",
+    "ngaai3",
     "ngak1"
   ],
   "隘": [
     "aai3",
-    "ngaai3",
     "ai3",
     "ak1",
+    "ngaai3",
     "ngak1"
   ],
   "餲": [
@@ -1626,8 +1626,8 @@
     "paai4"
   ],
   "排": [
-    "paai4",
-    "bik1"
+    "bik1",
+    "paai4"
   ],
   "棑": [
     "paai4"
@@ -1636,12 +1636,12 @@
     "paai4"
   ],
   "箄": [
-    "paai4",
-    "bei6"
+    "bei6",
+    "paai4"
   ],
   "簰": [
-    "paai4",
-    "bei6"
+    "bei6",
+    "paai4"
   ],
   "埋": [
     "maai4"
@@ -1651,13 +1651,13 @@
     "wo1"
   ],
   "貍": [
-    "maai4",
-    "lei4"
+    "lei4",
+    "maai4"
   ],
   "霾": [
+    "lei4",
     "maai4",
-    "mai4",
-    "lei4"
+    "mai4"
   ],
   "嘪": [
     "maai5"
@@ -1672,8 +1672,8 @@
     "maai6"
   ],
   "賣": [
-    "maai6",
-    "juk6"
+    "juk6",
+    "maai6"
   ],
   "邁": [
     "maai6"
@@ -1751,8 +1751,8 @@
     "taai3"
   ],
   "歹": [
-    "daai2",
     "aat3",
+    "daai2",
     "ngaat6"
   ],
   "帶": [
@@ -1780,8 +1780,8 @@
     "de2"
   ],
   "跢": [
-    "daai3",
     "ci4",
+    "daai3",
     "do1",
     "do3"
   ],
@@ -1817,8 +1817,8 @@
     "taai3"
   ],
   "忕": [
-    "taai3",
-    "si6"
+    "si6",
+    "taai3"
   ],
   "態": [
     "taai3"
@@ -1833,8 +1833,8 @@
     "taai3"
   ],
   "燤": [
-    "taai3",
-    "lit6"
+    "lit6",
+    "taai3"
   ],
   "貸": [
     "taai3",
@@ -1859,13 +1859,13 @@
     "naai5"
   ],
   "乃": [
-    "naai5",
-    "oi2"
+    "oi2",
+    "naai5"
   ],
   "妳": [
+    "lei5",
     "naai5",
-    "nei5",
-    "lei5"
+    "nei5"
   ],
   "嬭": [
     "naai5"
@@ -1874,8 +1874,8 @@
     "naai5"
   ],
   "艿": [
-    "naai5",
-    "jing4"
+    "jing4",
+    "naai5"
   ],
   "迺": [
     "naai5"
@@ -1888,14 +1888,14 @@
     "noi6"
   ],
   "佴": [
-    "naai6",
     "ji5",
     "ji6",
+    "naai6",
     "noi6"
   ],
   "褦": [
-    "naai6",
     "le5",
+    "naai6",
     "noi6"
   ],
   "孻": [
@@ -1903,11 +1903,11 @@
   ],
   "舐": [
     "laai2",
+    "lem2",
+    "lim2",
     "saai2",
     "saai5",
-    "lem2",
-    "si6",
-    "lim2"
+    "si6"
   ],
   "厲": [
     "laai3",
@@ -1934,8 +1934,8 @@
     "laai6"
   ],
   "娕": [
-    "laai6",
-    "cuk1"
+    "cuk1",
+    "laai6"
   ],
   "瀨": [
     "laai6"
@@ -1952,8 +1952,8 @@
   ],
   "酹": [
     "laai6",
-    "loi6",
     "leoi6",
+    "loi6",
     "lyut3"
   ],
   "佳": [
@@ -2019,12 +2019,12 @@
   ],
   "吤": [
     "gaai3",
-    "haai6",
-    "go3"
+    "go3",
+    "haai6"
   ],
   "圣": [
-    "gaai3",
     "fat1",
+    "gaai3",
     "sing3"
   ],
   "妎": [
@@ -2104,8 +2104,8 @@
     "ngaai4"
   ],
   "涯": [
-    "ngaai4",
-    "ji4"
+    "ji4",
+    "ngaai4"
   ],
   "淣": [
     "ngaai4",
@@ -2125,8 +2125,8 @@
     "ngaai6"
   ],
   "䇂": [
-    "ngaai6",
-    "hin1"
+    "hin1",
+    "ngaai6"
   ],
   "艾": [
     "ngaai6"
@@ -2143,10 +2143,10 @@
   ],
   "咳": [
     "haai1",
-    "kat1",
     "hei1",
-    "koi3",
-    "hoi4"
+    "hoi4",
+    "kat1",
+    "koi3"
   ],
   "嗨": [
     "haai1",
@@ -2158,9 +2158,9 @@
   ],
   "欬": [
     "haai1",
+    "hoi4",
     "kat1",
-    "koi3",
-    "hoi4"
+    "koi3"
   ],
   "孩": [
     "haai4",
@@ -2181,8 +2181,8 @@
     "haai4"
   ],
   "豥": [
-    "haai4",
-    "goi1"
+    "goi1",
+    "haai4"
   ],
   "鞋": [
     "haai4"
@@ -2204,14 +2204,14 @@
     "haai5"
   ],
   "絯": [
+    "goi1",
     "haai5",
-    "haai6",
-    "goi1"
+    "haai6"
   ],
   "胲": [
-    "haai5",
     "goi1",
     "goi2",
+    "haai5",
     "hoi2"
   ],
   "蟹": [
@@ -2275,10 +2275,10 @@
     "gwaai3"
   ],
   "狤": [
-    "gwaai3",
     "gat1",
     "git3",
-    "git6"
+    "git6",
+    "gwaai3"
   ],
   "嘳": [
     "kwaai3"
@@ -2289,8 +2289,8 @@
     "wai1"
   ],
   "歪": [
-    "waai1",
-    "me2"
+    "me2",
+    "waai1"
   ],
   "溾": [
     "waai1",
@@ -2329,9 +2329,9 @@
     "waai4"
   ],
   "坏": [
-    "waai6",
     "pui1",
-    "pui4"
+    "pui4",
+    "waai6"
   ],
   "壞": [
     "waai6"
@@ -2351,9 +2351,9 @@
     "zaai1"
   ],
   "齊": [
+    "cai4",
     "zaai1",
     "zai6",
-    "cai4",
     "zi1"
   ],
   "齋": [
@@ -2381,8 +2381,8 @@
     "zi6"
   ],
   "柴": [
-    "zaai6",
-    "caai4"
+    "caai4",
+    "zaai6"
   ],
   "眥": [
     "zaai6",
@@ -2427,9 +2427,9 @@
   ],
   "踹": [
     "caai2",
-    "jaai2",
+    "cyun2",
     "dyun3",
-    "cyun2"
+    "jaai2"
   ],
   "嘬": [
     "caai3",
@@ -2461,8 +2461,8 @@
   ],
   "茈": [
     "caai4",
-    "zi2",
-    "ci4"
+    "ci4",
+    "zi2"
   ],
   "豺": [
     "caai4"
@@ -2484,16 +2484,16 @@
     "saai2"
   ],
   "瓕": [
-    "saai2",
-    "mei4"
+    "mei4",
+    "saai2"
   ],
   "縰": [
     "saai2",
     "si2"
   ],
   "纚": [
-    "saai2",
     "lei4",
+    "saai2",
     "si2"
   ],
   "葸": [
@@ -2514,8 +2514,8 @@
     "soi1"
   ],
   "哂": [
-    "saai3",
-    "can2"
+    "can2",
+    "saai3"
   ],
   "晒": [
     "saai3"
@@ -2553,9 +2553,9 @@
   "拗": [
     "aau2",
     "aau3",
+    "juk6",
     "ngaau2",
-    "ngaau3",
-    "juk6"
+    "ngaau3"
   ],
   "詏": [
     "aau2"
@@ -2574,8 +2574,8 @@
   ],
   "箹": [
     "aau3",
-    "joek3",
-    "cuk1"
+    "cuk1",
+    "joek3"
   ],
   "袎": [
     "aau3"
@@ -2623,8 +2623,8 @@
   ],
   "爆": [
     "baau3",
-    "paau3",
-    "bok3"
+    "bok3",
+    "paau3"
   ],
   "趵": [
     "baau3",
@@ -2643,8 +2643,8 @@
     "paau1"
   ],
   "抱": [
-    "paau1",
     "bou6",
+    "paau1",
     "pou5"
   ],
   "泡": [
@@ -2678,8 +2678,8 @@
     "paau3"
   ],
   "窌": [
-    "paau3",
-    "gaau3"
+    "gaau3",
+    "paau3"
   ],
   "袌": [
     "paau3",
@@ -2704,12 +2704,12 @@
     "paau4"
   ],
   "瓝": [
-    "paau4",
-    "bok6"
+    "bok6",
+    "paau4"
   ],
   "瓟": [
-    "paau4",
-    "bok6"
+    "bok6",
+    "paau4"
   ],
   "鉋": [
     "paau4"
@@ -2718,12 +2718,12 @@
     "paau4"
   ],
   "颮": [
-    "paau4",
-    "biu1"
+    "biu1",
+    "paau4"
   ],
   "麃": [
-    "paau4",
     "biu1",
+    "paau4",
     "piu2"
   ],
   "貓": [
@@ -2748,8 +2748,8 @@
     "maau4"
   ],
   "犛": [
-    "maau4",
     "lei4",
+    "maau4",
     "mou4"
   ],
   "矛": [
@@ -2759,9 +2759,9 @@
     "maau4"
   ],
   "茆": [
+    "lau5",
     "maau4",
-    "maau5",
-    "lau5"
+    "maau5"
   ],
   "蝥": [
     "maau4",
@@ -2831,10 +2831,10 @@
     "naau6"
   ],
   "橈": [
-    "naau4",
-    "naau6",
     "jiu4",
-    "ling4"
+    "ling4",
+    "naau4",
+    "naau6"
   ],
   "猱": [
     "naau4",
@@ -2848,8 +2848,8 @@
     "naau4"
   ],
   "蟯": [
-    "naau4",
-    "jiu4"
+    "jiu4",
+    "naau4"
   ],
   "譊": [
     "naau4"
@@ -2859,18 +2859,18 @@
     "naau6"
   ],
   "孬": [
-    "naau6",
-    "bou2"
+    "bou2",
+    "naau6"
   ],
   "淖": [
     "naau6",
     "zoek3"
   ],
   "臑": [
-    "naau6",
     "ji4",
-    "nou6",
-    "jyu4"
+    "jyu4",
+    "naau6",
+    "nou6"
   ],
   "鬧": [
     "naau6"
@@ -2961,8 +2961,8 @@
   ],
   "笅": [
     "gaau2",
-    "ngaau4",
-    "haau4"
+    "haau4",
+    "ngaau4"
   ],
   "筊": [
     "gaau2",
@@ -3027,12 +3027,12 @@
     "ngaau4"
   ],
   "殽": [
-    "ngaau4",
-    "haau6"
+    "haau6",
+    "ngaau4"
   ],
   "洨": [
-    "ngaau4",
-    "haau4"
+    "haau4",
+    "ngaau4"
   ],
   "淆": [
     "ngaau4"
@@ -3042,8 +3042,8 @@
     "ngou4"
   ],
   "爊": [
-    "ngaau4",
     "ou1",
+    "ngaau4",
     "ngou1",
     "ngou4"
   ],
@@ -3057,26 +3057,26 @@
     "ngaau4"
   ],
   "宎": [
-    "ngaau5",
-    "jiu2"
+    "jiu2",
+    "ngaau5"
   ],
   "溔": [
-    "ngaau5",
-    "jiu5"
+    "jiu5",
+    "ngaau5"
   ],
   "澫": [
-    "ngaau5",
     "maan4",
-    "maan6"
+    "maan6",
+    "ngaau5"
   ],
   "穾": [
-    "ngaau5",
-    "jiu3"
+    "jiu3",
+    "ngaau5"
   ],
   "樂": [
-    "ngaau6",
     "lok3",
     "lok6",
+    "ngaau6",
     "ngok6"
   ],
   "吼": [
@@ -3164,8 +3164,8 @@
   ],
   "鄗": [
     "haau1",
-    "hou6",
-    "hok3"
+    "hok3",
+    "hou6"
   ],
   "頝": [
     "haau1"
@@ -3207,8 +3207,8 @@
     "huk6"
   ],
   "祰": [
-    "haau2",
-    "guk1"
+    "guk1",
+    "haau2"
   ],
   "考": [
     "haau2"
@@ -3221,8 +3221,8 @@
     "haau3"
   ],
   "郩": [
-    "haau4",
-    "ou2"
+    "ou2",
+    "haau4"
   ],
   "傚": [
     "haau6"
@@ -3262,16 +3262,16 @@
     "zaau3"
   ],
   "箌": [
-    "zaau3",
-    "dou3"
+    "dou3",
+    "zaau3"
   ],
   "罩": [
     "zaau3"
   ],
   "掉": [
-    "zaau6",
     "deu6",
-    "diu6"
+    "diu6",
+    "zaau6"
   ],
   "棹": [
     "zaau6",
@@ -3387,8 +3387,8 @@
     "saau1"
   ],
   "鞘": [
-    "saau1",
-    "ciu3"
+    "ciu3",
+    "saau1"
   ],
   "髾": [
     "saau1"
@@ -3410,8 +3410,8 @@
     "siu6"
   ],
   "睄": [
-    "saau3",
-    "ciu4"
+    "ciu4",
+    "saau3"
   ],
   "恰": [
     "aam1",
@@ -3434,9 +3434,9 @@
     "daam3"
   ],
   "湛": [
+    "cam4",
     "daam1",
-    "zaam3",
-    "cam4"
+    "zaam3"
   ],
   "甔": [
     "daam1",
@@ -3481,8 +3481,8 @@
   ],
   "狚": [
     "daam3",
-    "taan2",
-    "daat3"
+    "daat3",
+    "taan2"
   ],
   "癚": [
     "daam3"
@@ -3536,9 +3536,9 @@
   ],
   "淡": [
     "daam6",
+    "jim5",
     "taam4",
-    "taam5",
-    "jim5"
+    "taam5"
   ],
   "澹": [
     "daam6",
@@ -3576,21 +3576,21 @@
   ],
   "黮": [
     "daam6",
+    "sam6",
     "taam2",
     "taam3",
     "taam5",
-    "taan2",
-    "sam6"
+    "taan2"
   ],
   "探": [
     "taam1",
     "taam3"
   ],
   "撢": [
+    "daan6",
     "taam1",
     "taam2",
-    "taam3",
-    "daan6"
+    "taam3"
   ],
   "緂": [
     "taam1"
@@ -3613,8 +3613,8 @@
     "taan2"
   ],
   "菼": [
-    "taam2",
-    "cim1"
+    "cim1",
+    "taam2"
   ],
   "醓": [
     "taam2",
@@ -3639,8 +3639,8 @@
     "taam4"
   ],
   "燂": [
-    "taam4",
-    "cim4"
+    "cim4",
+    "taam4"
   ],
   "痰": [
     "taam4"
@@ -3652,16 +3652,16 @@
     "taam4"
   ],
   "蟫": [
-    "taam4",
-    "jam4"
+    "jam4",
+    "taam4"
   ],
   "襑": [
-    "taam4",
-    "cam4"
+    "cam4",
+    "taam4"
   ],
   "覃": [
-    "taam4",
-    "cam4"
+    "cam4",
+    "taam4"
   ],
   "談": [
     "taam4"
@@ -3676,22 +3676,22 @@
     "taam4"
   ],
   "錟": [
+    "cim1",
     "taam4",
-    "taan2",
-    "cim1"
+    "taan2"
   ],
   "鐔": [
-    "taam4",
     "cam4",
-    "jam4"
+    "jam4",
+    "taam4"
   ],
   "顃": [
     "taam4"
   ],
   "柟": [
+    "jim4",
     "naam1",
-    "naam4",
-    "jim4"
+    "naam4"
   ],
   "喃": [
     "naam4"
@@ -3726,8 +3726,8 @@
     "naam5"
   ],
   "蚺": [
-    "naam4",
-    "jim4"
+    "jim4",
+    "naam4"
   ],
   "蝻": [
     "naam4",
@@ -3737,8 +3737,8 @@
     "naam4"
   ],
   "隆": [
-    "naam4",
-    "lung4"
+    "lung4",
+    "naam4"
   ],
   "揇": [
     "naam5"
@@ -3746,8 +3746,8 @@
   "淰": [
     "naam5",
     "nam4",
-    "sam2",
-    "nim2"
+    "nim2",
+    "sam2"
   ],
   "湳": [
     "naam5"
@@ -3760,10 +3760,10 @@
     "laam5"
   ],
   "杬": [
+    "jyun4",
     "laam2",
     "laam5",
-    "wun6",
-    "jyun4"
+    "wun6"
   ],
   "嚂": [
     "laam4",
@@ -3783,8 +3783,8 @@
     "laam4"
   ],
   "礛": [
-    "laam4",
-    "gaam1"
+    "gaam1",
+    "laam4"
   ],
   "籃": [
     "laam4"
@@ -3809,19 +3809,19 @@
     "laam5"
   ],
   "檻": [
-    "laam6",
-    "haam5"
+    "haam5",
+    "laam6"
   ],
   "濫": [
-    "laam6",
-    "haam5"
+    "haam5",
+    "laam6"
   ],
   "爁": [
     "laam6"
   ],
   "糮": [
-    "laam6",
-    "haam5"
+    "haam5",
+    "laam6"
   ],
   "纜": [
     "laam6"
@@ -3830,8 +3830,8 @@
     "laam6"
   ],
   "轞": [
-    "laam6",
-    "haam5"
+    "haam5",
+    "laam6"
   ],
   "尷": [
     "gaam1"
@@ -3872,8 +3872,8 @@
     "ngaam4"
   ],
   "啽": [
-    "ngaam4",
     "am2",
+    "ngaam4",
     "ngam4"
   ],
   "壧": [
@@ -3886,28 +3886,28 @@
     "ngaam4"
   ],
   "巖": [
-    "ngaam4",
-    "jim4"
+    "jim4",
+    "ngaam4"
   ],
   "癌": [
     "ngaam4"
   ],
   "碞": [
-    "ngaam4",
-    "jam4"
+    "jam4",
+    "ngaam4"
   ],
   "礹": [
-    "ngaam4",
-    "jim5"
+    "jim5",
+    "ngaam4"
   ],
   "羬": [
-    "ngaam4",
     "haam4",
-    "kim4"
+    "kim4",
+    "ngaam4"
   ],
   "麙": [
-    "ngaam4",
-    "haam4"
+    "haam4",
+    "ngaam4"
   ],
   "嵌": [
     "haam1",
@@ -3954,21 +3954,21 @@
     "hip3"
   ],
   "堿": [
-    "haam4",
     "gaan2",
+    "haam4",
     "ham3"
   ],
   "涵": [
     "haam4"
   ],
   "𤯌": [
-    "haam4",
-    "gam1"
+    "gam1",
+    "haam4"
   ],
   "肣": [
     "haam4",
-    "kam4",
-    "ham5"
+    "ham5",
+    "kam4"
   ],
   "諴": [
     "haam4"
@@ -3999,15 +3999,15 @@
     "ham6"
   ],
   "噆": [
+    "cam2",
     "zaam1",
     "zaap3",
-    "zam2",
-    "cam2"
+    "zam2"
   ],
   "篸": [
-    "zaam1",
     "caam2",
-    "cam1"
+    "cam1",
+    "zaam1"
   ],
   "簪": [
     "zaam1"
@@ -4023,9 +4023,9 @@
     "zim3"
   ],
   "詀": [
+    "cip3",
     "zaam1",
-    "zim1",
-    "cip3"
+    "zim1"
   ],
   "鐕": [
     "zaam1"
@@ -4034,15 +4034,15 @@
     "zaam2"
   ],
   "嶄": [
-    "zaam2",
-    "zaam3",
     "caam4",
-    "caam5"
+    "caam5",
+    "zaam2",
+    "zaam3"
   ],
   "怎": [
+    "dim2",
     "zaam2",
-    "zam2",
-    "dim2"
+    "zam2"
   ],
   "斬": [
     "zaam2"
@@ -4062,16 +4062,16 @@
     "zaam3"
   ],
   "儳": [
-    "zaam6",
     "caam3",
-    "caam4"
+    "caam4",
+    "zaam6"
   ],
   "暫": [
     "zaam6"
   ],
   "瀺": [
-    "zaam6",
-    "caam4"
+    "caam4",
+    "zaam6"
   ],
   "站": [
     "zaam6"
@@ -4084,8 +4084,8 @@
   ],
   "參": [
     "caam1",
-    "saam1",
     "cam1",
+    "saam1",
     "sam1"
   ],
   "嵾": [
@@ -4094,9 +4094,9 @@
   ],
   "摻": [
     "caam1",
+    "cam3",
     "saam1",
-    "saam2",
-    "cam3"
+    "saam2"
   ],
   "攙": [
     "caam1"
@@ -4214,8 +4214,8 @@
     "saam1"
   ],
   "攕": [
-    "saam1",
-    "cim1"
+    "cim1",
+    "saam1"
   ],
   "毿": [
     "saam1"
@@ -4311,8 +4311,8 @@
   ],
   "頒": [
     "baan1",
-    "paan1",
-    "fan4"
+    "fan4",
+    "paan1"
   ],
   "鳻": [
     "baan1",
@@ -4374,19 +4374,19 @@
     "paan1"
   ],
   "砏": [
-    "paan1",
-    "fan1"
+    "fan1",
+    "paan1"
   ],
   "盼": [
     "paan3"
   ],
   "盻": [
-    "paan3",
-    "hai6"
+    "hai6",
+    "paan3"
   ],
   "袢": [
-    "paan3",
-    "faan4"
+    "faan4",
+    "paan3"
   ],
   "襻": [
     "paan3"
@@ -4434,8 +4434,8 @@
     "maan6"
   ],
   "娩": [
-    "maan5",
     "faan3",
+    "maan5",
     "min5"
   ],
   "晚": [
@@ -4455,8 +4455,8 @@
     "maan5"
   ],
   "万": [
-    "maan6",
     "maak6",
+    "maan6",
     "mak6"
   ],
   "僈": [
@@ -4487,8 +4487,8 @@
     "maan6"
   ],
   "萬": [
-    "maan6",
-    "maak6"
+    "maak6",
+    "maan6"
   ],
   "蟃": [
     "maan6"
@@ -4527,8 +4527,8 @@
     "fun1"
   ],
   "番": [
-    "faan1",
     "bo1",
+    "faan1",
     "po4",
     "pun1"
   ],
@@ -4543,9 +4543,9 @@
     "faan1"
   ],
   "蕃": [
+    "bo3",
     "faan1",
-    "faan4",
-    "bo3"
+    "faan4"
   ],
   "轓": [
     "faan1"
@@ -4634,8 +4634,8 @@
     "faan6"
   ],
   "笲": [
-    "faan4",
-    "bin6"
+    "bin6",
+    "faan4"
   ],
   "籵": [
     "faan4"
@@ -4713,8 +4713,8 @@
     "faan6"
   ],
   "閞": [
-    "faan6",
-    "bin6"
+    "bin6",
+    "faan6"
   ],
   "丹": [
     "daan1"
@@ -4737,8 +4737,8 @@
   "癉": [
     "daan1",
     "daan3",
-    "taan1",
-    "do3"
+    "do3",
+    "taan1"
   ],
   "砃": [
     "daan1"
@@ -4770,9 +4770,9 @@
     "daan6"
   ],
   "繵": [
+    "cin4",
     "daan3",
-    "zin6",
-    "cin4"
+    "zin6"
   ],
   "觛": [
     "daan3",
@@ -4795,9 +4795,9 @@
   ],
   "亶": [
     "daan6",
-    "taan2",
     "sin4",
-    "sin6"
+    "sin6",
+    "taan2"
   ],
   "但": [
     "daan6"
@@ -4827,15 +4827,15 @@
     "sin4"
   ],
   "燀": [
+    "cin2",
     "daan6",
-    "zin2",
-    "cin2"
+    "zin2"
   ],
   "膻": [
     "daan6",
     "saan1",
-    "zin1",
-    "sin1"
+    "sin1",
+    "zin1"
   ],
   "蜑": [
     "daan6"
@@ -4849,9 +4849,9 @@
     "taan3"
   ],
   "嘽": [
+    "cin2",
     "taan1",
-    "zin2",
-    "cin2"
+    "zin2"
   ],
   "坍": [
     "taan1"
@@ -4860,8 +4860,8 @@
     "taan1"
   ],
   "潬": [
-    "taan1",
-    "sin5"
+    "sin5",
+    "taan1"
   ],
   "灘": [
     "taan1"
@@ -4881,20 +4881,20 @@
     "taan1"
   ],
   "儃": [
+    "sin4",
     "taan2",
-    "zin1",
-    "sin4"
+    "zin1"
   ],
   "呾": [
-    "taan2",
-    "daat3"
+    "daat3",
+    "taan2"
   ],
   "坦": [
     "taan2"
   ],
   "妲": [
-    "taan2",
-    "daat3"
+    "daat3",
+    "taan2"
   ],
   "忐": [
     "taan2"
@@ -4924,8 +4924,8 @@
     "taan4"
   ],
   "榃": [
-    "taan4",
-    "dam4"
+    "dam4",
+    "taan4"
   ],
   "檀": [
     "taan4"
@@ -4939,8 +4939,8 @@
     "zin1"
   ],
   "鷤": [
-    "taan4",
     "dai6",
+    "taan4",
     "tai4"
   ],
   "赧": [
@@ -4956,17 +4956,17 @@
     "no4"
   ],
   "嫨": [
-    "naan5",
-    "hon1"
+    "hon1",
+    "naan5"
   ],
   "戁": [
     "naan5"
   ],
   "熯": [
-    "naan5",
-    "jin5",
     "hon2",
-    "hon3"
+    "hon3",
+    "jin5",
+    "naan5"
   ],
   "躝": [
     "laan1",
@@ -4979,8 +4979,8 @@
     "laan4"
   ],
   "暕": [
-    "laan4",
-    "gaan2"
+    "gaan2",
+    "laan4"
   ],
   "欄": [
     "laan4"
@@ -5117,9 +5117,9 @@
     "ngaan4"
   ],
   "研": [
-    "ngaan4",
     "jin4",
-    "jin6"
+    "jin6",
+    "ngaan4"
   ],
   "虤": [
     "ngaan4"
@@ -5131,8 +5131,8 @@
     "ngaan5"
   ],
   "齴": [
-    "ngaan5",
-    "jin6"
+    "jin6",
+    "ngaan5"
   ],
   "贗": [
     "ngaan6"
@@ -5144,8 +5144,8 @@
     "ngaan6"
   ],
   "婜": [
-    "haan1",
-    "gan2"
+    "gan2",
+    "haan1"
   ],
   "慳": [
     "haan1"
@@ -5197,27 +5197,27 @@
     "haan6"
   ],
   "骭": [
-    "haan6",
-    "gon3"
+    "gon3",
+    "haan6"
   ],
   "瘝": [
     "gwaan1"
   ],
   "矜": [
+    "ging1",
+    "ging6",
     "gwaan1",
     "kam4",
-    "kan4",
-    "ging1",
-    "ging6"
+    "kan4"
   ],
   "綸": [
     "gwaan1",
     "leon4"
   ],
   "莞": [
-    "gwaan1",
     "gun1",
     "gun2",
+    "gwaan1",
     "wun1",
     "wun2",
     "wun5"
@@ -5235,8 +5235,8 @@
     "gwaan3"
   ],
   "串": [
-    "gwaan3",
-    "cyun3"
+    "cyun3",
+    "gwaan3"
   ],
   "慣": [
     "gwaan3"
@@ -5249,8 +5249,8 @@
     "waan6"
   ],
   "貫": [
-    "gwaan3",
-    "gun3"
+    "gun3",
+    "gwaan3"
   ],
   "彎": [
     "waan1"
@@ -5263,21 +5263,21 @@
     "waan4"
   ],
   "睕": [
-    "waan1",
-    "jyun2"
+    "jyun2",
+    "waan1"
   ],
   "綰": [
     "waan2",
     "waan5"
   ],
   "圜": [
-    "waan4",
-    "jyun4"
+    "jyun4",
+    "waan4"
   ],
   "嬛": [
-    "waan4",
+    "hyun1",
     "king4",
-    "hyun1"
+    "waan4"
   ],
   "㝨": [
     "waan4"
@@ -5286,9 +5286,9 @@
     "waan4"
   ],
   "抏": [
+    "jyun4",
     "waan4",
-    "wun6",
-    "jyun4"
+    "wun6"
   ],
   "澴": [
     "waan4"
@@ -5301,9 +5301,9 @@
     "waan4"
   ],
   "繯": [
+    "jyun6",
     "waan4",
-    "waan6",
-    "jyun6"
+    "waan6"
   ],
   "翫": [
     "waan4",
@@ -5314,12 +5314,12 @@
     "waan6"
   ],
   "還": [
-    "waan4",
-    "syun4"
+    "syun4",
+    "waan4"
   ],
   "郇": [
-    "waan4",
-    "seon1"
+    "seon1",
+    "waan4"
   ],
   "鍰": [
     "waan4"
@@ -5371,9 +5371,9 @@
     "wun6"
   ],
   "眩": [
-    "waan6",
     "jyun4",
-    "jyun6"
+    "jyun6",
+    "waan6"
   ],
   "瞣": [
     "waan6"
@@ -5389,11 +5389,11 @@
     "zyun2"
   ],
   "攢": [
+    "cyun4",
     "zaan2",
     "zaan6",
     "zyun1",
-    "zyun6",
-    "cyun4"
+    "zyun6"
   ],
   "棧": [
     "zaan2",
@@ -5413,8 +5413,8 @@
     "zaan2"
   ],
   "驏": [
-    "zaan2",
-    "can2"
+    "can2",
+    "zaan2"
   ],
   "囋": [
     "zaan3",
@@ -5438,8 +5438,8 @@
     "zaan3"
   ],
   "酇": [
-    "zaan3",
     "co4",
+    "zaan3",
     "zyun2"
   ],
   "饡": [
@@ -5451,13 +5451,13 @@
     "zyun1"
   ],
   "僝": [
-    "zaan6",
-    "saan4"
+    "saan4",
+    "zaan6"
   ],
   "孱": [
-    "zaan6",
     "caan3",
-    "saan4"
+    "saan4",
+    "zaan6"
   ],
   "揝": [
     "zaan6",
@@ -5471,9 +5471,9 @@
     "zaan6"
   ],
   "篹": [
+    "syun2",
     "zaan6",
-    "zyun2",
-    "syun2"
+    "zyun2"
   ],
   "綻": [
     "zaan6"
@@ -5494,8 +5494,8 @@
     "zaan6"
   ],
   "饌": [
-    "zaan6",
-    "syun2"
+    "syun2",
+    "zaan6"
   ],
   "䉵": [
     "zaan6"
@@ -5554,9 +5554,9 @@
     "saan1"
   ],
   "埏": [
+    "jin4",
     "saan1",
-    "sin1",
-    "jin4"
+    "sin1"
   ],
   "姍": [
     "saan1",
@@ -5566,17 +5566,17 @@
     "saan1"
   ],
   "拴": [
-    "saan1",
-    "cyun4"
+    "cyun4",
+    "saan1"
   ],
   "挻": [
     "saan1",
     "sin1"
   ],
   "柵": [
+    "caak3",
     "saan1",
-    "zaap3",
-    "caak3"
+    "zaap3"
   ],
   "栓": [
     "saan1"
@@ -5595,8 +5595,8 @@
   ],
   "羶": [
     "saan1",
-    "zin1",
-    "sin1"
+    "sin1",
+    "zin1"
   ],
   "舢": [
     "saan1"
@@ -5621,8 +5621,8 @@
     "saan3"
   ],
   "涮": [
-    "saan3",
     "hyun1",
+    "saan3",
     "syun3"
   ],
   "疝": [
@@ -5649,14 +5649,14 @@
   ],
   "罃": [
     "aang1",
-    "ngaang1",
     "ang1",
+    "ngaang1",
     "ngang1"
   ],
   "罌": [
     "aang1",
-    "ngaang1",
     "ang1",
+    "ngaang1",
     "ngang1"
   ],
   "唪": [
@@ -5667,8 +5667,8 @@
   "堋": [
     "baang6",
     "bang1",
-    "pang4",
-    "bing3"
+    "bing3",
+    "pang4"
   ],
   "塴": [
     "baang6",
@@ -5677,8 +5677,8 @@
   ],
   "繃": [
     "baang6",
-    "maang1",
     "bang1",
+    "maang1",
     "mang2"
   ],
   "蹦": [
@@ -5686,9 +5686,9 @@
     "bang1"
   ],
   "亨": [
-    "paang1",
     "hang1",
-    "hoeng2"
+    "hoeng2",
+    "paang1"
   ],
   "伻": [
     "paang1",
@@ -5743,8 +5743,8 @@
     "pang4"
   ],
   "祊": [
-    "paang1",
-    "bang1"
+    "bang1",
+    "paang1"
   ],
   "軯": [
     "paang1"
@@ -5757,8 +5757,8 @@
     "pei4"
   ],
   "彭": [
-    "paang4",
     "bong1",
+    "paang4",
     "pong4"
   ],
   "憉": [
@@ -5787,16 +5787,16 @@
     "paang5"
   ],
   "棓": [
+    "bui6",
     "paang5",
     "pau2",
-    "bui6",
     "pui4",
     "pui5"
   ],
   "絣": [
-    "maang1",
     "bang1",
-    "bing3"
+    "bing3",
+    "maang1"
   ],
   "氓": [
     "maang4",
@@ -5885,15 +5885,15 @@
     "haang1"
   ],
   "夯": [
-    "haang1",
-    "ban6"
+    "ban6",
+    "haang1"
   ],
   "錓": [
     "haang1"
   ],
   "阬": [
-    "haang1",
     "gon1",
+    "haang1",
     "kong3"
   ],
   "桁": [
@@ -5910,8 +5910,8 @@
     "hong6"
   ],
   "梗": [
-    "gwaang2",
-    "gang2"
+    "gang2",
+    "gwaang2"
   ],
   "俇": [
     "gwaang6",
@@ -5919,28 +5919,28 @@
   ],
   "誆": [
     "gwaang6",
-    "hong1",
-    "gwong6"
+    "gwong6",
+    "hong1"
   ],
   "逛": [
     "gwaang6",
     "kwaang3"
   ],
   "框": [
-    "kwaang1",
-    "hong1"
+    "hong1",
+    "kwaang1"
   ],
   "眶": [
-    "kwaang1",
-    "hong1"
+    "hong1",
+    "kwaang1"
   ],
   "筐": [
-    "kwaang1",
-    "hong1"
+    "hong1",
+    "kwaang1"
   ],
   "迋": [
-    "kwaang3",
     "gwong3",
+    "kwaang3",
     "wong6"
   ],
   "喤": [
@@ -5952,13 +5952,13 @@
     "wing4"
   ],
   "橫": [
+    "gwong1",
     "waang4",
-    "waang6",
-    "gwong1"
+    "waang6"
   ],
   "衡": [
-    "waang4",
-    "hang4"
+    "hang4",
+    "waang4"
   ],
   "諻": [
     "waang4"
@@ -5967,22 +5967,22 @@
     "waang4"
   ],
   "韹": [
-    "waang4",
     "jing1",
+    "waang4",
     "wong4"
   ],
   "黌": [
-    "waang4",
-    "hung4"
+    "hung4",
+    "waang4"
   ],
   "丁": [
+    "ding1",
     "zaang1",
-    "zang1",
-    "ding1"
+    "zang1"
   ],
   "崢": [
-    "zaang1",
     "caang4",
+    "zaang1",
     "zang1"
   ],
   "掙": [
@@ -5995,8 +5995,8 @@
     "zang1"
   ],
   "爭": [
-    "zaang1",
     "caang1",
+    "zaang1",
     "zang1"
   ],
   "猙": [
@@ -6004,8 +6004,8 @@
     "zang1"
   ],
   "琤": [
-    "zaang1",
     "caang1",
+    "zaang1",
     "zang1"
   ],
   "睜": [
@@ -6023,20 +6023,20 @@
     "zang3"
   ],
   "錚": [
-    "zaang1",
     "caang1",
+    "zaang1",
     "zang1"
   ],
   "鯖": [
+    "cing1",
     "zaang1",
-    "zing1",
-    "cing1"
+    "zing1"
   ],
   "倀": [
     "caang1",
     "caang4",
-    "zan3",
-    "coeng1"
+    "coeng1",
+    "zan3"
   ],
   "傖": [
     "caang1",
@@ -6045,8 +6045,8 @@
   ],
   "噌": [
     "caang1",
-    "zang1",
-    "cang1"
+    "cang1",
+    "zang1"
   ],
   "撐": [
     "caang1"
@@ -6110,9 +6110,9 @@
   ],
   "瞪": [
     "caang4",
+    "cing4",
     "dang1",
-    "dang6",
-    "cing4"
+    "dang6"
   ],
   "鍠": [
     "caang4",
@@ -6168,8 +6168,8 @@
   ],
   "押": [
     "aap3",
-    "ngaap3",
     "aat3",
+    "ngaap3",
     "ngaat3"
   ],
   "鴨": [
@@ -6179,8 +6179,8 @@
   "嗒": [
     "daap1",
     "daap3",
-    "taap3",
-    "daat6"
+    "daat6",
+    "taap3"
   ],
   "匒": [
     "daap3"
@@ -6290,8 +6290,8 @@
   ],
   "拓": [
     "taap3",
-    "zek3",
-    "tok3"
+    "tok3",
+    "zek3"
   ],
   "搨": [
     "taap3"
@@ -6303,10 +6303,10 @@
     "taap3"
   ],
   "漯": [
-    "taap3",
+    "leoi5",
     "lo4",
     "lok3",
-    "leoi5"
+    "taap3"
   ],
   "遢": [
     "taap3",
@@ -6316,12 +6316,12 @@
     "taap3"
   ],
   "鎑": [
-    "taap3",
-    "jip6"
+    "jip6",
+    "taap3"
   ],
   "鑉": [
-    "taap3",
-    "hap6"
+    "hap6",
+    "taap3"
   ],
   "闒": [
     "taap3"
@@ -6408,10 +6408,10 @@
     "lip6"
   ],
   "錯": [
-    "laap6",
     "co3",
+    "cok3",
     "cou3",
-    "cok3"
+    "laap6"
   ],
   "鑞": [
     "laap6"
@@ -6423,8 +6423,8 @@
   "嗑": [
     "gaap3",
     "haap3",
-    "ngap1",
-    "hap6"
+    "hap6",
+    "ngap1"
   ],
   "夾": [
     "gaap3",
@@ -6464,8 +6464,8 @@
     "gaap3"
   ],
   "筴": [
-    "gaap3",
-    "caak3"
+    "caak3",
+    "gaap3"
   ],
   "胛": [
     "gaap3"
@@ -6486,8 +6486,8 @@
   ],
   "袷": [
     "gaap3",
-    "hap1",
-    "gip3"
+    "gip3",
+    "hap1"
   ],
   "裌": [
     "gaap3"
@@ -6505,8 +6505,8 @@
     "gaap3"
   ],
   "革": [
-    "gaap3",
     "gaak3",
+    "gaap3",
     "gik1"
   ],
   "鞈": [
@@ -6551,8 +6551,8 @@
     "hap6"
   ],
   "洽": [
-    "haap6",
     "ap1",
+    "haap6",
     "hap1",
     "hap6"
   ],
@@ -6560,8 +6560,8 @@
     "haap6"
   ],
   "狹": [
-    "haap6",
-    "gip6"
+    "gip6",
+    "haap6"
   ],
   "珨": [
     "haap6",
@@ -6572,20 +6572,20 @@
     "hap6"
   ],
   "硤": [
-    "haap6",
-    "gip3"
+    "gip3",
+    "haap6"
   ],
   "祫": [
     "haap6"
   ],
   "篋": [
-    "haap6",
     "gip2",
+    "haap6",
     "hip3"
   ],
   "陜": [
-    "haap6",
-    "gip6"
+    "gip6",
+    "haap6"
   ],
   "偛": [
     "zaap3"
@@ -6597,24 +6597,24 @@
     "zaap3"
   ],
   "唼": [
-    "zaap3",
     "cip3",
+    "zaap3",
     "zit6"
   ],
   "啑": [
-    "zaap3",
-    "saap3",
     "dip6",
+    "saap3",
+    "zaap3",
     "zit6"
   ],
   "噈": [
-    "zaap3",
     "hap6",
+    "zaap3",
     "zuk1"
   ],
   "帀": [
-    "zaap3",
-    "si1"
+    "si1",
+    "zaap3"
   ],
   "扎": [
     "zaap3",
@@ -6639,9 +6639,9 @@
     "zaat3"
   ],
   "褶": [
+    "dip6",
     "zaap3",
     "zaap6",
-    "dip6",
     "zip3"
   ],
   "譗": [
@@ -6651,16 +6651,16 @@
     "zaap3"
   ],
   "什": [
-    "zaap6",
     "sam6",
-    "sap6"
+    "sap6",
+    "zaap6"
   ],
   "𠓛": [
     "zaap6"
   ],
   "喋": [
-    "zaap6",
-    "dip6"
+    "dip6",
+    "zaap6"
   ],
   "嶍": [
     "zaap6"
@@ -6678,28 +6678,28 @@
   "蟄": [
     "zaap6",
     "zat6",
-    "zit3",
-    "zik6"
+    "zik6",
+    "zit3"
   ],
   "襲": [
     "zaap6",
     "zap6"
   ],
   "謵": [
-    "zaap6",
-    "cip3"
+    "cip3",
+    "zaap6"
   ],
   "鈒": [
-    "zaap6",
-    "kap1"
+    "kap1",
+    "zaap6"
   ],
   "鍘": [
     "zaap6",
     "zaat3"
   ],
   "鏶": [
-    "zaap6",
-    "cip3"
+    "cip3",
+    "zaap6"
   ],
   "閘": [
     "zaap6"
@@ -6721,20 +6721,20 @@
     "zaap6"
   ],
   "霅": [
-    "zaap6",
     "saap3",
+    "zaap6",
     "zip3"
   ],
   "鞢": [
-    "zaap6",
-    "sip3"
+    "sip3",
+    "zaap6"
   ],
   "飁": [
     "zaap6"
   ],
   "騽": [
-    "zaap6",
-    "jap6"
+    "jap6",
+    "zaap6"
   ],
   "鰼": [
     "zaap6"
@@ -6760,24 +6760,24 @@
     "sip3"
   ],
   "圾": [
-    "saap3",
     "kap1",
-    "ngap6"
+    "ngap6",
+    "saap3"
   ],
   "歃": [
     "saap3",
     "sip3"
   ],
   "澀": [
+    "gip3",
     "saap3",
     "sap1",
-    "gip3",
     "sik1"
   ],
   "濇": [
+    "gip3",
     "saap3",
     "sap1",
-    "gip3",
     "sik1"
   ],
   "箑": [
@@ -6817,15 +6817,15 @@
     "saap3"
   ],
   "熠": [
-    "saap6",
     "jap1",
-    "jap6"
+    "jap6",
+    "saap6"
   ],
   "堨": [
     "aat3",
-    "ngaat3",
     "oi2",
     "oi3",
+    "ngaat3",
     "ngoi2",
     "ngoi3"
   ],
@@ -6849,22 +6849,22 @@
   ],
   "猒": [
     "aat3",
-    "ngaat3",
     "jim1",
     "jim2",
-    "jim3"
+    "jim3",
+    "ngaat3"
   ],
   "猰": [
     "aat3",
+    "jaak3",
     "ngaat3",
-    "zaat3",
-    "jaak3"
+    "zaat3"
   ],
   "胺": [
     "aat3",
-    "ngaat3",
     "on1",
     "on3",
+    "ngaat3",
     "ngon1"
   ],
   "軋": [
@@ -6875,13 +6875,13 @@
   ],
   "遏": [
     "aat3",
-    "ngaat3",
-    "kit3"
+    "kit3",
+    "ngaat3"
   ],
   "閼": [
     "aat3",
-    "ngaat3",
-    "jin1"
+    "jin1",
+    "ngaat3"
   ],
   "頞": [
     "aat3",
@@ -6903,8 +6903,8 @@
   "柭": [
     "baat3",
     "bat6",
-    "fat1",
-    "but6"
+    "but6",
+    "fat1"
   ],
   "茇": [
     "baat6",
@@ -6940,10 +6940,10 @@
     "fat3"
   ],
   "發": [
-    "faat3",
-    "fat3",
     "but3",
-    "but6"
+    "but6",
+    "faat3",
+    "fat3"
   ],
   "砝": [
     "faat3",
@@ -6961,9 +6961,9 @@
   ],
   "磍": [
     "daat3",
+    "git3",
     "hat1",
-    "hat6",
-    "git3"
+    "hat6"
   ],
   "笪": [
     "daat3"
@@ -7000,8 +7000,8 @@
     "taat3"
   ],
   "獺": [
-    "taat3",
-    "caat3"
+    "caat3",
+    "taat3"
   ],
   "羍": [
     "taat3"
@@ -7046,20 +7046,20 @@
     "got3"
   ],
   "咭": [
-    "kaat1",
     "gat1",
-    "kat1",
-    "hat1"
+    "hat1",
+    "kaat1",
+    "kat1"
   ],
   "嚙": [
+    "jit6",
     "ngaat6",
-    "ngit6",
-    "jit6"
+    "ngit6"
   ],
   "囓": [
+    "jit6",
     "ngaat6",
-    "ngit6",
-    "jit6"
+    "ngit6"
   ],
   "扤": [
     "ngaat6",
@@ -7072,14 +7072,14 @@
     "ngaat6"
   ],
   "齕": [
-    "ngaat6",
-    "hat6"
+    "hat6",
+    "ngaat6"
   ],
   "齧": [
-    "ngaat6",
-    "ngit6",
     "jit3",
-    "jit6"
+    "jit6",
+    "ngaat6",
+    "ngit6"
   ],
   "刮": [
     "gwaat3"
@@ -7103,22 +7103,22 @@
     "gwaat3"
   ],
   "斡": [
-    "waat3",
-    "gun2"
+    "gun2",
+    "waat3"
   ],
   "濣": [
     "waat3"
   ],
   "焥": [
-    "waat3",
-    "oi3"
+    "oi3",
+    "waat3"
   ],
   "穵": [
     "waat3"
   ],
   "滑": [
-    "waat6",
-    "gwat1"
+    "gwat1",
+    "waat6"
   ],
   "猾": [
     "waat6"
@@ -7127,10 +7127,10 @@
     "waat6"
   ],
   "黠": [
-    "waat6",
     "hat1",
     "hat6",
-    "kit3"
+    "kit3",
+    "waat6"
   ],
   "哳": [
     "zaat3"
@@ -7142,8 +7142,8 @@
     "zaat3"
   ],
   "窫": [
-    "zaat3",
-    "jaak3"
+    "jaak3",
+    "zaat3"
   ],
   "蚻": [
     "zaat3"
@@ -7210,8 +7210,8 @@
     "saat3"
   ],
   "蔡": [
-    "saat3",
-    "coi3"
+    "coi3",
+    "saat3"
   ],
   "薩": [
     "saat3"
@@ -7243,8 +7243,8 @@
   ],
   "軶": [
     "aak1",
-    "ngaak1",
-    "ak1"
+    "ak1",
+    "ngaak1"
   ],
   "迫": [
     "baak1",
@@ -7267,20 +7267,20 @@
   ],
   "櫱": [
     "baak3",
-    "paak3",
     "jip6",
-    "jit6"
+    "jit6",
+    "paak3"
   ],
   "泊": [
     "baak3",
-    "paak3",
-    "bok6"
+    "bok6",
+    "paak3"
   ],
   "濼": [
     "baak3",
     "bok6",
-    "pok3",
-    "lok6"
+    "lok6",
+    "pok3"
   ],
   "百": [
     "baak3",
@@ -7296,8 +7296,8 @@
   "舶": [
     "baak3",
     "baak6",
-    "paak3",
-    "bok6"
+    "bok6",
+    "paak3"
   ],
   "薜": [
     "baak3",
@@ -7335,9 +7335,9 @@
     "baak6"
   ],
   "殕": [
+    "ak1",
     "baak6",
     "fau2",
-    "ak1",
     "fu2"
   ],
   "白": [
@@ -7361,8 +7361,8 @@
     "paak3"
   ],
   "汃": [
-    "paak3",
-    "ban1"
+    "ban1",
+    "paak3"
   ],
   "珀": [
     "paak3"
@@ -7375,8 +7375,8 @@
     "paak3"
   ],
   "魄": [
-    "paak3",
     "bok6",
+    "paak3",
     "tok3"
   ],
   "墨": [
@@ -7392,10 +7392,10 @@
     "mak6"
   ],
   "貉": [
-    "maak6",
-    "mak6",
+    "hok6",
     "lok3",
-    "hok6"
+    "maak6",
+    "mak6"
   ],
   "貊": [
     "maak6",
@@ -7469,8 +7469,8 @@
   ],
   "胳": [
     "gaak3",
-    "lok3",
-    "gok3"
+    "gok3",
+    "lok3"
   ],
   "膈": [
     "gaak3"
@@ -7504,23 +7504,23 @@
   ],
   "鮥": [
     "gaak3",
-    "lok6",
-    "gok3"
+    "gok3",
+    "lok6"
   ],
   "鵅": [
     "gaak3",
     "lok6"
   ],
   "緙": [
+    "hak1",
     "kaak1",
-    "kaak3",
-    "hak1"
+    "kaak3"
   ],
   "眲": [
-    "ngaak1",
-    "ngak1",
     "nei6",
-    "nik6"
+    "nik6",
+    "ngaak1",
+    "ngak1"
   ],
   "詻": [
     "ngaak3",
@@ -7530,8 +7530,8 @@
     "ngaak6"
   ],
   "逆": [
-    "ngaak6",
-    "jik6"
+    "jik6",
+    "ngaak6"
   ],
   "額": [
     "ngaak6"
@@ -7564,8 +7564,8 @@
     "hak1"
   ],
   "唬": [
-    "haak3",
-    "fu2"
+    "fu2",
+    "haak3"
   ],
   "客": [
     "haak3"
@@ -7581,8 +7581,8 @@
     "waak6"
   ],
   "嚄": [
-    "waak6",
     "o2",
+    "waak6",
     "wok6"
   ],
   "嫿": [
@@ -7595,10 +7595,11 @@
     "waak6"
   ],
   "捇": [
-    "waak6",
-    "cik3"
+    "cik3",
+    "waak6"
   ],
   "掝": [
+    "kwik1",
     "waak6"
   ],
   "湱": [
@@ -7645,9 +7646,9 @@
     "zaak6"
   ],
   "磧": [
+    "cik1",
     "zaak3",
-    "zik1",
-    "cik1"
+    "zik1"
   ],
   "窄": [
     "zaak3"
@@ -7676,8 +7677,8 @@
     "zok3"
   ],
   "乇": [
-    "zaak6",
-    "tok3"
+    "tok3",
+    "zaak6"
   ],
   "宅": [
     "zaak6"
@@ -7692,13 +7693,13 @@
     "zaak6"
   ],
   "擿": [
+    "tik1",
     "zaak6",
-    "zek3",
-    "tik1"
+    "zek3"
   ],
   "檡": [
-    "zaak6",
-    "tou4"
+    "tou4",
+    "zaak6"
   ],
   "澤": [
     "zaak6"
@@ -7707,17 +7708,17 @@
     "zaak6"
   ],
   "睪": [
-    "zaak6",
+    "gou1",
     "jik6",
-    "gou1"
+    "zaak6"
   ],
   "矠": [
-    "zaak6",
-    "caak3"
+    "caak3",
+    "zaak6"
   ],
   "翟": [
-    "zaak6",
-    "dik6"
+    "dik6",
+    "zaak6"
   ],
   "葃": [
     "zaak6",
@@ -7728,15 +7729,15 @@
     "zaak6"
   ],
   "襗": [
-    "zaak6",
-    "dok6"
+    "dok6",
+    "zaak6"
   ],
   "謫": [
     "zaak6"
   ],
   "蹢": [
-    "zaak6",
     "dik1",
+    "zaak6",
     "zik6"
   ],
   "躑": [
@@ -7744,9 +7745,9 @@
     "zik6"
   ],
   "適": [
-    "zaak6",
     "dik1",
-    "sik1"
+    "sik1",
+    "zaak6"
   ],
   "雿": [
     "zaak6"
@@ -7779,8 +7780,8 @@
   ],
   "拺": [
     "caak3",
-    "saak3",
-    "cuk1"
+    "cuk1",
+    "saak3"
   ],
   "策": [
     "caak3"
@@ -7806,8 +7807,8 @@
     "sou3"
   ],
   "摵": [
-    "saak3",
     "cik1",
+    "saak3",
     "sik1"
   ],
   "栜": [
@@ -7819,35 +7820,35 @@
     "suk3"
   ],
   "吃": [
-    "jaak3",
     "gat1",
     "hat1",
-    "hek3"
+    "hek3",
+    "jaak3"
   ],
   "喫": [
-    "jaak3",
     "hat1",
-    "hek3"
+    "hek3",
+    "jaak3"
   ],
   "繄": [
     "ai1",
-    "ngai1",
-    "ji1"
+    "ji1",
+    "ngai1"
   ],
   "鷖": [
     "ai1",
-    "ngai1",
-    "ji1"
+    "ji1",
+    "ngai1"
   ],
   "嫕": [
     "ai3",
-    "ngai3",
-    "ji3"
+    "ji3",
+    "ngai3"
   ],
   "屭": [
     "ai3",
-    "ngai3",
-    "hei3"
+    "hei3",
+    "ngai3"
   ],
   "曀": [
     "ai3",
@@ -7855,18 +7856,18 @@
   ],
   "殪": [
     "ai3",
-    "ngai3",
-    "ji3"
+    "ji3",
+    "ngai3"
   ],
   "瘞": [
     "ai3",
-    "ngai3",
-    "ji3"
+    "ji3",
+    "ngai3"
   ],
   "瘱": [
     "ai3",
-    "ngai3",
-    "ji3"
+    "ji3",
+    "ngai3"
   ],
   "縊": [
     "ai3",
@@ -7874,16 +7875,16 @@
   ],
   "翳": [
     "ai3",
-    "ngai3",
-    "ji1"
+    "ji1",
+    "ngai3"
   ],
   "蘙": [
     "ai3"
   ],
   "豷": [
     "ai3",
-    "ngai3",
-    "ji3"
+    "ji3",
+    "ngai3"
   ],
   "贀": [
     "ai3"
@@ -7918,8 +7919,8 @@
   ],
   "埤": [
     "bai3",
-    "pai3",
     "bei1",
+    "pai3",
     "pei4"
   ],
   "嬖": [
@@ -7999,8 +8000,8 @@
     "pai1"
   ],
   "俾": [
-    "pai3",
-    "bei2"
+    "bei2",
+    "pai3"
   ],
   "睥": [
     "pai3",
@@ -8074,18 +8075,18 @@
     "mai5"
   ],
   "蛘": [
-    "mai5",
     "joeng4",
-    "joeng5"
+    "joeng5",
+    "mai5"
   ],
   "蝆": [
-    "mai5",
-    "joeng4"
+    "joeng4",
+    "mai5"
   ],
   "辟": [
-    "mai5",
     "bei6",
     "bik1",
+    "mai5",
     "pik1"
   ],
   "銤": [
@@ -8098,20 +8099,20 @@
     "fai1"
   ],
   "墮": [
-    "fai1",
-    "do6"
+    "do6",
+    "fai1"
   ],
   "墯": [
-    "fai1",
-    "do6"
+    "do6",
+    "fai1"
   ],
   "徽": [
     "fai1"
   ],
   "戲": [
     "fai1",
-    "hei3",
-    "fu1"
+    "fu1",
+    "hei3"
   ],
   "揮": [
     "fai1"
@@ -8200,9 +8201,9 @@
     "fai3"
   ],
   "怫": [
+    "bui6",
     "fai3",
-    "fat6",
-    "bui6"
+    "fat6"
   ],
   "昲": [
     "fai3"
@@ -8237,17 +8238,17 @@
     "pui3"
   ],
   "胇": [
+    "bat6",
     "fai3",
-    "fai6",
-    "bat6"
+    "fai6"
   ],
   "芾": [
     "fai3",
     "fat1"
   ],
   "費": [
-    "fai3",
-    "bei3"
+    "bei3",
+    "fai3"
   ],
   "鐨": [
     "fai3"
@@ -8319,9 +8320,9 @@
     "dai2"
   ],
   "坻": [
+    "ci4",
     "dai2",
-    "zi2",
-    "ci4"
+    "zi2"
   ],
   "底": [
     "dai2",
@@ -8373,8 +8374,8 @@
   ],
   "墆": [
     "dai3",
-    "zai6",
-    "dit6"
+    "dit6",
+    "zai6"
   ],
   "嵽": [
     "dai3",
@@ -8385,9 +8386,9 @@
     "dai3"
   ],
   "懘": [
+    "cit3",
     "dai3",
-    "ding3",
-    "cit3"
+    "ding3"
   ],
   "揥": [
     "dai3",
@@ -8399,8 +8400,8 @@
   ],
   "楴": [
     "dai3",
-    "tai3",
-    "sai3"
+    "sai3",
+    "tai3"
   ],
   "渧": [
     "dai3",
@@ -8484,10 +8485,10 @@
     "dai6"
   ],
   "踶": [
+    "ci4",
     "dai6",
     "tai4",
-    "zi6",
-    "ci4"
+    "zi6"
   ],
   "逮": [
     "dai6",
@@ -8495,8 +8496,8 @@
   ],
   "隸": [
     "dai6",
-    "lai6",
-    "doi6"
+    "doi6",
+    "lai6"
   ],
   "梯": [
     "tai1",
@@ -8506,8 +8507,8 @@
     "tai1"
   ],
   "体": [
-    "tai2",
-    "ban6"
+    "ban6",
+    "tai2"
   ],
   "體": [
     "tai2"
@@ -8529,8 +8530,8 @@
     "tai3"
   ],
   "洟": [
-    "tai3",
-    "ji4"
+    "ji4",
+    "tai3"
   ],
   "涕": [
     "tai3"
@@ -8539,9 +8540,9 @@
     "tai3"
   ],
   "裼": [
+    "sik3",
     "tai3",
-    "tik1",
-    "sik3"
+    "tik1"
   ],
   "褅": [
     "tai3"
@@ -8569,20 +8570,20 @@
     "tai4"
   ],
   "徲": [
-    "tai4",
-    "ci4"
+    "ci4",
+    "tai4"
   ],
   "惿": [
-    "tai4",
-    "si6"
+    "si6",
+    "tai4"
   ],
   "提": [
-    "tai4",
-    "si4"
+    "si4",
+    "tai4"
   ],
   "磃": [
-    "tai4",
-    "si1"
+    "si1",
+    "tai4"
   ],
   "禔": [
     "tai4"
@@ -8597,8 +8598,8 @@
     "tai4"
   ],
   "荑": [
-    "tai4",
-    "ji4"
+    "ji4",
+    "tai4"
   ],
   "蕛": [
     "tai4"
@@ -8607,8 +8608,8 @@
     "tai4"
   ],
   "褆": [
-    "tai4",
-    "si6"
+    "si6",
+    "tai4"
   ],
   "謕": [
     "tai4"
@@ -8650,8 +8651,8 @@
     "tai4"
   ],
   "鼶": [
-    "tai4",
-    "si1"
+    "si1",
+    "tai4"
   ],
   "坭": [
     "nai4"
@@ -8687,14 +8688,14 @@
     "nip6"
   ],
   "迡": [
-    "nai6",
-    "ci4"
+    "ci4",
+    "nai6"
   ],
   "捩": [
     "lai2",
     "lai6",
-    "lit6",
-    "leoi6"
+    "leoi6",
+    "lit6"
   ],
   "來": [
     "lai4",
@@ -8779,8 +8780,8 @@
   ],
   "唳": [
     "lai6",
-    "lit6",
-    "leoi6"
+    "leoi6",
+    "lit6"
   ],
   "廲": [
     "lai6"
@@ -8791,8 +8792,8 @@
   ],
   "戾": [
     "lai6",
-    "lit6",
-    "leoi6"
+    "leoi6",
+    "lit6"
   ],
   "攦": [
     "lai6"
@@ -8926,8 +8927,8 @@
     "kit3"
   ],
   "嵇": [
-    "kai1",
-    "hai4"
+    "hai4",
+    "kai1"
   ],
   "溪": [
     "kai1"
@@ -8943,8 +8944,8 @@
     "kai1"
   ],
   "蹊": [
-    "kai1",
-    "hai4"
+    "hai4",
+    "kai1"
   ],
   "鸂": [
     "kai1"
@@ -8953,9 +8954,9 @@
     "kai2"
   ],
   "契": [
+    "hat1",
     "kai2",
     "kai3",
-    "hat1",
     "kit3",
     "sit3"
   ],
@@ -8966,29 +8967,29 @@
     "kai2"
   ],
   "綮": [
-    "kai2",
-    "hing3"
+    "hing3",
+    "kai2"
   ],
   "㓞": [
     "kai3"
   ],
   "愒": [
-    "kai3",
     "hei3",
-    "koi3",
-    "hot3"
+    "hot3",
+    "kai3",
+    "koi3"
   ],
   "栔": [
     "kai3"
   ],
   "瘛": [
+    "cai3",
     "kai3",
-    "zai3",
-    "cai3"
+    "zai3"
   ],
   "罊": [
-    "kai3",
-    "hak1"
+    "hak1",
+    "kai3"
   ],
   "蟿": [
     "kai3"
@@ -8998,13 +8999,13 @@
     "ngai6"
   ],
   "儿": [
-    "ngai4",
     "jan4",
-    "ji4"
+    "ji4",
+    "ngai4"
   ],
   "兒": [
-    "ngai4",
-    "ji4"
+    "ji4",
+    "ngai4"
   ],
   "危": [
     "ngai4"
@@ -9035,8 +9036,8 @@
     "wai4"
   ],
   "洈": [
-    "ngai4",
-    "gwai2"
+    "gwai2",
+    "ngai4"
   ],
   "犩": [
     "ngai4"
@@ -9045,10 +9046,10 @@
     "ngai4"
   ],
   "磑": [
+    "hoi2",
     "ngai4",
-    "wai3",
     "ngoi6",
-    "hoi2"
+    "wai3"
   ],
   "蜺": [
     "ngai4"
@@ -9063,9 +9064,9 @@
     "ngai4"
   ],
   "隗": [
+    "kwai4",
     "ngai4",
-    "ngai5",
-    "kwai4"
+    "ngai5"
   ],
   "霓": [
     "ngai4"
@@ -9084,23 +9085,23 @@
     "ngai4"
   ],
   "姽": [
-    "ngai5",
-    "gwai2"
+    "gwai2",
+    "ngai5"
   ],
   "嶬": [
-    "ngai5",
-    "ji4"
+    "ji4",
+    "ngai5"
   ],
   "掜": [
-    "ngai5",
-    "nip6"
+    "nip6",
+    "ngai5"
   ],
   "檥": [
     "ngai5"
   ],
   "硊": [
-    "ngai5",
-    "kwai3"
+    "kwai3",
+    "ngai5"
   ],
   "礒": [
     "ngai5"
@@ -9122,8 +9123,8 @@
     "ngai5"
   ],
   "钀": [
-    "ngai5",
-    "jit6"
+    "jit6",
+    "ngai5"
   ],
   "頠": [
     "ngai5"
@@ -9132,8 +9133,8 @@
     "ngai5"
   ],
   "齮": [
-    "ngai5",
-    "ji2"
+    "ji2",
+    "ngai5"
   ],
   "偽": [
     "ngai6"
@@ -9166,8 +9167,8 @@
     "ngai6"
   ],
   "燚": [
-    "ngai6",
-    "jik6"
+    "jik6",
+    "ngai6"
   ],
   "睨": [
     "ngai6"
@@ -9198,14 +9199,14 @@
     "wai6"
   ],
   "鮨": [
-    "ngai6",
     "kei4",
+    "ngai6",
     "zi1",
     "zi2"
   ],
   "屄": [
-    "hai1",
-    "bei1"
+    "bei1",
+    "hai1"
   ],
   "傒": [
     "hai4",
@@ -9319,10 +9320,10 @@
     "gwai1"
   ],
   "龜": [
-    "gwai1",
     "gau1",
-    "kau1",
-    "gwan1"
+    "gwai1",
+    "gwan1",
+    "kau1"
   ],
   "佹": [
     "gwai2"
@@ -9345,12 +9346,12 @@
     "gwai2"
   ],
   "庋": [
-    "gwai2",
-    "gei2"
+    "gei2",
+    "gwai2"
   ],
   "庪": [
-    "gwai2",
-    "gei2"
+    "gei2",
+    "gwai2"
   ],
   "晷": [
     "gwai2"
@@ -9461,8 +9462,8 @@
     "gwai6"
   ],
   "柜": [
-    "gwai6",
-    "geoi2"
+    "geoi2",
+    "gwai6"
   ],
   "樻": [
     "gwai6"
@@ -9491,8 +9492,8 @@
     "gwai6"
   ],
   "奎": [
-    "kwai1",
-    "fui1"
+    "fui1",
+    "kwai1"
   ],
   "嫢": [
     "kwai1"
@@ -9511,8 +9512,8 @@
     "kwai1"
   ],
   "楏": [
-    "kwai1",
-    "fui1"
+    "fui1",
+    "kwai1"
   ],
   "槻": [
     "kwai1"
@@ -9596,8 +9597,8 @@
     "kwai4"
   ],
   "瓗": [
-    "kwai4",
-    "king4"
+    "king4",
+    "kwai4"
   ],
   "畦": [
     "kwai4"
@@ -9627,8 +9628,8 @@
     "kwai4"
   ],
   "頄": [
-    "kwai4",
-    "kau4"
+    "kau4",
+    "kwai4"
   ],
   "頯": [
     "kwai4"
@@ -9660,8 +9661,8 @@
     "wai2"
   ],
   "癐": [
-    "wai1",
-    "gui6"
+    "gui6",
+    "wai1"
   ],
   "萎": [
     "wai1",
@@ -9746,22 +9747,22 @@
     "wai5"
   ],
   "薳": [
+    "jyun5",
     "wai2",
-    "wai5",
-    "jyun5"
+    "wai5"
   ],
   "虫": [
-    "wai2",
-    "cung4"
+    "cung4",
+    "wai2"
   ],
   "虺": [
-    "wai2",
-    "fui1"
+    "fui1",
+    "wai2"
   ],
   "蜼": [
+    "leoi5",
     "wai2",
-    "wai6",
-    "leoi5"
+    "wai6"
   ],
   "諉": [
     "wai2"
@@ -9776,9 +9777,9 @@
     "wai3"
   ],
   "噦": [
-    "wai3",
     "jyut3",
-    "jyut6"
+    "jyut6",
+    "wai3"
   ],
   "尉": [
     "wai3",
@@ -9796,8 +9797,8 @@
     "wai6"
   ],
   "濊": [
-    "wai3",
-    "kut3"
+    "kut3",
+    "wai3"
   ],
   "犚": [
     "wai3"
@@ -9822,16 +9823,16 @@
     "wai3"
   ],
   "腃": [
-    "wai3",
-    "kyun4"
+    "kyun4",
+    "wai3"
   ],
   "蔚": [
     "wai3",
     "wat1"
   ],
   "薈": [
-    "wai3",
     "kui2",
+    "wai3",
     "wui3",
     "wui6"
   ],
@@ -9855,9 +9856,9 @@
     "wai3"
   ],
   "餧": [
-    "wai3",
+    "neoi5",
     "noi5",
-    "neoi5"
+    "wai3"
   ],
   "餵": [
     "wai3"
@@ -9870,16 +9871,16 @@
     "wai6"
   ],
   "囗": [
-    "wai4",
-    "gwok3"
+    "gwok3",
+    "wai4"
   ],
   "圍": [
     "wai4"
   ],
   "圩": [
-    "wai4",
     "heoi1",
-    "jyu4"
+    "jyu4",
+    "wai4"
   ],
   "帷": [
     "wai4"
@@ -9909,8 +9910,8 @@
     "wai6"
   ],
   "維": [
-    "wai4",
-    "jung1"
+    "jung1",
+    "wai4"
   ],
   "蓶": [
     "wai4",
@@ -9954,15 +9955,15 @@
     "wai5"
   ],
   "撱": [
-    "wai5",
-    "to2"
+    "to2",
+    "wai5"
   ],
   "暐": [
     "wai5"
   ],
   "洧": [
-    "wai5",
-    "fui2"
+    "fui2",
+    "wai5"
   ],
   "濻": [
     "wai5"
@@ -9977,8 +9978,8 @@
     "wai5"
   ],
   "痏": [
-    "wai5",
-    "fui2"
+    "fui2",
+    "wai5"
   ],
   "緯": [
     "wai5",
@@ -9988,8 +9989,8 @@
     "wai5"
   ],
   "踓": [
-    "wai5",
-    "cuk1"
+    "cuk1",
+    "wai5"
   ],
   "韙": [
     "wai5"
@@ -9998,15 +9999,15 @@
     "wai5"
   ],
   "鮪": [
-    "wai5",
-    "fui2"
+    "fui2",
+    "wai5"
   ],
   "媦": [
     "wai6"
   ],
   "彗": [
-    "wai6",
-    "seoi6"
+    "seoi6",
+    "wai6"
   ],
   "彙": [
     "wai6",
@@ -10019,15 +10020,15 @@
     "wai6"
   ],
   "槥": [
-    "wai6",
-    "seoi6"
+    "seoi6",
+    "wai6"
   ],
   "橞": [
     "wai6"
   ],
   "檅": [
-    "wai6",
-    "seoi6"
+    "seoi6",
+    "wai6"
   ],
   "渭": [
     "wai6"
@@ -10039,15 +10040,15 @@
     "wai6"
   ],
   "篲": [
-    "wai6",
-    "seoi6"
+    "seoi6",
+    "wai6"
   ],
   "胃": [
     "wai6"
   ],
   "蔧": [
-    "wai6",
-    "seoi6"
+    "seoi6",
+    "wai6"
   ],
   "蕙": [
     "wai6"
@@ -10074,13 +10075,13 @@
     "wai6"
   ],
   "鏏": [
-    "wai6",
-    "seoi6"
+    "seoi6",
+    "wai6"
   ],
   "鏸": [
-    "wai6",
+    "jeoi6",
     "seoi6",
-    "jeoi6"
+    "wai6"
   ],
   "劑": [
     "zai1",
@@ -10105,8 +10106,8 @@
     "zai1"
   ],
   "鮆": [
-    "zai1",
-    "ci2"
+    "ci2",
+    "zai1"
   ],
   "齌": [
     "zai1"
@@ -10140,12 +10141,12 @@
     "zai3"
   ],
   "剬": [
-    "zai3",
-    "tyun4"
+    "tyun4",
+    "zai3"
   ],
   "掣": [
-    "zai3",
-    "cit3"
+    "cit3",
+    "zai3"
   ],
   "晢": [
     "zai3",
@@ -10174,36 +10175,36 @@
     "zai3"
   ],
   "霽": [
-    "zai3",
-    "cai4"
+    "cai4",
+    "zai3"
   ],
   "嚌": [
     "zai6"
   ],
   "懠": [
-    "zai6",
-    "cai4"
+    "cai4",
+    "zai6"
   ],
   "滯": [
     "zai6"
   ],
   "癠": [
-    "zai6",
     "cai4",
+    "zai6",
     "zik3"
   ],
   "踅": [
-    "zai6",
     "ci3",
-    "zit3",
-    "zyut6",
     "cyut3",
-    "jyut6"
+    "jyut6",
+    "zai6",
+    "zit3",
+    "zyut6"
   ],
   "銴": [
-    "zai6",
+    "jeoi6",
     "sai6",
-    "jeoi6"
+    "zai6"
   ],
   "凄": [
     "cai1"
@@ -10465,15 +10466,15 @@
   ],
   "區": [
     "au1",
-    "ngau1",
-    "keoi1"
+    "keoi1",
+    "ngau1"
   ],
   "嘔": [
     "au1",
     "au2",
+    "heoi1",
     "ngau1",
-    "ngau2",
-    "heoi1"
+    "ngau2"
   ],
   "慪": [
     "au1",
@@ -10525,8 +10526,8 @@
   ],
   "敺": [
     "au2",
-    "ngau2",
-    "keoi1"
+    "keoi1",
+    "ngau2"
   ],
   "毆": [
     "au2",
@@ -10542,24 +10543,24 @@
   ],
   "瓿": [
     "bau6",
-    "pau2",
-    "bou6"
+    "bou6",
+    "pau2"
   ],
   "剖": [
-    "pau2",
-    "fau2"
+    "fau2",
+    "pau2"
   ],
   "掊": [
+    "fau2",
     "pau2",
-    "pau4",
-    "fau2"
+    "pau4"
   ],
   "婄": [
     "pau3"
   ],
   "垺": [
-    "pau4",
     "fu1",
+    "pau4",
     "pui1"
   ],
   "抔": [
@@ -10569,17 +10570,17 @@
     "pau4"
   ],
   "𦥑": [
-    "pau4",
     "geoi2",
-    "guk1"
+    "guk1",
+    "pau4"
   ],
   "裒": [
-    "pau4",
-    "fau4"
+    "fau4",
+    "pau4"
   ],
   "痞": [
-    "mau1",
     "fau2",
+    "mau1",
     "pei2",
     "pei5"
   ],
@@ -10673,8 +10674,8 @@
     "fau4"
   ],
   "不": [
-    "fau2",
-    "bat1"
+    "bat1",
+    "fau2"
   ],
   "否": [
     "fau2",
@@ -10735,13 +10736,13 @@
     "pui1"
   ],
   "埗": [
-    "fau6",
     "bou2",
-    "bou6"
+    "bou6",
+    "fau6"
   ],
   "埠": [
-    "fau6",
-    "bou6"
+    "bou6",
+    "fau6"
   ],
   "峊": [
     "fau6"
@@ -10752,8 +10753,8 @@
     "fuk6"
   ],
   "步": [
-    "fau6",
-    "bou6"
+    "bou6",
+    "fau6"
   ],
   "緮": [
     "fau6"
@@ -10860,8 +10861,8 @@
     "tau1"
   ],
   "媮": [
-    "tau1",
-    "jyu4"
+    "jyu4",
+    "tau1"
   ],
   "妵": [
     "tau2"
@@ -10879,8 +10880,8 @@
     "tau2"
   ],
   "埱": [
-    "tau3",
-    "cuk1"
+    "cuk1",
+    "tau3"
   ],
   "炓": [
     "tau3"
@@ -10892,8 +10893,8 @@
     "tau4"
   ],
   "牏": [
-    "tau4",
-    "jyu4"
+    "jyu4",
+    "tau4"
   ],
   "酘": [
     "tau4"
@@ -10902,8 +10903,8 @@
     "tau4"
   ],
   "骰": [
-    "tau4",
-    "sik1"
+    "sik1",
+    "tau4"
   ],
   "嬲": [
     "nau1",
@@ -10911,10 +10912,10 @@
     "niu5"
   ],
   "休": [
-    "nau2",
-    "jau1",
     "heoi2",
-    "jyu3"
+    "jau1",
+    "jyu3",
+    "nau2"
   ],
   "妞": [
     "nau2",
@@ -10930,14 +10931,14 @@
     "nau5"
   ],
   "朽": [
+    "jau2",
     "nau2",
-    "nau5",
-    "jau2"
+    "nau5"
   ],
   "杻": [
+    "cau2",
     "nau2",
-    "nau5",
-    "cau2"
+    "nau5"
   ],
   "狃": [
     "nau2",
@@ -10955,12 +10956,12 @@
     "nau5"
   ],
   "禸": [
-    "nau5",
-    "jau5"
+    "jau5",
+    "nau5"
   ],
   "粈": [
-    "nau5",
-    "jau5"
+    "jau5",
+    "nau5"
   ],
   "莥": [
     "nau5"
@@ -10972,9 +10973,9 @@
     "nau6"
   ],
   "糅": [
-    "nau6",
     "jau2",
-    "jau6"
+    "jau6",
+    "nau6"
   ],
   "羺": [
     "nau6"
@@ -11025,8 +11026,8 @@
     "lau4"
   ],
   "寠": [
-    "lau4",
-    "geoi6"
+    "geoi6",
+    "lau4"
   ],
   "嵧": [
     "lau4"
@@ -11042,13 +11043,13 @@
     "lau5"
   ],
   "摎": [
-    "lau4",
-    "gau1"
+    "gau1",
+    "lau4"
   ],
   "斿": [
-    "lau4",
     "jau4",
-    "jau6"
+    "jau6",
+    "lau4"
   ],
   "旒": [
     "lau4"
@@ -11093,8 +11094,8 @@
     "lau4"
   ],
   "窶": [
-    "lau4",
-    "geoi6"
+    "geoi6",
+    "lau4"
   ],
   "耬": [
     "lau4"
@@ -11251,8 +11252,8 @@
   ],
   "句": [
     "gau1",
-    "ngau1",
-    "geoi3"
+    "geoi3",
+    "ngau1"
   ],
   "朻": [
     "gau1"
@@ -11381,8 +11382,8 @@
   ],
   "捄": [
     "gau3",
-    "kau4",
-    "geoi1"
+    "geoi1",
+    "kau4"
   ],
   "搆": [
     "gau3",
@@ -11435,9 +11436,9 @@
     "gau6"
   ],
   "鯦": [
-    "gau6",
+    "oi2",
     "cau4",
-    "oi2"
+    "gau6"
   ],
   "彄": [
     "kau1"
@@ -11455,8 +11456,8 @@
     "kau3"
   ],
   "怐": [
-    "kau3",
-    "hau6"
+    "hau6",
+    "kau3"
   ],
   "扣": [
     "kau3"
@@ -11483,16 +11484,16 @@
     "kau3"
   ],
   "仇": [
-    "kau4",
     "cau4",
+    "kau4",
     "sau4"
   ],
   "俅": [
     "kau4"
   ],
   "厹": [
-    "kau4",
-    "jau4"
+    "jau4",
+    "kau4"
   ],
   "巰": [
     "kau4"
@@ -11552,8 +11553,8 @@
     "kau4"
   ],
   "趜": [
-    "kau4",
     "guk1",
+    "kau4",
     "kuk1"
   ],
   "逑": [
@@ -11590,16 +11591,16 @@
     "ngau5"
   ],
   "窔": [
-    "ngau5",
     "jiu2",
-    "jiu3"
+    "jiu3",
+    "ngau5"
   ],
   "耦": [
     "ngau5"
   ],
   "腢": [
-    "ngau5",
-    "jyu4"
+    "jyu4",
+    "ngau5"
   ],
   "蕅": [
     "ngau5"
@@ -11608,14 +11609,14 @@
     "ngau5"
   ],
   "髃": [
-    "ngau5",
-    "jyu4"
+    "jyu4",
+    "ngau5"
   ],
   "吽": [
-    "ngau6",
     "hau1",
     "hau2",
-    "hung1"
+    "hung1",
+    "ngau6"
   ],
   "齁": [
     "hau1"
@@ -11627,8 +11628,8 @@
     "hau2"
   ],
   "糗": [
-    "hau2",
     "cau3",
+    "hau2",
     "jau2"
   ],
   "呴": [
@@ -11726,8 +11727,8 @@
     "zuk1"
   ],
   "婤": [
-    "zau1",
-    "cau1"
+    "cau1",
+    "zau1"
   ],
   "州": [
     "zau1"
@@ -11745,12 +11746,12 @@
     "zau1"
   ],
   "揂": [
-    "zau1",
-    "jau4"
+    "jau4",
+    "zau1"
   ],
   "棷": [
-    "zau1",
-    "sau2"
+    "sau2",
+    "zau1"
   ],
   "棸": [
     "zau1"
@@ -11759,15 +11760,15 @@
     "zau1"
   ],
   "洀": [
-    "zau1",
-    "pun4"
+    "pun4",
+    "zau1"
   ],
   "淍": [
     "zau1"
   ],
   "湫": [
-    "zau1",
     "cau1",
+    "zau1",
     "ziu2"
   ],
   "珘": [
@@ -11783,13 +11784,13 @@
     "zau1"
   ],
   "菆": [
-    "zau1",
-    "cyun4"
+    "cyun4",
+    "zau1"
   ],
   "蝤": [
-    "zau1",
     "cau4",
-    "jau4"
+    "jau4",
+    "zau1"
   ],
   "諏": [
     "zau1"
@@ -11829,8 +11830,8 @@
     "zau1"
   ],
   "騆": [
-    "zau1",
-    "dung6"
+    "dung6",
+    "zau1"
   ],
   "騶": [
     "zau1"
@@ -11844,8 +11845,8 @@
     "zau1"
   ],
   "齱": [
-    "zau1",
-    "cuk1"
+    "cuk1",
+    "zau1"
   ],
   "齺": [
     "zau1"
@@ -11877,24 +11878,24 @@
     "zau3"
   ],
   "噣": [
-    "zau3",
-    "doek3"
+    "doek3",
+    "zau3"
   ],
   "奏": [
-    "zau3",
-    "cau3"
+    "cau3",
+    "zau3"
   ],
   "揍": [
-    "zau3",
-    "cau3"
+    "cau3",
+    "zau3"
   ],
   "晝": [
     "zau3"
   ],
   "椆": [
-    "zau3",
     "cau4",
-    "diu1"
+    "diu1",
+    "zau3"
   ],
   "甃": [
     "zau3"
@@ -11910,8 +11911,8 @@
     "zau3"
   ],
   "詶": [
-    "zau3",
-    "cau4"
+    "cau4",
+    "zau3"
   ],
   "冑": [
     "zau6"
@@ -11926,17 +11927,17 @@
     "zau6"
   ],
   "怞": [
-    "zau6",
-    "jau4"
+    "jau4",
+    "zau6"
   ],
   "殧": [
     "zau6",
     "zuk1"
   ],
   "牰": [
-    "zau6",
     "cau1",
-    "jau6"
+    "jau6",
+    "zau6"
   ],
   "籀": [
     "zau6"
@@ -11945,9 +11946,9 @@
     "zau6"
   ],
   "繇": [
-    "zau6",
     "jau4",
-    "jiu4"
+    "jiu4",
+    "zau6"
   ],
   "胄": [
     "zau6"
@@ -11956,8 +11957,8 @@
     "zau6"
   ],
   "褎": [
-    "zau6",
-    "jau6"
+    "jau6",
+    "zau6"
   ],
   "軸": [
     "zau6",
@@ -11970,16 +11971,16 @@
     "zau6"
   ],
   "鮦": [
-    "zau6",
-    "tung4"
+    "tung4",
+    "zau6"
   ],
   "鷲": [
     "zau6"
   ],
   "妯": [
     "cau1",
-    "zuk6",
-    "suk6"
+    "suk6",
+    "zuk6"
   ],
   "媝": [
     "cau1"
@@ -12099,8 +12100,8 @@
   ],
   "簉": [
     "cau3",
-    "zou6",
-    "cou3"
+    "cou3",
+    "zou6"
   ],
   "腠": [
     "cau3"
@@ -12110,8 +12111,8 @@
   ],
   "蔟": [
     "cau3",
-    "zuk6",
-    "cuk1"
+    "cuk1",
+    "zuk6"
   ],
   "螑": [
     "cau3"
@@ -12356,9 +12357,9 @@
     "siu2"
   ],
   "頁": [
-    "sau2",
     "jip6",
-    "kit3"
+    "kit3",
+    "sau2"
   ],
   "首": [
     "sau2",
@@ -12432,8 +12433,8 @@
     "jau1"
   ],
   "咻": [
-    "jau1",
-    "heoi2"
+    "heoi2",
+    "jau1"
   ],
   "嚘": [
     "jau1"
@@ -12468,9 +12469,9 @@
     "jau1"
   ],
   "燠": [
-    "jau1",
     "ou2",
     "ou3",
+    "jau1",
     "juk1"
   ],
   "纋": [
@@ -12483,8 +12484,8 @@
     "jau1"
   ],
   "茠": [
-    "jau1",
-    "hou1"
+    "hou1",
+    "jau1"
   ],
   "蓲": [
     "jau1"
@@ -12555,8 +12556,8 @@
     "jau4"
   ],
   "冘": [
-    "jau4",
-    "jam4"
+    "jam4",
+    "jau4"
   ],
   "囮": [
     "jau4",
@@ -12613,8 +12614,8 @@
     "jau4"
   ],
   "浟": [
-    "jau4",
-    "dik6"
+    "dik6",
+    "jau4"
   ],
   "游": [
     "jau4",
@@ -12799,12 +12800,12 @@
   ],
   "厂": [
     "am1",
-    "ngam1",
+    "cong2",
     "ho1",
-    "ngon6",
     "hon2",
     "hon3",
-    "cong2"
+    "ngam1",
+    "ngon6"
   ],
   "垵": [
     "am1",
@@ -12873,15 +12874,15 @@
   ],
   "揜": [
     "am2",
-    "ngam2",
-    "jim2"
+    "jim2",
+    "ngam2"
   ],
   "晻": [
     "am2",
     "am3",
+    "jim2",
     "ngam2",
-    "ngam3",
-    "jim2"
+    "ngam3"
   ],
   "黯": [
     "am2",
@@ -12890,8 +12891,8 @@
   ],
   "匼": [
     "am3",
-    "hap1",
-    "o1"
+    "o1",
+    "hap1"
   ],
   "暗": [
     "am3",
@@ -12931,14 +12932,14 @@
     "tam5"
   ],
   "凵": [
-    "tam5",
     "ham2",
     "ham3",
-    "jyu1"
+    "jyu1",
+    "tam5"
   ],
   "諗": [
-    "nam2",
     "lam2",
+    "nam2",
     "sam2"
   ],
   "煁": [
@@ -12946,16 +12947,16 @@
     "sam4"
   ],
   "腍": [
+    "jam6",
     "nam4",
-    "nam5",
-    "jam6"
+    "nam5"
   ],
   "拰": [
     "nam5"
   ],
   "稔": [
-    "nam5",
     "jam5",
+    "nam5",
     "nim1"
   ],
   "婻": [
@@ -13005,8 +13006,8 @@
     "lam5"
   ],
   "稟": [
-    "lam5",
-    "ban2"
+    "ban2",
+    "lam5"
   ],
   "醂": [
     "lam5"
@@ -13175,8 +13176,8 @@
     "kam5"
   ],
   "吟": [
-    "ngam4",
-    "jam4"
+    "jam4",
+    "ngam4"
   ],
   "玵": [
     "ngam4"
@@ -13185,8 +13186,8 @@
     "ngam4"
   ],
   "喑": [
-    "ngam6",
-    "jam1"
+    "jam1",
+    "ngam6"
   ],
   "勘": [
     "ham1",
@@ -13351,16 +13352,16 @@
     "zam1"
   ],
   "枮": [
-    "zam1",
-    "cim1"
+    "cim1",
+    "zam1"
   ],
   "梣": [
-    "zam1",
-    "sam4"
+    "sam4",
+    "zam1"
   ],
   "椹": [
-    "zam1",
-    "sam6"
+    "sam6",
+    "zam1"
   ],
   "瑊": [
     "zam1"
@@ -13382,8 +13383,8 @@
     "zam1"
   ],
   "葚": [
-    "zam1",
-    "sam6"
+    "sam6",
+    "zam1"
   ],
   "針": [
     "zam1"
@@ -13392,8 +13393,8 @@
     "zam1"
   ],
   "鍼": [
-    "zam1",
-    "kim4"
+    "kim4",
+    "zam1"
   ],
   "鰔": [
     "zam1"
@@ -13412,22 +13413,22 @@
     "zam3"
   ],
   "沈": [
-    "zam3",
     "cam4",
-    "sam2"
+    "sam2",
+    "zam3"
   ],
   "浸": [
-    "zam3",
-    "cam1"
+    "cam1",
+    "zam3"
   ],
   "譖": [
-    "zam3",
     "cam3",
-    "cam6"
+    "cam6",
+    "zam3"
   ],
   "鈂": [
-    "zam3",
-    "cam4"
+    "cam4",
+    "zam3"
   ],
   "朕": [
     "zam6"
@@ -13436,8 +13437,8 @@
     "zam6"
   ],
   "沉": [
-    "zam6",
-    "cam4"
+    "cam4",
+    "zam6"
   ],
   "眹": [
     "zam6",
@@ -13502,8 +13503,8 @@
   ],
   "鋟": [
     "cam2",
-    "zim1",
-    "cim1"
+    "cim1",
+    "zim1"
   ],
   "唚": [
     "cam3"
@@ -13743,8 +13744,8 @@
     "jam3"
   ],
   "窨": [
-    "jam3",
-    "fan1"
+    "fan1",
+    "jam3"
   ],
   "荏": [
     "jam3",
@@ -13770,8 +13771,8 @@
   ],
   "檐": [
     "jam4",
-    "sim4",
-    "jim4"
+    "jim4",
+    "sim4"
   ],
   "淫": [
     "jam4"
@@ -13781,8 +13782,8 @@
   ],
   "簷": [
     "jam4",
-    "sim4",
-    "jim4"
+    "jim4",
+    "sim4"
   ],
   "紝": [
     "jam4",
@@ -13907,9 +13908,9 @@
   "賁": [
     "ban1",
     "ban3",
+    "bei3",
     "fan4",
-    "fan5",
-    "bei3"
+    "fan5"
   ],
   "賓": [
     "ban1",
@@ -13975,25 +13976,25 @@
     "ban6"
   ],
   "噴": [
+    "fan5",
     "pan1",
-    "pan3",
-    "fan5"
+    "pan3"
   ],
   "歕": [
+    "fan5",
     "pan1",
-    "pan3",
-    "fan5"
+    "pan3"
   ],
   "呠": [
     "pan3"
   ],
   "濆": [
-    "pan3",
-    "fan4"
+    "fan4",
+    "pan3"
   ],
   "饙": [
-    "pan3",
-    "fan1"
+    "fan1",
+    "pan3"
   ],
   "嚬": [
     "pan4"
@@ -14018,8 +14019,8 @@
     "pan4"
   ],
   "牝": [
-    "pan5",
-    "fan5"
+    "fan5",
+    "pan5"
   ],
   "文": [
     "man1",
@@ -14056,9 +14057,9 @@
     "man5"
   ],
   "敯": [
+    "fan1",
     "man4",
-    "man5",
-    "fan1"
+    "man5"
   ],
   "旼": [
     "man4"
@@ -14095,8 +14096,8 @@
     "man4"
   ],
   "緡": [
-    "man4",
-    "fan1"
+    "fan1",
+    "man4"
   ],
   "罠": [
     "man4"
@@ -14171,8 +14172,8 @@
     "man5"
   ],
   "惛": [
-    "man5",
-    "fan1"
+    "fan1",
+    "man5"
   ],
   "愍": [
     "man5"
@@ -14205,8 +14206,8 @@
     "man5"
   ],
   "湣": [
-    "man5",
-    "fan1"
+    "fan1",
+    "man5"
   ],
   "潣": [
     "man5",
@@ -14224,9 +14225,9 @@
     "man5"
   ],
   "紊": [
+    "leon6",
     "man5",
-    "man6",
-    "leon6"
+    "man6"
   ],
   "蠠": [
     "man5"
@@ -14252,9 +14253,9 @@
     "min5"
   ],
   "舋": [
-    "man6",
     "jan3",
-    "jan6"
+    "jan6",
+    "man6"
   ],
   "分": [
     "fan1",
@@ -14529,13 +14530,13 @@
     "tan1"
   ],
   "焞": [
+    "seon4",
     "tan1",
-    "teoi1",
-    "seon4"
+    "teoi1"
   ],
   "蜳": [
-    "tan1",
-    "deon1"
+    "deon1",
+    "tan1"
   ],
   "飩": [
     "tan1",
@@ -14547,10 +14548,10 @@
     "teoi3"
   ],
   "揗": [
-    "tan4",
-    "tang4",
     "seon5",
-    "seon6"
+    "seon6",
+    "tan4",
+    "tang4"
   ],
   "捻": [
     "nan2",
@@ -14698,8 +14699,8 @@
     "ngan1"
   ],
   "印": [
-    "ngan3",
-    "jan3"
+    "jan3",
+    "ngan3"
   ],
   "嚚": [
     "ngan4"
@@ -14708,8 +14709,8 @@
     "ngan4"
   ],
   "圻": [
-    "ngan4",
-    "kei4"
+    "kei4",
+    "ngan4"
   ],
   "垠": [
     "ngan4"
@@ -14718,16 +14719,16 @@
     "ngan4"
   ],
   "狋": [
-    "ngan4",
-    "ji4"
+    "ji4",
+    "ngan4"
   ],
   "狺": [
     "ngan4"
   ],
   "訢": [
-    "ngan4",
+    "hei1",
     "jan1",
-    "hei1"
+    "ngan4"
   ],
   "誾": [
     "ngan4"
@@ -14742,32 +14743,32 @@
     "ngan4"
   ],
   "齦": [
-    "ngan4",
     "han2",
-    "hang2"
+    "hang2",
+    "ngan4"
   ],
   "垽": [
     "ngan6"
   ],
   "憖": [
-    "ngan6",
-    "jan6"
+    "jan6",
+    "ngan6"
   ],
   "猌": [
     "ngan6"
   ],
   "韌": [
-    "ngan6",
-    "jan6"
+    "jan6",
+    "ngan6"
   ],
   "佷": [
     "han2"
   ],
   "啃": [
     "han2",
-    "kang2",
     "hang2",
-    "hang3"
+    "hang3",
+    "kang2"
   ],
   "墾": [
     "han2"
@@ -15050,8 +15051,8 @@
     "kwan4"
   ],
   "蔨": [
-    "kwan5",
-    "gyun6"
+    "gyun6",
+    "kwan5"
   ],
   "蜠": [
     "kwan5"
@@ -15060,8 +15061,8 @@
     "wan1"
   ],
   "奫": [
-    "wan1",
-    "jyun1"
+    "jyun1",
+    "wan1"
   ],
   "殟": [
     "wan1"
@@ -15086,8 +15087,8 @@
     "wan3"
   ],
   "蝹": [
-    "wan1",
-    "ou2"
+    "ou2",
+    "wan1"
   ],
   "褞": [
     "wan1",
@@ -15121,11 +15122,11 @@
     "wan2"
   ],
   "菀": [
+    "jyun2",
     "wan2",
     "wan3",
     "wan5",
-    "wat1",
-    "jyun2"
+    "wat1"
   ],
   "薀": [
     "wan2",
@@ -15159,9 +15160,9 @@
     "wan4"
   ],
   "員": [
+    "jyun4",
     "wan4",
-    "wan6",
-    "jyun4"
+    "wan6"
   ],
   "妘": [
     "wan4"
@@ -15170,9 +15171,9 @@
     "wan4"
   ],
   "暈": [
+    "jan3",
     "wan4",
-    "wan6",
-    "jan3"
+    "wan6"
   ],
   "棞": [
     "wan4"
@@ -15218,8 +15219,8 @@
     "wan4"
   ],
   "轋": [
-    "wan4",
-    "hin1"
+    "hin1",
+    "wan4"
   ],
   "鄖": [
     "wan4"
@@ -15241,15 +15242,15 @@
     "wan4"
   ],
   "允": [
-    "wan5",
-    "jyun4"
+    "jyun4",
+    "wan5"
   ],
   "尹": [
     "wan5"
   ],
   "抎": [
-    "wan5",
-    "sin6"
+    "sin6",
+    "wan5"
   ],
   "殞": [
     "wan5"
@@ -15264,17 +15265,17 @@
     "wan5"
   ],
   "鈗": [
-    "wan5",
     "deoi6",
-    "jeoi6"
+    "jeoi6",
+    "wan5"
   ],
   "阭": [
-    "wan5",
-    "jin5"
+    "jin5",
+    "wan5"
   ],
   "隕": [
-    "wan5",
-    "jyun4"
+    "jyun4",
+    "wan5"
   ],
   "霣": [
     "wan5"
@@ -15284,8 +15285,8 @@
     "wan6"
   ],
   "馻": [
-    "wan5",
-    "jin5"
+    "jin5",
+    "wan5"
   ],
   "倱": [
     "wan6"
@@ -15297,9 +15298,9 @@
     "wan6"
   ],
   "熨": [
+    "tong3",
     "wan6",
-    "wat1",
-    "tong3"
+    "wat1"
   ],
   "觨": [
     "wan6"
@@ -15320,8 +15321,8 @@
     "wan6"
   ],
   "嗔": [
-    "zan1",
-    "can1"
+    "can1",
+    "zan1"
   ],
   "振": [
     "zan1",
@@ -15331,8 +15332,8 @@
     "zan1"
   ],
   "甄": [
-    "zan1",
-    "jan1"
+    "jan1",
+    "zan1"
   ],
   "真": [
     "zan1"
@@ -15351,87 +15352,87 @@
     "zan1"
   ],
   "抮": [
-    "zan2",
     "can2",
-    "hin2"
+    "hin2",
+    "zan2"
   ],
   "槙": [
-    "zan2",
-    "can2"
+    "can2",
+    "zan2"
   ],
   "畛": [
-    "zan2",
-    "can2"
+    "can2",
+    "zan2"
   ],
   "疹": [
-    "zan2",
-    "can2"
+    "can2",
+    "zan2"
   ],
   "眕": [
-    "zan2",
-    "can2"
+    "can2",
+    "zan2"
   ],
   "稹": [
-    "zan2",
-    "can2"
+    "can2",
+    "zan2"
   ],
   "紾": [
-    "zan2",
-    "can2"
+    "can2",
+    "zan2"
   ],
   "縝": [
-    "zan2",
-    "can2"
+    "can2",
+    "zan2"
   ],
   "縥": [
     "zan2"
   ],
   "袗": [
-    "zan2",
-    "can2"
+    "can2",
+    "zan2"
   ],
   "診": [
-    "zan2",
-    "can2"
+    "can2",
+    "zan2"
   ],
   "軫": [
-    "zan2",
-    "can2"
+    "can2",
+    "zan2"
   ],
   "鬒": [
-    "zan2",
-    "can2"
+    "can2",
+    "zan2"
   ],
   "黰": [
-    "zan2",
-    "can2"
+    "can2",
+    "zan2"
   ],
   "侲": [
     "zan3"
   ],
   "圳": [
-    "zan3",
-    "hyun2"
+    "hyun2",
+    "zan3"
   ],
   "填": [
-    "zan3",
-    "tin4"
+    "tin4",
+    "zan3"
   ],
   "娠": [
-    "zan3",
-    "san1"
+    "san1",
+    "zan3"
   ],
   "挋": [
     "zan3"
   ],
   "瑱": [
-    "zan3",
     "din3",
-    "tin3"
+    "tin3",
+    "zan3"
   ],
   "甽": [
-    "zan3",
-    "hyun2"
+    "hyun2",
+    "zan3"
   ],
   "紖": [
     "zan3",
@@ -15444,8 +15445,8 @@
     "zan3"
   ],
   "謓": [
-    "zan3",
-    "can1"
+    "can1",
+    "zan3"
   ],
   "賑": [
     "zan3"
@@ -15460,17 +15461,17 @@
     "zan6"
   ],
   "榐": [
-    "zan6",
+    "cin2",
     "nin6",
-    "zin2",
-    "cin2"
+    "zan6",
+    "zin2"
   ],
   "陣": [
     "zan6"
   ],
   "陳": [
-    "zan6",
-    "can4"
+    "can4",
+    "zan6"
   ],
   "瞋": [
     "can1"
@@ -15574,8 +15575,8 @@
     "san1"
   ],
   "嫀": [
-    "san1",
-    "ceon4"
+    "ceon4",
+    "san1"
   ],
   "屾": [
     "san1"
@@ -15631,10 +15632,10 @@
     "san1"
   ],
   "身": [
-    "san1",
-    "kin4",
     "gyun1",
-    "jyun4"
+    "jyun4",
+    "kin4",
+    "san1"
   ],
   "辛": [
     "san1"
@@ -15725,8 +15726,8 @@
     "jan1"
   ],
   "摁": [
-    "jan1",
     "on3",
+    "jan1",
     "ngon3"
   ],
   "昕": [
@@ -15925,9 +15926,9 @@
     "jan6"
   ],
   "興": [
-    "jan6",
     "hing1",
-    "hing3"
+    "hing3",
+    "jan6"
   ],
   "訒": [
     "jan6"
@@ -15989,18 +15990,18 @@
     "pang4"
   ],
   "搒": [
-    "pang4",
     "bong2",
     "bong3",
+    "pang4",
     "pong3"
   ],
   "朋": [
     "pang4"
   ],
   "榜": [
-    "pang4",
     "bong2",
     "bong3",
+    "pang4",
     "pong3"
   ],
   "磞": [
@@ -16011,13 +16012,13 @@
     "pong4"
   ],
   "蒡": [
-    "pang4",
     "bong2",
-    "bong6"
+    "bong6",
+    "pang4"
   ],
   "馮": [
-    "pang4",
-    "fung4"
+    "fung4",
+    "pang4"
   ],
   "鬅": [
     "pang4",
@@ -16093,8 +16094,8 @@
     "dang3"
   ],
   "澄": [
-    "dang6",
-    "cing4"
+    "cing4",
+    "dang6"
   ],
   "鄧": [
     "dang6"
@@ -16120,8 +16121,8 @@
     "tang4"
   ],
   "螣": [
-    "tang4",
-    "dak6"
+    "dak6",
+    "tang4"
   ],
   "謄": [
     "tang4"
@@ -16141,8 +16142,8 @@
     "tyun4"
   ],
   "而": [
-    "nang4",
-    "ji4"
+    "ji4",
+    "nang4"
   ],
   "耐": [
     "nang4",
@@ -16150,8 +16151,8 @@
   ],
   "能": [
     "nang4",
-    "toi4",
-    "noi6"
+    "noi6",
+    "toi4"
   ],
   "舲": [
     "lang1",
@@ -16268,8 +16269,8 @@
     "hang1"
   ],
   "鳽": [
-    "hang1",
     "gin1",
+    "hang1",
     "zin1"
   ],
   "肯": [
@@ -16299,9 +16300,9 @@
     "hang4"
   ],
   "莖": [
-    "hang4",
     "ging1",
-    "ging3"
+    "ging3",
+    "hang4"
   ],
   "蘅": [
     "hang4"
@@ -16377,9 +16378,9 @@
     "wang4"
   ],
   "嶸": [
+    "jing4",
     "wang4",
-    "wing4",
-    "jing4"
+    "wing4"
   ],
   "弘": [
     "wang4"
@@ -16430,15 +16431,15 @@
     "wang4"
   ],
   "僧": [
-    "zang1",
-    "sang1"
+    "sang1",
+    "zang1"
   ],
   "埥": [
     "zang1"
   ],
   "增": [
-    "zang1",
-    "cang4"
+    "cang4",
+    "zang1"
   ],
   "崝": [
     "zang1"
@@ -16447,8 +16448,8 @@
     "zang1"
   ],
   "曾": [
-    "zang1",
-    "cang4"
+    "cang4",
+    "zang1"
   ],
   "橧": [
     "zang1"
@@ -16466,22 +16467,22 @@
     "zang1"
   ],
   "綪": [
-    "zang1",
     "sin3",
-    "sin6"
+    "sin6",
+    "zang1"
   ],
   "繒": [
+    "cang4",
     "zang1",
-    "zang6",
-    "cang4"
+    "zang6"
   ],
   "罾": [
     "zang1",
     "zang6"
   ],
   "鬙": [
-    "zang1",
-    "sang1"
+    "sang1",
+    "zang1"
   ],
   "甑": [
     "zang3",
@@ -16526,8 +16527,8 @@
     "sang3"
   ],
   "粒": [
-    "nap1",
-    "lap1"
+    "lap1",
+    "nap1"
   ],
   "笠": [
     "lap1",
@@ -16538,8 +16539,8 @@
     "lap6"
   ],
   "搚": [
-    "lap6",
-    "hip6"
+    "hip6",
+    "lap6"
   ],
   "鴗": [
     "lap6"
@@ -16576,8 +16577,8 @@
   ],
   "蓋": [
     "gap3",
-    "hap6",
     "goi3",
+    "hap6",
     "koi3"
   ],
   "郃": [
@@ -16586,8 +16587,8 @@
   ],
   "閤": [
     "gap3",
-    "hap6",
-    "gok3"
+    "gok3",
+    "hap6"
   ],
   "頜": [
     "gap3",
@@ -16609,22 +16610,22 @@
     "kap1"
   ],
   "极": [
-    "kap1",
-    "gik6"
+    "gik6",
+    "kap1"
   ],
   "歙": [
-    "kap1",
     "hap1",
     "jap1",
+    "kap1",
     "sip3"
   ],
   "汲": [
     "kap1"
   ],
   "潝": [
-    "kap1",
     "hap1",
-    "jap1"
+    "jap1",
+    "kap1"
   ],
   "笈": [
     "kap1",
@@ -16640,13 +16641,13 @@
     "kap6"
   ],
   "罨": [
-    "ngap1",
-    "jim2"
+    "jim2",
+    "ngap1"
   ],
   "喦": [
-    "ngap6",
+    "jip6",
     "nip6",
-    "jip6"
+    "ngap6"
   ],
   "岋": [
     "ngap6"
@@ -16686,8 +16687,8 @@
     "hap6"
   ],
   "濭": [
-    "hap1",
     "oi3",
+    "hap1",
     "koi3"
   ],
   "瞌": [
@@ -16735,8 +16736,8 @@
     "zip3"
   ],
   "戢": [
-    "zap1",
-    "cap1"
+    "cap1",
+    "zap1"
   ],
   "汁": [
     "zap1"
@@ -16748,8 +16749,8 @@
     "zap1"
   ],
   "濈": [
-    "zap1",
-    "cap1"
+    "cap1",
+    "zap1"
   ],
   "瓡": [
     "zap1"
@@ -16758,8 +16759,8 @@
     "zap1"
   ],
   "蕺": [
-    "zap1",
-    "cap1"
+    "cap1",
+    "zap1"
   ],
   "霵": [
     "zap1"
@@ -16986,8 +16987,8 @@
     "pat1"
   ],
   "鵯": [
-    "pat1",
-    "bei1"
+    "bei1",
+    "pat1"
   ],
   "乜": [
     "mat1",
@@ -17003,8 +17004,8 @@
     "mat6"
   ],
   "宓": [
-    "mat6",
-    "fuk6"
+    "fuk6",
+    "mat6"
   ],
   "密": [
     "mat6"
@@ -17038,8 +17039,8 @@
     "mat6"
   ],
   "芴": [
-    "mat6",
-    "fat1"
+    "fat1",
+    "mat6"
   ],
   "蔤": [
     "mat6"
@@ -17150,16 +17151,16 @@
     "fat1"
   ],
   "胐": [
-    "fat1",
-    "deot1"
+    "deot1",
+    "fat1"
   ],
   "艴": [
-    "fat1",
-    "but6"
+    "but6",
+    "fat1"
   ],
   "茀": [
-    "fat1",
-    "but6"
+    "but6",
+    "fat1"
   ],
   "袚": [
     "fat1"
@@ -17204,8 +17205,8 @@
     "fat6"
   ],
   "茷": [
-    "fat6",
     "bui6",
+    "fat6",
     "pui3"
   ],
   "藅": [
@@ -17249,8 +17250,8 @@
     "dat6"
   ],
   "蟘": [
-    "dat6",
-    "dak6"
+    "dak6",
+    "dat6"
   ],
   "鍎": [
     "dat6"
@@ -17270,9 +17271,9 @@
   ],
   "仡": [
     "gat1",
-    "ngat6",
+    "go1",
     "hat1",
-    "go1"
+    "ngat6"
   ],
   "佶": [
     "gat1",
@@ -17338,12 +17339,12 @@
     "gat6"
   ],
   "咯": [
+    "gok3",
     "kat1",
     "lo1",
     "lo3",
     "lok3",
-    "lok6",
-    "gok3"
+    "lok6"
   ],
   "兀": [
     "ngat6"
@@ -17361,21 +17362,21 @@
     "ngat6"
   ],
   "忔": [
-    "ngat6",
-    "hat1"
+    "hat1",
+    "ngat6"
   ],
   "扢": [
-    "ngat6",
+    "goi3",
     "gwat1",
     "hei3",
-    "goi3"
+    "ngat6"
   ],
   "杌": [
     "ngat6"
   ],
   "汔": [
-    "ngat6",
-    "hat1"
+    "hat1",
+    "ngat6"
   ],
   "矹": [
     "ngat6"
@@ -17384,8 +17385,8 @@
     "ngat6"
   ],
   "迄": [
-    "ngat6",
-    "hat1"
+    "hat1",
+    "ngat6"
   ],
   "阢": [
     "ngat6"
@@ -17394,8 +17395,8 @@
     "ngat6"
   ],
   "齀": [
-    "ngat6",
-    "fui1"
+    "fui1",
+    "ngat6"
   ],
   "乞": [
     "hat1",
@@ -17409,13 +17410,13 @@
     "koi3"
   ],
   "犵": [
-    "hat1",
-    "go1"
+    "go1",
+    "hat1"
   ],
   "肸": [
     "hat1",
-    "jat6",
-    "hit3"
+    "hit3",
+    "jat6"
   ],
   "芞": [
     "hat1"
@@ -17437,9 +17438,9 @@
     "hat6"
   ],
   "獥": [
-    "hat6",
+    "gik1",
     "giu3",
-    "gik1"
+    "hat6"
   ],
   "瞎": [
     "hat6"
@@ -17480,8 +17481,8 @@
     "hat6"
   ],
   "閡": [
-    "hat6",
     "goi1",
+    "hat6",
     "ngoi6"
   ],
   "鶷": [
@@ -17520,8 +17521,8 @@
   ],
   "繘": [
     "gwat1",
-    "wat6",
-    "leot6"
+    "leot6",
+    "wat6"
   ],
   "蓇": [
     "gwat1"
@@ -17581,19 +17582,19 @@
     "zeot1"
   ],
   "郁": [
-    "wat1",
-    "juk1"
+    "juk1",
+    "wat1"
   ],
   "鬱": [
     "wat1"
   ],
   "黦": [
-    "wat1",
-    "jyut3"
+    "jyut3",
+    "wat1"
   ],
   "噊": [
-    "wat6",
-    "leot6"
+    "leot6",
+    "wat6"
   ],
   "抇": [
     "wat6"
@@ -17602,58 +17603,58 @@
     "wat6"
   ],
   "潏": [
-    "wat6",
+    "jyut6",
     "kyut3",
-    "jyut6"
+    "wat6"
   ],
   "燏": [
-    "wat6",
+    "jyut6",
     "leot6",
-    "jyut6"
+    "wat6"
   ],
   "獝": [
-    "wat6",
-    "leot6"
+    "leot6",
+    "wat6"
   ],
   "瞲": [
-    "wat6",
-    "leot6",
     "hyut3",
-    "jyut6"
+    "jyut6",
+    "leot6",
+    "wat6"
   ],
   "矞": [
-    "wat6",
+    "jyut6",
     "leot6",
-    "jyut6"
+    "wat6"
   ],
   "聿": [
-    "wat6",
+    "jyut6",
     "leot6",
-    "jyut6"
+    "wat6"
   ],
   "遹": [
-    "wat6",
+    "jyut6",
     "leot6",
-    "jyut6"
+    "wat6"
   ],
   "驈": [
-    "wat6",
+    "jyut6",
     "leot6",
-    "jyut6"
+    "wat6"
   ],
   "鱊": [
-    "wat6",
-    "leot6"
+    "leot6",
+    "wat6"
   ],
   "鴥": [
-    "wat6",
-    "jyut6"
+    "jyut6",
+    "wat6"
   ],
   "鷸": [
-    "wat6",
-    "neot6",
+    "jyut6",
     "leot6",
-    "jyut6"
+    "neot6",
+    "wat6"
   ],
   "侄": [
     "zat1",
@@ -17681,8 +17682,8 @@
   ],
   "枳": [
     "zat1",
-    "zi2",
-    "zeot1"
+    "zeot1",
+    "zi2"
   ],
   "桎": [
     "zat1",
@@ -17701,10 +17702,10 @@
     "zi3"
   ],
   "螲": [
-    "zat1",
-    "zat6",
     "dit3",
-    "dit6"
+    "dit6",
+    "zat1",
+    "zat6"
   ],
   "質": [
     "zat1",
@@ -17734,9 +17735,9 @@
     "zat6"
   ],
   "洷": [
+    "dit6",
     "zat6",
-    "zi3",
-    "dit6"
+    "zi3"
   ],
   "祑": [
     "zat6"
@@ -17745,8 +17746,8 @@
     "zat6"
   ],
   "窒": [
-    "zat6",
-    "dit6"
+    "dit6",
+    "zat6"
   ],
   "膣": [
     "zat6"
@@ -17771,12 +17772,12 @@
   ],
   "僁": [
     "sat1",
-    "sit3",
-    "seot1"
+    "seot1",
+    "sit3"
   ],
   "失": [
-    "sat1",
-    "jat6"
+    "jat6",
+    "sat1"
   ],
   "室": [
     "sat1"
@@ -17821,8 +17822,8 @@
     "jik1"
   ],
   "佚": [
-    "jat6",
-    "dit6"
+    "dit6",
+    "jat6"
   ],
   "佾": [
     "jat6"
@@ -17842,8 +17843,8 @@
     "mik6"
   ],
   "昳": [
-    "jat6",
-    "dit6"
+    "dit6",
+    "jat6"
   ],
   "欥": [
     "jat6",
@@ -17872,8 +17873,8 @@
     "nik6"
   ],
   "軼": [
-    "jat6",
-    "dit6"
+    "dit6",
+    "jat6"
   ],
   "逸": [
     "jat6"
@@ -17901,9 +17902,9 @@
   ],
   "喔": [
     "ak1",
-    "ngak1",
     "o1",
-    "ok1"
+    "ok1",
+    "ngak1"
   ],
   "幄": [
     "ak1",
@@ -17959,8 +17960,8 @@
     "mok6"
   ],
   "嘿": [
-    "mak6",
-    "hei1"
+    "hei1",
+    "mak6"
   ],
   "爅": [
     "mak6"
@@ -18008,9 +18009,9 @@
     "dak6"
   ],
   "疒": [
+    "cong4",
     "nak6",
-    "nik6",
-    "cong4"
+    "nik6"
   ],
   "仂": [
     "lak6",
@@ -18074,16 +18075,16 @@
     "zak1"
   ],
   "崱": [
-    "zak1",
-    "sik6"
+    "sik6",
+    "zak1"
   ],
   "庂": [
     "zak1"
   ],
   "廁": [
-    "zak1",
     "cak1",
-    "ci3"
+    "ci3",
+    "zak1"
   ],
   "昃": [
     "zak1"
@@ -18100,12 +18101,12 @@
   ],
   "畟": [
     "cak1",
-    "zik1",
-    "cik1"
+    "cik1",
+    "zik1"
   ],
   "塞": [
-    "sak1",
-    "coi3"
+    "coi3",
+    "sak1"
   ],
   "息": [
     "sak1",
@@ -18161,8 +18162,8 @@
     "koe4"
   ],
   "騎": [
-    "ke4",
     "gei6",
+    "ke4",
     "kei3",
     "kei4"
   ],
@@ -18177,30 +18178,30 @@
     "zeoi1"
   ],
   "蒫": [
+    "co4",
     "ze1",
-    "zi1",
-    "co4"
+    "zi1"
   ],
   "袓": [
     "ze1",
     "zeoi6"
   ],
   "謶": [
+    "syu3",
     "ze1",
-    "zoek3",
-    "syu3"
+    "zoek3"
   ],
   "遮": [
     "ze1"
   ],
   "闍": [
-    "ze1",
+    "dou1",
     "se4",
-    "dou1"
+    "ze1"
   ],
   "堵": [
-    "ze2",
-    "dou2"
+    "dou2",
+    "ze2"
   ],
   "姐": [
     "ze2"
@@ -18274,10 +18275,10 @@
   ],
   "且": [
     "ce2",
-    "cou4",
-    "zeoi1",
     "ceoi1",
-    "ceoi2"
+    "ceoi2",
+    "cou4",
+    "zeoi1"
   ],
   "伬": [
     "ce2"
@@ -18304,9 +18305,9 @@
   ],
   "趄": [
     "ce3",
+    "ceoi1",
     "cit3",
-    "zeoi1",
-    "ceoi1"
+    "zeoi1"
   ],
   "斜": [
     "ce4",
@@ -18321,9 +18322,9 @@
     "je4"
   ],
   "畬": [
+    "jyu4",
     "se1",
-    "se4",
-    "jyu4"
+    "se4"
   ],
   "賒": [
     "se1"
@@ -18357,8 +18358,8 @@
     "se3"
   ],
   "庫": [
-    "se3",
-    "fu3"
+    "fu3",
+    "se3"
   ],
   "涻": [
     "se3"
@@ -18376,26 +18377,26 @@
     "se4"
   ],
   "蛇": [
-    "se4",
-    "ji4"
+    "ji4",
+    "se4"
   ],
   "社": [
     "se5",
     "se6"
   ],
   "射": [
-    "se6",
     "je6",
-    "sik6",
-    "jik6"
+    "jik6",
+    "se6",
+    "sik6"
   ],
   "麝": [
     "se6"
   ],
   "婼": [
+    "coek3",
     "je4",
     "ji3",
-    "coek3",
     "joek6"
   ],
   "揶": [
@@ -18493,8 +18494,8 @@
   "陂": [
     "bei1",
     "bei3",
-    "pei4",
     "bo1",
+    "pei4",
     "po1"
   ],
   "匕": [
@@ -18554,8 +18555,8 @@
   ],
   "鞞": [
     "bei2",
-    "pei4",
-    "bing2"
+    "bing2",
+    "pei4"
   ],
   "髀": [
     "bei2"
@@ -18776,8 +18777,8 @@
     "pei4"
   ],
   "蚾": [
-    "pei4",
-    "bo3"
+    "bo3",
+    "pei4"
   ],
   "蜱": [
     "pei4"
@@ -18970,8 +18971,8 @@
     "mei6"
   ],
   "汆": [
-    "mei6",
-    "cyun1"
+    "cyun1",
+    "mei6"
   ],
   "沒": [
     "mei6",
@@ -19087,8 +19088,8 @@
     "dei6"
   ],
   "洱": [
-    "nei2",
-    "ji5"
+    "ji5",
+    "nei2"
   ],
   "妮": [
     "nei4"
@@ -19127,16 +19128,16 @@
     "nei5"
   ],
   "毦": [
-    "nei6",
-    "ji6"
+    "ji6",
+    "nei6"
   ],
   "珥": [
-    "nei6",
-    "ji6"
+    "ji6",
+    "nei6"
   ],
   "衈": [
-    "nei6",
-    "ji6"
+    "ji6",
+    "nei6"
   ],
   "鈮": [
     "nei6"
@@ -19155,8 +19156,8 @@
     "lei4"
   ],
   "𠩺": [
-    "lei4",
-    "hei1"
+    "hei1",
+    "lei4"
   ],
   "嫠": [
     "lei4"
@@ -19172,9 +19173,9 @@
     "toi4"
   ],
   "杝": [
-    "lei4",
     "ci2",
     "ji4",
+    "lei4",
     "to4"
   ],
   "梨": [
@@ -19184,8 +19185,8 @@
     "lei4"
   ],
   "樆": [
-    "lei4",
-    "ci1"
+    "ci1",
+    "lei4"
   ],
   "氂": [
     "lei4",
@@ -19195,8 +19196,8 @@
     "lei4"
   ],
   "漦": [
-    "lei4",
     "ci4",
+    "lei4",
     "toi1"
   ],
   "灕": [
@@ -19212,8 +19213,8 @@
     "lei4"
   ],
   "离": [
-    "lei4",
-    "ci1"
+    "ci1",
+    "lei4"
   ],
   "筣": [
     "lei4"
@@ -19244,9 +19245,9 @@
     "lei4"
   ],
   "釐": [
-    "lei4",
     "hei1",
-    "hei2"
+    "hei2",
+    "lei4"
   ],
   "鑗": [
     "lei4"
@@ -19259,8 +19260,8 @@
     "lei4"
   ],
   "魑": [
-    "lei4",
-    "ci1"
+    "ci1",
+    "lei4"
   ],
   "鱺": [
     "lei4"
@@ -19285,8 +19286,8 @@
     "lei5"
   ],
   "悝": [
-    "lei5",
-    "fui1"
+    "fui1",
+    "lei5"
   ],
   "李": [
     "lei5"
@@ -19487,8 +19488,8 @@
   "踦": [
     "gei1",
     "gei2",
-    "kei1",
-    "ji2"
+    "ji2",
+    "kei1"
   ],
   "鄿": [
     "gei1",
@@ -19602,8 +19603,8 @@
   ],
   "塈": [
     "gei6",
-    "kei3",
-    "hei3"
+    "hei3",
+    "kei3"
   ],
   "妓": [
     "gei6"
@@ -19630,8 +19631,8 @@
     "gei6"
   ],
   "茤": [
-    "gei6",
-    "do1"
+    "do1",
+    "gei6"
   ],
   "誋": [
     "gei6"
@@ -19654,8 +19655,8 @@
     "gei6"
   ],
   "倚": [
-    "kei1",
-    "ji2"
+    "ji2",
+    "kei1"
   ],
   "崎": [
     "kei1",
@@ -19665,24 +19666,24 @@
     "kei1"
   ],
   "榿": [
-    "kei1",
-    "hei1"
+    "hei1",
+    "kei1"
   ],
   "欹": [
-    "kei1",
-    "ji1"
+    "ji1",
+    "kei1"
   ],
   "陭": [
-    "kei1",
-    "ji2"
+    "ji2",
+    "kei1"
   ],
   "企": [
     "kei2",
     "kei5"
   ],
   "亟": [
-    "kei3",
-    "gik1"
+    "gik1",
+    "kei3"
   ],
   "汥": [
     "kei3",
@@ -19814,8 +19815,8 @@
     "kei4"
   ],
   "隑": [
-    "kei4",
-    "goi1"
+    "goi1",
+    "kei4"
   ],
   "頎": [
     "kei4"
@@ -19842,8 +19843,8 @@
     "kei4"
   ],
   "鶀": [
-    "kei4",
-    "hei1"
+    "hei1",
+    "kei4"
   ],
   "鵸": [
     "kei4"
@@ -19973,8 +19974,8 @@
     "hei2"
   ],
   "郗": [
-    "hei1",
-    "ci1"
+    "ci1",
+    "hei1"
   ],
   "醯": [
     "hei1"
@@ -19989,8 +19990,8 @@
     "hei2"
   ],
   "喜": [
-    "hei2",
-    "ci3"
+    "ci3",
+    "hei2"
   ],
   "囍": [
     "hei2"
@@ -20021,8 +20022,8 @@
     "hei3"
   ],
   "咥": [
-    "hei3",
-    "dit6"
+    "dit6",
+    "hei3"
   ],
   "器": [
     "hei3"
@@ -20041,8 +20042,8 @@
     "hei3"
   ],
   "摡": [
-    "hei3",
-    "goi3"
+    "goi3",
+    "hei3"
   ],
   "棄": [
     "hei3"
@@ -20058,8 +20059,8 @@
   ],
   "滊": [
     "hei3",
-    "kit3",
-    "hit3"
+    "hit3",
+    "kit3"
   ],
   "熂": [
     "hei3"
@@ -20276,10 +20277,10 @@
   ],
   "請": [
     "ceng2",
-    "king4",
-    "zing6",
     "cing1",
-    "cing2"
+    "cing2",
+    "king4",
+    "zing6"
   ],
   "晴": [
     "ceng4",
@@ -20313,8 +20314,8 @@
     "sing4"
   ],
   "成": [
-    "seng4",
     "cing4",
+    "seng4",
     "sing4"
   ],
   "影": [
@@ -20336,8 +20337,8 @@
     "pik1"
   ],
   "擗": [
-    "pek6",
     "bik1",
+    "pek6",
     "pik1"
   ],
   "笛": [
@@ -20360,9 +20361,9 @@
     "kek6"
   ],
   "噱": [
+    "coek3",
     "kek6",
-    "koek6",
-    "coek3"
+    "koek6"
   ],
   "屐": [
     "kek6"
@@ -20372,9 +20373,9 @@
     "koek6"
   ],
   "醵": [
+    "geoi6",
     "kek6",
-    "koek6",
-    "geoi6"
+    "koek6"
   ],
   "毄": [
     "hek3"
@@ -20484,15 +20485,15 @@
     "zi1"
   ],
   "偨": [
-    "zi1",
-    "ci1"
+    "ci1",
+    "zi1"
   ],
   "卮": [
     "zi1"
   ],
   "呲": [
-    "zi1",
-    "ci1"
+    "ci1",
+    "zi1"
   ],
   "咨": [
     "zi1"
@@ -20513,10 +20514,10 @@
     "zi1"
   ],
   "恣": [
-    "zi1",
-    "zi3",
     "ci1",
-    "ci3"
+    "ci3",
+    "zi1",
+    "zi3"
   ],
   "搘": [
     "zi1"
@@ -20540,18 +20541,18 @@
     "zi1"
   ],
   "次": [
-    "zi1",
     "ci1",
-    "ci3"
+    "ci3",
+    "zi1"
   ],
   "氏": [
-    "zi1",
-    "si6"
+    "si6",
+    "zi1"
   ],
   "泜": [
+    "ci4",
     "zi1",
-    "zi6",
-    "ci4"
+    "zi6"
   ],
   "淄": [
     "zi1"
@@ -20560,12 +20561,12 @@
     "zi1"
   ],
   "澬": [
-    "zi1",
-    "ci4"
+    "ci4",
+    "zi1"
   ],
   "玆": [
-    "zi1",
-    "jyun4"
+    "jyun4",
+    "zi1"
   ],
   "甾": [
     "zi1",
@@ -20590,8 +20591,8 @@
     "zi1"
   ],
   "粢": [
-    "zi1",
-    "ci1"
+    "ci1",
+    "zi1"
   ],
   "䊷": [
     "zi1"
@@ -20616,15 +20617,15 @@
     "zi3"
   ],
   "臸": [
-    "zi1",
-    "zeon3"
+    "zeon3",
+    "zi1"
   ],
   "芝": [
     "zi1"
   ],
   "茲": [
-    "zi1",
-    "ci4"
+    "ci4",
+    "zi1"
   ],
   "菑": [
     "zi1",
@@ -20641,18 +20642,18 @@
     "zi1"
   ],
   "觜": [
-    "zi1",
-    "zeoi2"
+    "zeoi2",
+    "zi1"
   ],
   "觶": [
     "zi1",
     "zi3"
   ],
   "訾": [
-    "zi1",
-    "zi2",
     "ci1",
-    "ci4"
+    "ci4",
+    "zi1",
+    "zi2"
   ],
   "諮": [
     "zi1"
@@ -20664,8 +20665,8 @@
     "zi1"
   ],
   "趑": [
-    "zi1",
-    "ci1"
+    "ci1",
+    "zi1"
   ],
   "輜": [
     "zi1"
@@ -20674,8 +20675,8 @@
     "zi1"
   ],
   "鈭": [
-    "zi1",
-    "ci1"
+    "ci1",
+    "zi1"
   ],
   "錙": [
     "zi1"
@@ -20702,8 +20703,8 @@
     "zi1"
   ],
   "齜": [
-    "zi1",
-    "ci1"
+    "ci1",
+    "zi1"
   ],
   "吇": [
     "zi2"
@@ -20721,17 +20722,17 @@
     "zi2"
   ],
   "子": [
-    "zi2",
-    "ci4"
+    "ci4",
+    "zi2"
   ],
   "寺": [
     "zi2",
     "zi6"
   ],
   "徵": [
+    "cing4",
     "zi2",
-    "zing1",
-    "cing4"
+    "zing1"
   ],
   "恉": [
     "zi2"
@@ -20767,16 +20768,16 @@
     "zi2"
   ],
   "畤": [
+    "si5",
     "zi2",
-    "zi6",
-    "si5"
+    "zi6"
   ],
   "矷": [
     "zi2"
   ],
   "祉": [
-    "zi2",
-    "ci2"
+    "ci2",
+    "zi2"
   ],
   "秭": [
     "zi2"
@@ -20807,8 +20808,8 @@
     "zi2"
   ],
   "茞": [
-    "zi2",
-    "coi2"
+    "coi2",
+    "zi2"
   ],
   "藢": [
     "zi2"
@@ -20835,25 +20836,25 @@
     "zi2"
   ],
   "伿": [
-    "zi3",
-    "ji6"
+    "ji6",
+    "zi3"
   ],
   "倳": [
     "zi3",
     "zi6"
   ],
   "兕": [
+    "ci5",
     "zi3",
-    "zi6",
-    "ci5"
+    "zi6"
   ],
   "剚": [
     "zi3",
     "zi6"
   ],
   "寘": [
-    "zi3",
-    "tin4"
+    "tin4",
+    "zi3"
   ],
   "志": [
     "zi3"
@@ -20893,9 +20894,9 @@
     "zi3"
   ],
   "胔": [
+    "ci1",
     "zi3",
-    "zi6",
-    "ci1"
+    "zi6"
   ],
   "至": [
     "zi3"
@@ -20910,15 +20911,15 @@
     "zi3"
   ],
   "識": [
-    "zi3",
-    "sik1"
+    "sik1",
+    "zi3"
   ],
   "贄": [
     "zi3"
   ],
   "跮": [
-    "zi3",
-    "ci3"
+    "ci3",
+    "zi3"
   ],
   "躓": [
     "zi3"
@@ -20927,9 +20928,9 @@
     "zi3"
   ],
   "遲": [
+    "ci4",
     "zi3",
-    "zi6",
-    "ci4"
+    "zi6"
   ],
   "鋕": [
     "zi3"
@@ -20947,12 +20948,12 @@
     "zi6"
   ],
   "伺": [
-    "zi6",
-    "si6"
+    "si6",
+    "zi6"
   ],
   "偫": [
-    "zi6",
-    "ci5"
+    "ci5",
+    "zi6"
   ],
   "傂": [
     "zi6"
@@ -20967,9 +20968,9 @@
     "zi6"
   ],
   "峙": [
-    "zi6",
     "ci5",
-    "si6"
+    "si6",
+    "zi6"
   ],
   "巳": [
     "zi6"
@@ -20981,19 +20982,19 @@
     "zi6"
   ],
   "徥": [
-    "zi6",
-    "si6"
+    "si6",
+    "zi6"
   ],
   "摨": [
     "zi6"
   ],
   "歭": [
-    "zi6",
-    "ci4"
+    "ci4",
+    "zi6"
   ],
   "治": [
-    "zi6",
-    "ci4"
+    "ci4",
+    "zi6"
   ],
   "涘": [
     "zi6"
@@ -21011,15 +21012,15 @@
     "zi6"
   ],
   "笥": [
-    "zi6",
-    "si3"
+    "si3",
+    "zi6"
   ],
   "絼": [
     "zi6"
   ],
   "耜": [
-    "zi6",
-    "ci5"
+    "ci5",
+    "zi6"
   ],
   "自": [
     "zi6"
@@ -21028,43 +21029,43 @@
     "zi6"
   ],
   "謘": [
-    "zi6",
-    "ci4"
+    "ci4",
+    "zi6"
   ],
   "跱": [
-    "zi6",
     "ci5",
-    "si6"
+    "si6",
+    "zi6"
   ],
   "阤": [
-    "zi6",
-    "to4"
+    "to4",
+    "zi6"
   ],
   "雉": [
     "zi6"
   ],
   "食": [
-    "zi6",
     "ji6",
-    "sik6"
+    "sik6",
+    "zi6"
   ],
   "飼": [
     "zi6"
   ],
   "骴": [
-    "zi6",
-    "ci1"
+    "ci1",
+    "zi6"
   ],
   "髊": [
-    "zi6",
-    "ci1"
+    "ci1",
+    "zi6"
   ],
   "鴙": [
     "zi6"
   ],
   "鶨": [
-    "zi6",
-    "deon6"
+    "deon6",
+    "zi6"
   ],
   "哧": [
     "ci1"
@@ -21313,8 +21314,8 @@
   ],
   "沶": [
     "ci4",
-    "si6",
-    "ji4"
+    "ji4",
+    "si6"
   ],
   "濨": [
     "ci4"
@@ -21398,8 +21399,8 @@
     "ji4"
   ],
   "𠂤": [
-    "si1",
-    "deoi1"
+    "deoi1",
+    "si1"
   ],
   "俬": [
     "si1"
@@ -21440,9 +21441,9 @@
     "si1"
   ],
   "施": [
+    "ji6",
     "si1",
-    "si3",
-    "ji6"
+    "si3"
   ],
   "楒": [
     "si1"
@@ -21479,8 +21480,8 @@
     "si1"
   ],
   "箷": [
-    "si1",
-    "ji4"
+    "ji4",
+    "si1"
   ],
   "絁": [
     "si1"
@@ -21568,8 +21569,8 @@
     "si3"
   ],
   "肄": [
-    "si3",
-    "ji6"
+    "ji6",
+    "si3"
   ],
   "試": [
     "si3",
@@ -21603,9 +21604,9 @@
     "si6"
   ],
   "鍉": [
-    "si4",
     "dik1",
-    "dik6"
+    "dik6",
+    "si4"
   ],
   "鰣": [
     "si4"
@@ -21683,9 +21684,9 @@
     "ji2"
   ],
   "猗": [
+    "o2",
     "ji1",
     "ji2",
-    "o2",
     "ngo2",
     "ngo5"
   ],
@@ -21932,8 +21933,8 @@
     "ji4"
   ],
   "詒": [
-    "ji4",
     "doi6",
+    "ji4",
     "toi5"
   ],
   "詑": [
@@ -22106,8 +22107,8 @@
   ],
   "杓": [
     "biu1",
-    "zoek3",
-    "soek3"
+    "soek3",
+    "zoek3"
   ],
   "標": [
     "biu1"
@@ -22278,9 +22279,9 @@
     "piu5"
   ],
   "潎": [
-    "piu3",
+    "pik1",
     "pit3",
-    "pik1"
+    "piu3"
   ],
   "篻": [
     "piu3"
@@ -22303,8 +22304,8 @@
     "piu5"
   ],
   "莩": [
-    "piu5",
-    "fu1"
+    "fu1",
+    "piu5"
   ],
   "醥": [
     "piu5"
@@ -22328,8 +22329,8 @@
     "miu4"
   ],
   "杳": [
-    "miu5",
-    "jiu2"
+    "jiu2",
+    "miu5"
   ],
   "杪": [
     "miu5"
@@ -22347,8 +22348,8 @@
     "miu5"
   ],
   "窈": [
-    "miu5",
-    "jiu2"
+    "jiu2",
+    "miu5"
   ],
   "篎": [
     "miu5",
@@ -22400,12 +22401,12 @@
     "tiu1"
   ],
   "敦": [
-    "diu1",
     "deoi1",
     "deoi3",
     "deoi6",
     "deon1",
     "deon6",
+    "diu1",
     "tyun4"
   ],
   "殦": [
@@ -22449,10 +22450,10 @@
     "diu2"
   ],
   "扚": [
-    "diu2",
     "dik1",
-    "lik6",
-    "joek6"
+    "diu2",
+    "joek6",
+    "lik6"
   ],
   "鳥": [
     "diu2",
@@ -22465,8 +22466,8 @@
     "diu3"
   ],
   "弔": [
-    "diu3",
-    "dik1"
+    "dik1",
+    "diu3"
   ],
   "盄": [
     "diu3",
@@ -22487,9 +22488,9 @@
     "diu3"
   ],
   "魡": [
-    "diu3",
     "dik1",
-    "dik6"
+    "dik6",
+    "diu3"
   ],
   "窕": [
     "diu6",
@@ -22501,8 +22502,8 @@
   ],
   "銚": [
     "diu6",
-    "siu6",
-    "jiu4"
+    "jiu4",
+    "siu6"
   ],
   "佻": [
     "tiu1",
@@ -22547,8 +22548,8 @@
     "tiu5"
   ],
   "脁": [
-    "tiu3",
-    "jiu4"
+    "jiu4",
+    "tiu3"
   ],
   "艞": [
     "tiu3"
@@ -22561,8 +22562,8 @@
     "tiu4"
   ],
   "頫": [
-    "tiu3",
-    "fu2"
+    "fu2",
+    "tiu3"
   ],
   "嬥": [
     "tiu4",
@@ -22572,8 +22573,8 @@
     "tiu4"
   ],
   "怊": [
-    "tiu4",
-    "ciu1"
+    "ciu1",
+    "tiu4"
   ],
   "條": [
     "tiu4",
@@ -22586,19 +22587,19 @@
     "tiu4"
   ],
   "芀": [
-    "tiu4",
-    "siu4"
+    "siu4",
+    "tiu4"
   ],
   "苕": [
-    "tiu4",
-    "siu4"
+    "siu4",
+    "tiu4"
   ],
   "蜩": [
     "tiu4"
   ],
   "迢": [
-    "tiu4",
-    "siu4"
+    "siu4",
+    "tiu4"
   ],
   "鎥": [
     "tiu4"
@@ -22644,9 +22645,9 @@
     "seoi1"
   ],
   "溺": [
-    "niu6",
     "nik1",
-    "nik6"
+    "nik6",
+    "niu6"
   ],
   "撂": [
     "liu1",
@@ -22827,9 +22828,9 @@
     "giu1"
   ],
   "憿": [
+    "gik1",
     "giu1",
-    "giu2",
-    "gik1"
+    "giu2"
   ],
   "澆": [
     "giu1",
@@ -22883,9 +22884,9 @@
   ],
   "蹻": [
     "giu2",
-    "kiu3",
-    "hiu1",
     "goek3",
+    "hiu1",
+    "kiu3",
     "koek6"
   ],
   "轎": [
@@ -22926,12 +22927,12 @@
     "kiu4"
   ],
   "竅": [
-    "kiu3",
-    "hiu3"
+    "hiu3",
+    "kiu3"
   ],
   "蹺": [
-    "kiu3",
-    "hiu1"
+    "hiu1",
+    "kiu3"
   ],
   "躈": [
     "kiu3"
@@ -22949,8 +22950,8 @@
     "kiu4"
   ],
   "毊": [
-    "kiu4",
-    "hiu1"
+    "hiu1",
+    "kiu4"
   ],
   "犞": [
     "kiu4"
@@ -22968,16 +22969,16 @@
     "kiu4"
   ],
   "顤": [
-    "kiu4",
-    "jiu4"
+    "jiu4",
+    "kiu4"
   ],
   "皛": [
-    "kiu5",
-    "jiu5"
+    "jiu5",
+    "kiu5"
   ],
   "繑": [
-    "kiu5",
-    "hiu1"
+    "hiu1",
+    "kiu5"
   ],
   "呺": [
     "hiu1",
@@ -23000,8 +23001,8 @@
     "hiu1"
   ],
   "橇": [
-    "hiu1",
     "ceoi3",
+    "hiu1",
     "zyut3"
   ],
   "歊": [
@@ -23052,43 +23053,43 @@
     "ziu3"
   ],
   "召": [
+    "siu6",
     "ziu1",
-    "ziu6",
-    "siu6"
+    "ziu6"
   ],
   "妱": [
     "ziu1"
   ],
   "嫶": [
-    "ziu1",
-    "ciu4"
+    "ciu4",
+    "ziu1"
   ],
   "招": [
     "ziu1"
   ],
   "昭": [
-    "ziu1",
-    "ciu1"
+    "ciu1",
+    "ziu1"
   ],
   "朝": [
-    "ziu1",
     "ciu4",
+    "ziu1",
     "zyu1"
   ],
   "椒": [
     "ziu1"
   ],
   "炤": [
+    "ciu1",
     "ziu1",
-    "ziu3",
-    "ciu1"
+    "ziu3"
   ],
   "焦": [
     "ziu1"
   ],
   "燋": [
-    "ziu1",
-    "ciu4"
+    "ciu4",
+    "ziu1"
   ],
   "礁": [
     "ziu1"
@@ -23106,51 +23107,51 @@
     "ziu1"
   ],
   "釗": [
-    "ziu1",
-    "ciu1"
+    "ciu1",
+    "ziu1"
   ],
   "鉊": [
-    "ziu1",
-    "ciu1"
+    "ciu1",
+    "ziu1"
   ],
   "鍣": [
-    "ziu1",
-    "ciu1"
+    "ciu1",
+    "ziu1"
   ],
   "鐎": [
-    "ziu1",
-    "ciu4"
+    "ciu4",
+    "ziu1"
   ],
   "駋": [
-    "ziu1",
-    "ciu1"
+    "ciu1",
+    "ziu1"
   ],
   "鷦": [
     "ziu1"
   ],
   "鼂": [
-    "ziu1",
-    "ciu4"
+    "ciu4",
+    "ziu1"
   ],
   "沼": [
     "ziu2"
   ],
   "潐": [
+    "ciu4",
     "ziu2",
-    "ziu3",
-    "ciu4"
+    "ziu3"
   ],
   "菬": [
-    "ziu2",
-    "ciu4"
+    "ciu4",
+    "ziu2"
   ],
   "曌": [
     "ziu3"
   ],
   "灂": [
+    "coek3",
     "ziu3",
-    "zok6",
-    "coek3"
+    "zok6"
   ],
   "照": [
     "ziu3"
@@ -23185,28 +23186,28 @@
     "zoek6"
   ],
   "垗": [
-    "ziu6",
-    "siu6"
+    "siu6",
+    "ziu6"
   ],
   "摷": [
     "ziu6"
   ],
   "狣": [
-    "ziu6",
-    "siu6"
+    "siu6",
+    "ziu6"
   ],
   "誚": [
-    "ziu6",
-    "ciu3"
+    "ciu3",
+    "ziu6"
   ],
   "譙": [
-    "ziu6",
     "ciu3",
-    "ciu4"
+    "ciu4",
+    "ziu6"
   ],
   "鮡": [
-    "ziu6",
-    "siu6"
+    "siu6",
+    "ziu6"
   ],
   "幧": [
     "ciu1"
@@ -23224,8 +23225,8 @@
   ],
   "繰": [
     "ciu1",
-    "zou2",
-    "sou1"
+    "sou1",
+    "zou2"
   ],
   "超": [
     "ciu1"
@@ -23369,8 +23370,8 @@
     "siu2"
   ],
   "嘯": [
-    "siu3",
-    "cik1"
+    "cik1",
+    "siu3"
   ],
   "熽": [
     "siu3"
@@ -23415,9 +23416,9 @@
     "jiu1"
   ],
   "夭": [
+    "ou2",
     "jiu1",
-    "jiu2",
-    "ou2"
+    "jiu2"
   ],
   "妖": [
     "jiu1",
@@ -23475,8 +23476,8 @@
     "jiu2"
   ],
   "蓔": [
-    "jiu2",
-    "guk1"
+    "guk1",
+    "jiu2"
   ],
   "騕": [
     "jiu2",
@@ -23630,8 +23631,8 @@
   "跕": [
     "dim2",
     "dip6",
-    "tip3",
-    "dit3"
+    "dit3",
+    "tip3"
   ],
   "踮": [
     "dim2",
@@ -23648,8 +23649,8 @@
     "din2",
     "din3",
     "din6",
-    "zin3",
-    "dip6"
+    "dip6",
+    "zin3"
   ],
   "店": [
     "dim3"
@@ -23746,8 +23747,8 @@
     "nim4"
   ],
   "唸": [
-    "nim6",
-    "din6"
+    "din6",
+    "nim6"
   ],
   "念": [
     "nim6"
@@ -23769,8 +23770,8 @@
     "lim4"
   ],
   "搛": [
-    "lim4",
-    "gim1"
+    "gim1",
+    "lim4"
   ],
   "槏": [
     "lim4"
@@ -23783,8 +23784,8 @@
     "lim4"
   ],
   "瞼": [
-    "lim4",
-    "gim2"
+    "gim2",
+    "lim4"
   ],
   "磏": [
     "lim4"
@@ -23840,10 +23841,10 @@
     "lim5"
   ],
   "薟": [
-    "lim5",
-    "lim6",
+    "cim1",
     "him1",
-    "cim1"
+    "lim5",
+    "lim6"
   ],
   "襝": [
     "lim5",
@@ -23883,12 +23884,12 @@
     "gim6"
   ],
   "鐱": [
-    "gim6",
-    "cim1"
+    "cim1",
+    "gim6"
   ],
   "仱": [
-    "kim4",
-    "ging1"
+    "ging1",
+    "kim4"
   ],
   "岒": [
     "kim4"
@@ -23938,8 +23939,8 @@
     "him2"
   ],
   "譣": [
-    "him2",
-    "cim1"
+    "cim1",
+    "him2"
   ],
   "險": [
     "him2"
@@ -23964,44 +23965,44 @@
     "him3"
   ],
   "佔": [
+    "cim1",
     "zim1",
-    "zim3",
-    "cim1"
+    "zim3"
   ],
   "占": [
     "zim1",
     "zim3"
   ],
   "呫": [
-    "zim1",
+    "cip3",
     "tip3",
-    "cip3"
+    "zim1"
   ],
   "尖": [
     "zim1"
   ],
   "幨": [
-    "zim1",
-    "cim1"
+    "cim1",
+    "zim1"
   ],
   "怗": [
-    "zim1",
-    "tip3"
+    "tip3",
+    "zim1"
   ],
   "惉": [
     "zim1"
   ],
   "櫼": [
-    "zim1",
-    "cim1"
+    "cim1",
+    "zim1"
   ],
   "沾": [
-    "zim1",
-    "tip3"
+    "tip3",
+    "zim1"
   ],
   "瀸": [
-    "zim1",
-    "cim1"
+    "cim1",
+    "zim1"
   ],
   "熸": [
     "zim1"
@@ -24013,17 +24014,17 @@
     "zim1"
   ],
   "蛅": [
-    "zim1",
-    "jim4"
+    "jim4",
+    "zim1"
   ],
   "襜": [
-    "zim1",
     "cim1",
-    "sim4"
+    "sim4",
+    "zim1"
   ],
   "覘": [
-    "zim1",
-    "cim1"
+    "cim1",
+    "zim1"
   ],
   "詹": [
     "zim1"
@@ -24032,8 +24033,8 @@
     "zim1"
   ],
   "鑯": [
-    "zim1",
-    "cim1"
+    "cim1",
+    "zim1"
   ],
   "霑": [
     "zim1"
@@ -24045,9 +24046,9 @@
     "zim3"
   ],
   "僭": [
-    "zim3",
     "cim3",
-    "cim5"
+    "cim5",
+    "zim3"
   ],
   "螹": [
     "zim6"
@@ -24109,9 +24110,9 @@
     "cim4"
   ],
   "笘": [
+    "dip3",
     "sim1",
-    "sim3",
-    "dip3"
+    "sim3"
   ],
   "苫": [
     "sim1",
@@ -24161,8 +24162,8 @@
     "sim4"
   ],
   "剡": [
-    "sim6",
-    "jim5"
+    "jim5",
+    "sim6"
   ],
   "贍": [
     "sim6",
@@ -24223,8 +24224,8 @@
     "jim2"
   ],
   "广": [
-    "jim2",
-    "gwong2"
+    "gwong2",
+    "jim2"
   ],
   "弇": [
     "jim2"
@@ -24502,8 +24503,8 @@
     "pin2"
   ],
   "頨": [
-    "pin3",
-    "jyu5"
+    "jyu5",
+    "pin3"
   ],
   "騙": [
     "pin3"
@@ -24571,8 +24572,8 @@
     "min5"
   ],
   "俛": [
-    "min5",
-    "fu2"
+    "fu2",
+    "min5"
   ],
   "偭": [
     "min5",
@@ -24730,8 +24731,8 @@
     "tin3"
   ],
   "町": [
-    "tin2",
     "ding1",
+    "tin2",
     "ting1",
     "ting2",
     "ting5"
@@ -24802,8 +24803,8 @@
     "zin2"
   ],
   "晛": [
-    "nin6",
-    "jin5"
+    "jin5",
+    "nin6"
   ],
   "鏈": [
     "lin2",
@@ -25019,8 +25020,8 @@
     "kin3"
   ],
   "乾": [
-    "kin4",
-    "gon1"
+    "gon1",
+    "kin4"
   ],
   "墘": [
     "kin4"
@@ -25175,8 +25176,8 @@
     "zin1"
   ],
   "淺": [
-    "zin1",
-    "cin2"
+    "cin2",
+    "zin1"
   ],
   "湔": [
     "zin1",
@@ -25216,8 +25217,8 @@
     "zin2"
   ],
   "鱣": [
-    "zin1",
-    "sin5"
+    "sin5",
+    "zin1"
   ],
   "鸇": [
     "zin1"
@@ -25230,12 +25231,12 @@
     "zyun1"
   ],
   "囅": [
-    "zin2",
-    "cin2"
+    "cin2",
+    "zin2"
   ],
   "媊": [
-    "zin2",
-    "cin4"
+    "cin4",
+    "zin2"
   ],
   "嫸": [
     "zin2"
@@ -25244,8 +25245,8 @@
     "zin2"
   ],
   "幝": [
-    "zin2",
-    "cin2"
+    "cin2",
+    "zin2"
   ],
   "戩": [
     "zin2"
@@ -25254,8 +25255,8 @@
     "zin2"
   ],
   "樿": [
-    "zin2",
-    "sin6"
+    "sin6",
+    "zin2"
   ],
   "灛": [
     "zin2"
@@ -25270,8 +25271,8 @@
     "zin2"
   ],
   "蕆": [
-    "zin2",
-    "cin2"
+    "cin2",
+    "zin2"
   ],
   "諓": [
     "zin2",
@@ -25285,13 +25286,13 @@
     "zin2"
   ],
   "錢": [
-    "zin2",
-    "cin4"
+    "cin4",
+    "zin2"
   ],
   "闡": [
-    "zin2",
     "cin2",
-    "sin6"
+    "sin6",
+    "zin2"
   ],
   "戰": [
     "zin3"
@@ -25300,8 +25301,8 @@
     "zin3"
   ],
   "榗": [
-    "zin3",
-    "zeon3"
+    "zeon3",
+    "zin3"
   ],
   "洊": [
     "zin3",
@@ -25337,20 +25338,20 @@
     "zin6"
   ],
   "纏": [
-    "zin6",
-    "cin4"
+    "cin4",
+    "zin6"
   ],
   "袸": [
+    "cyun4",
     "zin6",
-    "zyun6",
-    "cyun4"
+    "zyun6"
   ],
   "賤": [
     "zin6"
   ],
   "踐": [
-    "zin6",
-    "cin5"
+    "cin5",
+    "zin6"
   ],
   "仟": [
     "cin1"
@@ -25499,9 +25500,9 @@
     "sin2"
   ],
   "倩": [
+    "cing3",
     "sin3",
-    "sin6",
-    "cing3"
+    "sin6"
   ],
   "扇": [
     "sin3"
@@ -25516,9 +25517,9 @@
     "sin3"
   ],
   "箐": [
+    "coeng1",
     "sin3",
-    "zing1",
-    "coeng1"
+    "zing1"
   ],
   "篟": [
     "sin3"
@@ -25549,8 +25550,8 @@
     "sin3"
   ],
   "鋋": [
-    "sin4",
-    "jin4"
+    "jin4",
+    "sin4"
   ],
   "灗": [
     "sin5"
@@ -25577,12 +25578,12 @@
     "sin6"
   ],
   "羡": [
-    "sin6",
-    "jin4"
+    "jin4",
+    "sin6"
   ],
   "羨": [
-    "sin6",
-    "jin4"
+    "jin4",
+    "sin6"
   ],
   "膳": [
     "sin6"
@@ -25848,8 +25849,8 @@
     "jin6"
   ],
   "萒": [
-    "jin5",
-    "gyun6"
+    "gyun6",
+    "jin5"
   ],
   "讞": [
     "jin5",
@@ -25888,8 +25889,8 @@
     "jin6"
   ],
   "鬳": [
-    "jin6",
-    "gyun3"
+    "gyun3",
+    "jin6"
   ],
   "齞": [
     "jin6"
@@ -26006,8 +26007,8 @@
     "ping1"
   ],
   "覮": [
-    "ping1",
-    "jing4"
+    "jing4",
+    "ping1"
   ],
   "閛": [
     "ping1"
@@ -26019,8 +26020,8 @@
     "ping3"
   ],
   "騁": [
-    "ping3",
-    "cing2"
+    "cing2",
+    "ping3"
   ],
   "呯": [
     "ping4"
@@ -26041,8 +26042,8 @@
     "ping4"
   ],
   "秤": [
-    "ping4",
-    "cing3"
+    "cing3",
+    "ping4"
   ],
   "竮": [
     "ping4"
@@ -26104,16 +26105,16 @@
     "ming5"
   ],
   "蓂": [
+    "mik6",
     "ming4",
-    "ming5",
-    "mik6"
+    "ming5"
   ],
   "螟": [
     "ming4"
   ],
   "覭": [
-    "ming4",
-    "mik6"
+    "mik6",
+    "ming4"
   ],
   "鄍": [
     "ming4"
@@ -26162,8 +26163,8 @@
     "ding2"
   ],
   "虰": [
-    "ding1",
-    "cing1"
+    "cing1",
+    "ding1"
   ],
   "酊": [
     "ding1",
@@ -26219,8 +26220,8 @@
     "ting1"
   ],
   "烴": [
-    "ting1",
-    "ging2"
+    "ging2",
+    "ting1"
   ],
   "綎": [
     "ting1",
@@ -26319,16 +26320,16 @@
     "ting5"
   ],
   "拎": [
-    "ning1",
     "ling1",
-    "ling4"
+    "ling4",
+    "ning1"
   ],
   "擰": [
+    "ling2",
+    "ling6",
     "ning1",
     "ning4",
-    "ning6",
-    "ling2",
-    "ling6"
+    "ning6"
   ],
   "嚀": [
     "ning4"
@@ -26337,8 +26338,8 @@
     "ning4"
   ],
   "宁": [
-    "ning4",
-    "cyu5"
+    "cyu5",
+    "ning4"
   ],
   "寍": [
     "ning4",
@@ -26349,8 +26350,8 @@
     "ning6"
   ],
   "檸": [
-    "ning4",
-    "ling4"
+    "ling4",
+    "ning4"
   ],
   "獰": [
     "ning4"
@@ -26470,9 +26471,9 @@
     "ling4"
   ],
   "磷": [
-    "ling4",
     "leon4",
-    "leon6"
+    "leon6",
+    "ling4"
   ],
   "稜": [
     "ling4",
@@ -26690,9 +26691,9 @@
     "loeng6"
   ],
   "殑": [
+    "cing4",
     "ging6",
-    "king4",
-    "cing4"
+    "king4"
   ],
   "痙": [
     "ging6"
@@ -26701,9 +26702,9 @@
     "king1"
   ],
   "漀": [
+    "hing1",
     "king1",
-    "king2",
-    "hing1"
+    "king2"
   ],
   "頃": [
     "king1",
@@ -26713,12 +26714,12 @@
     "king2"
   ],
   "謦": [
-    "king2",
-    "hing3"
+    "hing3",
+    "king2"
   ],
   "凝": [
-    "king4",
-    "jing4"
+    "jing4",
+    "king4"
   ],
   "勍": [
     "king4"
@@ -26773,8 +26774,8 @@
     "king4"
   ],
   "兄": [
-    "hing1",
-    "fong3"
+    "fong3",
+    "hing1"
   ],
   "𠨍": [
     "hing1",
@@ -26799,8 +26800,8 @@
     "hing1"
   ],
   "慶": [
-    "hing3",
-    "goeng1"
+    "goeng1",
+    "hing3"
   ],
   "敻": [
     "hing3",
@@ -26817,8 +26818,8 @@
     "hing3"
   ],
   "詗": [
-    "hing3",
-    "gwing2"
+    "gwing2",
+    "hing3"
   ],
   "冂": [
     "gwing1",
@@ -26882,8 +26883,8 @@
     "gwing2"
   ],
   "扔": [
-    "wing1",
-    "jing4"
+    "jing4",
+    "wing1"
   ],
   "榮": [
     "wing4"
@@ -26937,12 +26938,12 @@
     "zing1"
   ],
   "旌": [
-    "zing1",
-    "sing1"
+    "sing1",
+    "zing1"
   ],
   "旍": [
-    "zing1",
-    "sing1"
+    "sing1",
+    "zing1"
   ],
   "晶": [
     "zing1"
@@ -26986,8 +26987,8 @@
     "zing1"
   ],
   "菁": [
-    "zing1",
-    "cing1"
+    "cing1",
+    "zing1"
   ],
   "蒸": [
     "zing1"
@@ -26996,8 +26997,8 @@
     "zing1"
   ],
   "赬": [
-    "zing1",
-    "cing1"
+    "cing1",
+    "zing1"
   ],
   "遉": [
     "zing1"
@@ -27025,9 +27026,9 @@
     "zing3"
   ],
   "氶": [
-    "zing3",
     "cing2",
-    "sing4"
+    "sing4",
+    "zing3"
   ],
   "証": [
     "zing3"
@@ -27036,12 +27037,12 @@
     "zing3"
   ],
   "凊": [
-    "zing6",
-    "cing3"
+    "cing3",
+    "zing6"
   ],
   "剩": [
-    "zing6",
-    "sing6"
+    "sing6",
+    "zing6"
   ],
   "婧": [
     "zing6"
@@ -27404,8 +27405,8 @@
     "jing4"
   ],
   "夃": [
-    "jing4",
-    "gu2"
+    "gu2",
+    "jing4"
   ],
   "娙": [
     "jing4"
@@ -27585,8 +27586,8 @@
     "sip3"
   ],
   "臬": [
-    "nip6",
-    "jit6"
+    "jit6",
+    "nip6"
   ],
   "苶": [
     "nip6"
@@ -27607,12 +27608,12 @@
     "nip6"
   ],
   "隉": [
-    "nip6",
-    "jit6"
+    "jit6",
+    "nip6"
   ],
   "顳": [
-    "nip6",
-    "jip6"
+    "jip6",
+    "nip6"
   ],
   "儠": [
     "lip6"
@@ -27621,9 +27622,9 @@
     "lip6"
   ],
   "獦": [
-    "lip6",
     "got3",
-    "hot3"
+    "hot3",
+    "lip6"
   ],
   "獵": [
     "lip6"
@@ -27700,25 +27701,25 @@
     "zit6"
   ],
   "囁": [
-    "zip3",
-    "jip6"
+    "jip6",
+    "zip3"
   ],
   "婕": [
     "zip3",
     "zit3"
   ],
   "慴": [
-    "zip3",
-    "sip3"
+    "sip3",
+    "zip3"
   ],
   "懾": [
-    "zip3",
-    "sip3"
+    "sip3",
+    "zip3"
   ],
   "折": [
+    "sit6",
     "zip3",
-    "zit3",
-    "sit6"
+    "zit3"
   ],
   "接": [
     "zip3"
@@ -27741,8 +27742,8 @@
     "zip3"
   ],
   "讘": [
-    "zip3",
-    "jip6"
+    "jip6",
+    "zip3"
   ],
   "輒": [
     "zip3",
@@ -27772,8 +27773,8 @@
     "sit3"
   ],
   "揳": [
-    "sip3",
     "git3",
+    "sip3",
     "sit3"
   ],
   "涉": [
@@ -27791,8 +27792,8 @@
     "sit3"
   ],
   "葉": [
-    "sip3",
-    "jip6"
+    "jip6",
+    "sip3"
   ],
   "蠂": [
     "sip3"
@@ -27829,8 +27830,8 @@
   ],
   "嶭": [
     "jip6",
-    "sit3",
-    "jit6"
+    "jit6",
+    "sit3"
   ],
   "擛": [
     "jip6"
@@ -27982,8 +27983,8 @@
   ],
   "尐": [
     "dit1",
-    "zit3",
-    "zik1"
+    "zik1",
+    "zit3"
   ],
   "垤": [
     "dit6"
@@ -27995,8 +27996,8 @@
     "dit6"
   ],
   "柣": [
-    "dit6",
-    "cit3"
+    "cit3",
+    "dit6"
   ],
   "瓞": [
     "dit6"
@@ -28059,12 +28060,12 @@
     "tit3"
   ],
   "結": [
-    "lit3",
-    "git3"
+    "git3",
+    "lit3"
   ],
   "纈": [
-    "lit3",
-    "kit3"
+    "kit3",
+    "lit3"
   ],
   "冽": [
     "lit6"
@@ -28184,19 +28185,19 @@
     "kit3"
   ],
   "嵑": [
-    "kit3",
-    "hot3"
+    "hot3",
+    "kit3"
   ],
   "挈": [
-    "kit3",
-    "hit3"
+    "hit3",
+    "kit3"
   ],
   "朅": [
     "kit3"
   ],
   "渴": [
-    "kit3",
-    "hot3"
+    "hot3",
+    "kit3"
   ],
   "硈": [
     "kit3"
@@ -28217,21 +28218,21 @@
     "kit3"
   ],
   "蛪": [
-    "kit3",
-    "jit6"
+    "jit6",
+    "kit3"
   ],
   "蝎": [
-    "kit3",
     "hit3",
     "hot3",
-    "hot6"
+    "hot6",
+    "kit3"
   ],
   "蝢": [
     "kit3"
   ],
   "蠍": [
-    "kit3",
-    "hit3"
+    "hit3",
+    "kit3"
   ],
   "褉": [
     "kit3"
@@ -28240,8 +28241,8 @@
     "kit3"
   ],
   "謁": [
-    "kit3",
-    "jit3"
+    "jit3",
+    "kit3"
   ],
   "鍥": [
     "kit3"
@@ -28408,19 +28409,19 @@
     "sit3"
   ],
   "蝕": [
-    "sit6",
-    "sik6"
+    "sik6",
+    "sit6"
   ],
   "喝": [
-    "jit3",
-    "hot3"
+    "hot3",
+    "jit3"
   ],
   "噎": [
     "jit3"
   ],
   "暍": [
-    "jit3",
-    "hot3"
+    "hot3",
+    "jit3"
   ],
   "嵲": [
     "jit6"
@@ -28499,8 +28500,8 @@
   ],
   "踾": [
     "bik1",
-    "pik1",
-    "fuk1"
+    "fuk1",
+    "pik1"
   ],
   "躄": [
     "bik1"
@@ -28516,12 +28517,12 @@
     "bik1"
   ],
   "僻": [
-    "pik1",
-    "bui6"
+    "bui6",
+    "pik1"
   ],
   "副": [
-    "pik1",
-    "fu3"
+    "fu3",
+    "pik1"
   ],
   "憵": [
     "pik1"
@@ -28650,8 +28651,8 @@
     "tik1"
   ],
   "苖": [
-    "dik6",
-    "cuk1"
+    "cuk1",
+    "dik6"
   ],
   "荻": [
     "dik6"
@@ -28666,9 +28667,9 @@
     "dik6"
   ],
   "踧": [
+    "cuk1",
     "dik6",
-    "zuk1",
-    "cuk1"
+    "zuk1"
   ],
   "迪": [
     "dik6"
@@ -28681,8 +28682,8 @@
     "dik6"
   ],
   "俶": [
-    "tik1",
-    "cuk1"
+    "cuk1",
+    "tik1"
   ],
   "倜": [
     "tik1"
@@ -28700,8 +28701,8 @@
     "tik1"
   ],
   "慝": [
-    "tik1",
-    "nik1"
+    "nik1",
+    "tik1"
   ],
   "瓋": [
     "tik1"
@@ -28713,9 +28714,9 @@
     "tik1"
   ],
   "躍": [
-    "tik1",
     "joek3",
-    "joek6"
+    "joek6",
+    "tik1"
   ],
   "鋱": [
     "tik1"
@@ -28898,8 +28899,8 @@
     "hik1"
   ],
   "虩": [
-    "hik1",
-    "gwik1"
+    "gwik1",
+    "hik1"
   ],
   "衋": [
     "hik1",
@@ -29003,8 +29004,8 @@
     "wik6"
   ],
   "戫": [
-    "wik6",
-    "juk1"
+    "juk1",
+    "wik6"
   ],
   "棫": [
     "wik6"
@@ -29041,9 +29042,9 @@
     "zik1"
   ],
   "捗": [
-    "zik1",
     "bou6",
-    "pou4"
+    "pou4",
+    "zik1"
   ],
   "樴": [
     "zik1"
@@ -29252,12 +29253,12 @@
     "sik1"
   ],
   "晹": [
-    "sik1",
-    "jik6"
+    "jik6",
+    "sik1"
   ],
   "棤": [
-    "sik1",
-    "coek3"
+    "coek3",
+    "sik1"
   ],
   "淅": [
     "sik1"
@@ -29275,8 +29276,8 @@
     "sik1"
   ],
   "獡": [
-    "sik1",
     "coek3",
+    "sik1",
     "soek3"
   ],
   "瘜": [
@@ -29311,8 +29312,8 @@
     "sik1"
   ],
   "薔": [
-    "sik1",
-    "coeng4"
+    "coeng4",
+    "sik1"
   ],
   "蜥": [
     "sik1"
@@ -29333,15 +29334,15 @@
     "sik1"
   ],
   "适": [
-    "sik1",
-    "kut3"
+    "kut3",
+    "sik1"
   ],
   "鄎": [
     "sik1"
   ],
   "醳": [
-    "sik1",
-    "jik6"
+    "jik6",
+    "sik1"
   ],
   "釋": [
     "sik1"
@@ -29448,8 +29449,8 @@
     "jik6"
   ],
   "斁": [
-    "jik6",
-    "dou3"
+    "dou3",
+    "jik6"
   ],
   "瀷": [
     "jik6"
@@ -29569,8 +29570,8 @@
   ],
   "軻": [
     "o1",
-    "ngo1",
-    "ho2"
+    "ho2",
+    "ngo1"
   ],
   "哦": [
     "o2",
@@ -29606,8 +29607,8 @@
   "般": [
     "bo1",
     "bun1",
-    "pun4",
-    "but3"
+    "but3",
+    "pun4"
   ],
   "菠": [
     "bo1"
@@ -29630,9 +29631,9 @@
     "po1"
   ],
   "棵": [
-    "po1",
     "fo1",
-    "fo2"
+    "fo2",
+    "po1"
   ],
   "樖": [
     "po1"
@@ -29648,8 +29649,8 @@
     "po2"
   ],
   "哱": [
-    "po3",
-    "but6"
+    "but6",
+    "po3"
   ],
   "破": [
     "po3"
@@ -29677,9 +29678,9 @@
   ],
   "摸": [
     "mo2",
-    "mou4",
     "mok3",
-    "mok6"
+    "mok6",
+    "mou4"
   ],
   "劘": [
     "mo4"
@@ -29816,8 +29817,8 @@
     "doe2"
   ],
   "椯": [
-    "do2",
     "cyun4",
+    "do2",
     "syun4"
   ],
   "綞": [
@@ -29849,8 +29850,8 @@
     "do6"
   ],
   "隋": [
-    "do6",
-    "ceoi4"
+    "ceoi4",
+    "do6"
   ],
   "馱": [
     "do6",
@@ -29873,9 +29874,9 @@
   ],
   "唾": [
     "to3",
-    "tou3",
     "toe3",
-    "toe5"
+    "toe5",
+    "tou3"
   ],
   "毤": [
     "to3"
@@ -29947,9 +29948,9 @@
     "no4"
   ],
   "撋": [
-    "no4",
     "jeon6",
-    "jyun4"
+    "jyun4",
+    "no4"
   ],
   "梛": [
     "no4"
@@ -29976,9 +29977,9 @@
     "lo1"
   ],
   "瘰": [
+    "leoi4",
     "lo2",
-    "lo5",
-    "leoi4"
+    "lo5"
   ],
   "臝": [
     "lo2",
@@ -30044,16 +30045,16 @@
     "lo4"
   ],
   "騾": [
-    "lo4",
-    "leoi4"
+    "leoi4",
+    "lo4"
   ],
   "鸁": [
     "lo4"
   ],
   "卵": [
-    "lo5",
     "leon2",
-    "leon5"
+    "leon5",
+    "lo5"
   ],
   "𣎆": [
     "lo5"
@@ -30091,8 +30092,8 @@
   ],
   "笴": [
     "go2",
-    "gou2",
-    "gon2"
+    "gon2",
+    "gou2"
   ],
   "舸": [
     "go2",
@@ -30162,8 +30163,8 @@
     "ho2"
   ],
   "嶱": [
-    "ho1",
-    "got3"
+    "got3",
+    "ho1"
   ],
   "苛": [
     "ho1",
@@ -30220,12 +30221,12 @@
     "gwo2"
   ],
   "果": [
-    "gwo2",
-    "gu2"
+    "gu2",
+    "gwo2"
   ],
   "淉": [
-    "gwo2",
-    "gun3"
+    "gun3",
+    "gwo2"
   ],
   "猓": [
     "gwo2"
@@ -30272,9 +30273,9 @@
     "wo2"
   ],
   "涴": [
-    "wo3",
     "jyun1",
-    "jyun2"
+    "jyun2",
+    "wo3"
   ],
   "和": [
     "wo4",
@@ -30324,12 +30325,12 @@
     "zo3"
   ],
   "咀": [
-    "zo3",
-    "zeoi2"
+    "zeoi2",
+    "zo3"
   ],
   "侳": [
-    "zo6",
-    "co3"
+    "co3",
+    "zo6"
   ],
   "助": [
     "zo6"
@@ -30338,8 +30339,8 @@
     "zo6"
   ],
   "坐": [
-    "zo6",
-    "co5"
+    "co5",
+    "zo6"
   ],
   "莇": [
     "zo6"
@@ -30450,9 +30451,9 @@
     "co4"
   ],
   "鉏": [
+    "ceoi4",
     "co4",
-    "zeoi6",
-    "ceoi4"
+    "zeoi6"
   ],
   "鋤": [
     "co4"
@@ -30607,8 +30608,8 @@
     "doi6"
   ],
   "祋": [
-    "doi6",
-    "deoi3"
+    "deoi3",
+    "doi6"
   ],
   "紿": [
     "doi6",
@@ -30688,8 +30689,8 @@
     "toi5"
   ],
   "餒": [
-    "noi5",
-    "neoi5"
+    "neoi5",
+    "noi5"
   ],
   "倷": [
     "noi6"
@@ -30756,14 +30757,14 @@
     "loi6"
   ],
   "耒": [
-    "loi6",
     "leoi5",
-    "leoi6"
+    "leoi6",
+    "loi6"
   ],
   "誄": [
-    "loi6",
     "leoi5",
-    "leoi6"
+    "leoi6",
+    "loi6"
   ],
   "賚": [
     "loi6"
@@ -30830,19 +30831,19 @@
     "koi3"
   ],
   "輆": [
-    "koi3",
-    "hoi2"
+    "hoi2",
+    "koi3"
   ],
   "鈣": [
     "koi3"
   ],
   "鎧": [
-    "koi3",
-    "hoi2"
+    "hoi2",
+    "koi3"
   ],
   "凱": [
-    "ngoi2",
-    "hoi2"
+    "hoi2",
+    "ngoi2"
   ],
   "敳": [
     "ngoi4",
@@ -30855,9 +30856,9 @@
     "ngoi6"
   ],
   "聵": [
-    "ngoi6",
     "kui2",
     "kui3",
+    "ngoi6",
     "wui6"
   ],
   "烗": [
@@ -31012,8 +31013,8 @@
     "soi1"
   ],
   "毸": [
-    "soi1",
-    "seoi1"
+    "seoi1",
+    "soi1"
   ],
   "腮": [
     "soi1"
@@ -31026,8 +31027,8 @@
   "奧": [
     "ou2",
     "ou3",
-    "ngou3",
-    "juk1"
+    "juk1",
+    "ngou3"
   ],
   "媼": [
     "ou2",
@@ -31063,8 +31064,8 @@
   ],
   "澳": [
     "ou3",
-    "ngou3",
-    "juk1"
+    "juk1",
+    "ngou3"
   ],
   "芺": [
     "ou3",
@@ -31072,8 +31073,8 @@
   ],
   "隩": [
     "ou3",
-    "ngou3",
-    "juk1"
+    "juk1",
+    "ngou3"
   ],
   "哺": [
     "bou1",
@@ -31207,20 +31208,20 @@
     "bou6"
   ],
   "踄": [
-    "bou6",
-    "bok6"
+    "bok6",
+    "bou6"
   ],
   "部": [
     "bou6"
   ],
   "鸔": [
-    "bou6",
     "bok3",
+    "bou6",
     "buk1"
   ],
   "痡": [
-    "pou1",
-    "fu1"
+    "fu1",
+    "pou1"
   ],
   "舖": [
     "pou1",
@@ -31253,14 +31254,14 @@
     "pou2"
   ],
   "甫": [
+    "fu2",
     "pou2",
-    "pou3",
-    "fu2"
+    "pou3"
   ],
   "脯": [
+    "fu2",
     "pou2",
-    "pou4",
-    "fu2"
+    "pou4"
   ],
   "譜": [
     "pou2"
@@ -31272,12 +31273,12 @@
     "pou4"
   ],
   "扶": [
-    "pou4",
-    "fu4"
+    "fu4",
+    "pou4"
   ],
   "莆": [
-    "pou4",
-    "fu2"
+    "fu2",
+    "pou4"
   ],
   "菩": [
     "pou4"
@@ -31286,8 +31287,8 @@
     "pou4"
   ],
   "蒲": [
-    "pou4",
-    "bok6"
+    "bok6",
+    "pou4"
   ],
   "蒱": [
     "pou4"
@@ -31307,9 +31308,9 @@
     "mou6"
   ],
   "亡": [
-    "mou4",
     "mong1",
-    "mong4"
+    "mong4",
+    "mou4"
   ],
   "嫫": [
     "mou4"
@@ -31347,8 +31348,8 @@
     "mou4"
   ],
   "膜": [
-    "mou4",
-    "mok6"
+    "mok6",
+    "mou4"
   ],
   "芼": [
     "mou4",
@@ -31385,16 +31386,16 @@
     "mou5"
   ],
   "嘸": [
-    "mou5",
+    "m4",
     "fu2",
-    "m4"
+    "mou5"
   ],
   "姆": [
     "mou5"
   ],
   "姥": [
-    "mou5",
-    "lou5"
+    "lou5",
+    "mou5"
   ],
   "峔": [
     "mou5"
@@ -31424,15 +31425,15 @@
     "mou5"
   ],
   "膴": [
-    "mou5",
-    "fu1"
+    "fu1",
+    "mou5"
   ],
   "舞": [
     "mou5"
   ],
   "茻": [
-    "mou5",
-    "mong5"
+    "mong5",
+    "mou5"
   ],
   "躌": [
     "mou5"
@@ -31485,15 +31486,15 @@
     "mou6"
   ],
   "縸": [
-    "mou6",
-    "mok6"
+    "mok6",
+    "mou6"
   ],
   "耄": [
     "mou6"
   ],
   "莫": [
-    "mou6",
-    "mok6"
+    "mok6",
+    "mou6"
   ],
   "萺": [
     "mou6",
@@ -31576,9 +31577,9 @@
     "tou2"
   ],
   "菿": [
+    "doek3",
     "dou2",
-    "dou3",
-    "doek3"
+    "dou3"
   ],
   "賭": [
     "dou2"
@@ -31604,8 +31605,8 @@
     "dou6"
   ],
   "度": [
-    "dou6",
-    "dok6"
+    "dok6",
+    "dou6"
   ],
   "悼": [
     "dou6"
@@ -31748,8 +31749,8 @@
     "tou4"
   ],
   "屠": [
-    "tou4",
-    "ceoi4"
+    "ceoi4",
+    "tou4"
   ],
   "峹": [
     "tou4"
@@ -31776,8 +31777,8 @@
     "tou4"
   ],
   "涂": [
-    "tou4",
-    "ceoi4"
+    "ceoi4",
+    "tou4"
   ],
   "淘": [
     "tou4"
@@ -31792,8 +31793,8 @@
     "tou4"
   ],
   "筡": [
-    "tou4",
-    "syu1"
+    "syu1",
+    "tou4"
   ],
   "綯": [
     "tou4"
@@ -31916,8 +31917,8 @@
     "lou4"
   ],
   "慮": [
-    "lou4",
     "leoi6",
+    "lou4",
     "luk6"
   ],
   "櫨": [
@@ -31946,15 +31947,15 @@
     "lou4"
   ],
   "璷": [
-    "lou4",
-    "fu1"
+    "fu1",
+    "lou4"
   ],
   "癆": [
     "lou4"
   ],
   "盧": [
-    "lou4",
-    "leoi4"
+    "leoi4",
+    "lou4"
   ],
   "簩": [
     "lou4",
@@ -31985,8 +31986,8 @@
     "lou4"
   ],
   "謱": [
-    "lou4",
-    "leoi5"
+    "leoi5",
+    "lou4"
   ],
   "轤": [
     "lou4"
@@ -32004,8 +32005,8 @@
     "lou4"
   ],
   "驢": [
-    "lou4",
-    "leoi4"
+    "leoi4",
+    "lou4"
   ],
   "鱸": [
     "lou4"
@@ -32107,9 +32108,9 @@
     "lou6"
   ],
   "酪": [
-    "lou6",
     "lok3",
-    "lok6"
+    "lok6",
+    "lou6"
   ],
   "鷺": [
     "lou6"
@@ -32236,8 +32237,8 @@
     "ngou4"
   ],
   "螯": [
-    "ngou4",
-    "gong6"
+    "gong6",
+    "ngou4"
   ],
   "謷": [
     "ngou4",
@@ -32363,8 +32364,8 @@
     "hou6"
   ],
   "傮": [
-    "zou1",
-    "cou4"
+    "cou4",
+    "zou1"
   ],
   "慒": [
     "zou1"
@@ -32392,12 +32393,12 @@
     "zou2"
   ],
   "澡": [
-    "zou2",
-    "cou3"
+    "cou3",
+    "zou2"
   ],
   "珇": [
-    "zou2",
-    "zeoi2"
+    "zeoi2",
+    "zou2"
   ],
   "瑵": [
     "zou2"
@@ -32421,9 +32422,9 @@
     "zou2"
   ],
   "駔": [
-    "zou2",
+    "cong2",
     "zong2",
-    "cong2"
+    "zou2"
   ],
   "灶": [
     "zou3"
@@ -32432,8 +32433,8 @@
     "zou6"
   ],
   "慥": [
-    "zou6",
-    "cou3"
+    "cou3",
+    "zou6"
   ],
   "皂": [
     "zou6"
@@ -32451,9 +32452,9 @@
     "zou6"
   ],
   "造": [
-    "zou6",
     "cou3",
-    "cou5"
+    "cou5",
+    "zou6"
   ],
   "阼": [
     "zou6"
@@ -32623,10 +32624,10 @@
     "sou3"
   ],
   "數": [
-    "sou2",
-    "sou3",
+    "cuk1",
     "sok3",
-    "cuk1"
+    "sou2",
+    "sou3"
   ],
   "傃": [
     "sou3"
@@ -32638,8 +32639,8 @@
     "sou3"
   ],
   "塑": [
-    "sou3",
-    "sok3"
+    "sok3",
+    "sou3"
   ],
   "嫊": [
     "sou3"
@@ -32735,9 +32736,9 @@
     "gon3"
   ],
   "汻": [
+    "fu2",
     "gon1",
-    "hong5",
-    "fu2"
+    "hong5"
   ],
   "漧": [
     "gon1"
@@ -32813,12 +32814,12 @@
     "hon4"
   ],
   "厈": [
-    "ngon6",
-    "hon3"
+    "hon3",
+    "ngon6"
   ],
   "婩": [
-    "ngon6",
-    "joek6"
+    "joek6",
+    "ngon6"
   ],
   "屵": [
     "ngon6"
@@ -32827,14 +32828,14 @@
     "ngon6"
   ],
   "犴": [
-    "ngon6",
     "hon4",
-    "hon6"
+    "hon6",
+    "ngon6"
   ],
   "豻": [
-    "ngon6",
     "hon4",
-    "hon6"
+    "hon6",
+    "ngon6"
   ],
   "錌": [
     "ngon6"
@@ -32955,8 +32956,8 @@
   ],
   "泱": [
     "ong1",
-    "ngong1",
-    "joeng1"
+    "joeng1",
+    "ngong1"
   ],
   "肮": [
     "ong1",
@@ -33061,48 +33062,48 @@
     "pong4"
   ],
   "仿": [
-    "pong4",
-    "fong2"
+    "fong2",
+    "pong4"
   ],
   "厖": [
-    "pong4",
-    "mong4"
+    "mong4",
+    "pong4"
   ],
   "尨": [
-    "pong4",
     "mong4",
-    "mung4"
+    "mung4",
+    "pong4"
   ],
   "庬": [
-    "pong4",
-    "mong4"
+    "mong4",
+    "pong4"
   ],
   "彷": [
-    "pong4",
-    "fong2"
+    "fong2",
+    "pong4"
   ],
   "房": [
-    "pong4",
-    "fong4"
+    "fong4",
+    "pong4"
   ],
   "汸": [
-    "pong4",
-    "fong1"
+    "fong1",
+    "pong4"
   ],
   "舽": [
-    "pong4",
-    "fung4"
+    "fung4",
+    "pong4"
   ],
   "逄": [
     "pong4"
   ],
   "龐": [
-    "pong4",
-    "lung4"
+    "lung4",
+    "pong4"
   ],
   "玤": [
-    "pong5",
-    "bung2"
+    "bung2",
+    "pong5"
   ],
   "硥": [
     "pong5"
@@ -33111,8 +33112,8 @@
     "pong5"
   ],
   "蛖": [
-    "pong5",
-    "mong4"
+    "mong4",
+    "pong5"
   ],
   "哤": [
     "mong4"
@@ -33154,8 +33155,8 @@
     "mong4"
   ],
   "芒": [
-    "mong4",
-    "fong2"
+    "fong2",
+    "mong4"
   ],
   "茫": [
     "mong4"
@@ -33429,8 +33430,8 @@
     "dong6"
   ],
   "瑒": [
-    "dong6",
     "coeng3",
+    "dong6",
     "joeng4"
   ],
   "璗": [
@@ -33461,10 +33462,10 @@
     "tong4"
   ],
   "湯": [
-    "tong1",
-    "tong3",
+    "joeng4",
     "soeng1",
-    "joeng4"
+    "tong1",
+    "tong3"
   ],
   "羰": [
     "tong1"
@@ -33489,27 +33490,27 @@
     "tong3"
   ],
   "闛": [
+    "coeng1",
     "tong1",
-    "tong4",
-    "coeng1"
+    "tong4"
   ],
   "鼞": [
     "tong1"
   ],
   "倘": [
-    "tong2",
-    "soeng4"
+    "soeng4",
+    "tong2"
   ],
   "儻": [
     "tong2"
   ],
   "惝": [
-    "tong2",
-    "cong2"
+    "cong2",
+    "tong2"
   ],
   "戃": [
-    "tong2",
-    "cong2"
+    "cong2",
+    "tong2"
   ],
   "曭": [
     "tong2"
@@ -33551,9 +33552,9 @@
     "tong4"
   ],
   "幢": [
+    "cong4",
     "tong4",
-    "zong6",
-    "cong4"
+    "zong6"
   ],
   "搪": [
     "tong4"
@@ -33670,8 +33671,8 @@
   ],
   "瀧": [
     "long4",
-    "soeng1",
-    "lung4"
+    "lung4",
+    "soeng1"
   ],
   "狼": [
     "long4"
@@ -33692,21 +33693,21 @@
     "long4"
   ],
   "莨": [
+    "loeng4",
     "long4",
-    "long6",
-    "loeng4"
+    "long6"
   ],
   "蜋": [
-    "long4",
-    "loeng4"
+    "loeng4",
+    "long4"
   ],
   "螂": [
     "long4"
   ],
   "踉": [
-    "long4",
     "loeng4",
-    "loeng6"
+    "loeng6",
+    "long4"
   ],
   "郎": [
     "long4"
@@ -33718,15 +33719,15 @@
     "long4"
   ],
   "駺": [
-    "long4",
-    "loeng4"
+    "loeng4",
+    "long4"
   ],
   "塱": [
     "long5"
   ],
   "悢": [
-    "long5",
-    "loeng6"
+    "loeng6",
+    "long5"
   ],
   "朗": [
     "long5"
@@ -33884,9 +33885,9 @@
     "hong4"
   ],
   "慷": [
-    "kong2",
     "hong1",
-    "hong2"
+    "hong2",
+    "kong2"
   ],
   "伉": [
     "kong3"
@@ -33913,18 +33914,18 @@
     "kong3"
   ],
   "擴": [
-    "kong3",
-    "kwong3",
     "gwok3",
-    "kwok3"
+    "kong3",
+    "kwok3",
+    "kwong3"
   ],
   "曠": [
     "kong3",
     "kwong3"
   ],
   "炕": [
-    "kong3",
-    "hong3"
+    "hong3",
+    "kong3"
   ],
   "爌": [
     "kong3",
@@ -33934,8 +33935,8 @@
     "kong3"
   ],
   "礦": [
-    "kong3",
     "gwong3",
+    "kong3",
     "kwong3"
   ],
   "穬": [
@@ -33961,24 +33962,24 @@
     "kong3"
   ],
   "鏮": [
-    "kong3",
-    "hong1"
+    "hong1",
+    "kong3"
   ],
   "閌": [
     "kong3"
   ],
   "頏": [
-    "kong3",
-    "hong4"
+    "hong4",
+    "kong3"
   ],
   "狂": [
     "kong4",
     "kwong4"
   ],
   "誑": [
-    "kong4",
     "gwong2",
     "gwong3",
+    "kong4",
     "wong2"
   ],
   "鵟": [
@@ -33986,16 +33987,16 @@
     "kwong4"
   ],
   "卬": [
-    "ngong4",
-    "joeng5"
+    "joeng5",
+    "ngong4"
   ],
   "昂": [
     "ngong4",
     "ngong5"
   ],
   "仰": [
-    "ngong5",
-    "joeng5"
+    "joeng5",
+    "ngong5"
   ],
   "戇": [
     "ngong6",
@@ -34066,8 +34067,8 @@
     "hong6"
   ],
   "缿": [
-    "hong6",
-    "hoeng3"
+    "hoeng3",
+    "hong6"
   ],
   "衖": [
     "hong6",
@@ -34280,17 +34281,17 @@
     "zong1"
   ],
   "臧": [
+    "cong4",
     "zong1",
-    "zong6",
-    "cong4"
+    "zong6"
   ],
   "莊": [
     "zong1"
   ],
   "藏": [
+    "cong4",
     "zong1",
-    "zong6",
-    "cong4"
+    "zong6"
   ],
   "裝": [
     "zong1"
@@ -34302,24 +34303,24 @@
     "zong1"
   ],
   "僮": [
+    "tung4",
     "zong3",
-    "zong6",
-    "tung4"
+    "zong6"
   ],
   "焋": [
     "zong3"
   ],
   "獞": [
+    "tung4",
     "zong3",
-    "zong6",
-    "tung4"
+    "zong6"
   ],
   "葬": [
     "zong3"
   ],
   "撞": [
-    "zong6",
-    "cong4"
+    "cong4",
+    "zong6"
   ],
   "狀": [
     "zong6"
@@ -34346,10 +34347,10 @@
     "cong1"
   ],
   "搶": [
-    "cong1",
-    "cong2",
     "coeng1",
-    "coeng2"
+    "coeng2",
+    "cong1",
+    "cong2"
   ],
   "滄": [
     "cong1"
@@ -34368,8 +34369,8 @@
     "cong2"
   ],
   "鶬": [
-    "cong1",
-    "coeng1"
+    "coeng1",
+    "cong1"
   ],
   "傸": [
     "cong2"
@@ -34385,8 +34386,8 @@
     "cong2"
   ],
   "昶": [
-    "cong2",
-    "coeng3"
+    "coeng3",
+    "cong2"
   ],
   "氅": [
     "cong2"
@@ -34501,8 +34502,8 @@
   ],
   "惡": [
     "ok3",
-    "ngok3",
     "fu1",
+    "ngok3",
     "wu1",
     "wu3"
   ],
@@ -34613,8 +34614,8 @@
     "pok3"
   ],
   "墣": [
-    "pok3",
-    "buk6"
+    "buk6",
+    "pok3"
   ],
   "扑": [
     "pok3"
@@ -34624,9 +34625,9 @@
     "puk1"
   ],
   "樸": [
-    "pok3",
     "buk1",
-    "buk6"
+    "buk6",
+    "pok3"
   ],
   "烞": [
     "pok3"
@@ -34641,24 +34642,24 @@
     "pok3"
   ],
   "蹼": [
-    "pok3",
     "buk1",
-    "buk6"
+    "buk6",
+    "pok3"
   ],
   "轐": [
-    "pok3",
-    "buk6"
+    "buk6",
+    "pok3"
   ],
   "醭": [
-    "pok3",
-    "buk6"
+    "buk6",
+    "pok3"
   ],
   "釙": [
     "pok3"
   ],
   "鏷": [
-    "pok3",
-    "buk6"
+    "buk6",
+    "pok3"
   ],
   "塻": [
     "mok6"
@@ -34801,8 +34802,8 @@
     "tok3"
   ],
   "馲": [
-    "tok3",
-    "lok6"
+    "lok6",
+    "tok3"
   ],
   "魠": [
     "tok3"
@@ -34830,9 +34831,9 @@
     "lok6"
   ],
   "硌": [
+    "gok3",
     "lok3",
-    "lok6",
-    "gok3"
+    "lok6"
   ],
   "絡": [
     "lok3",
@@ -34850,8 +34851,8 @@
     "lok6"
   ],
   "鉻": [
-    "lok6",
-    "gok3"
+    "gok3",
+    "lok6"
   ],
   "傕": [
     "gok3"
@@ -34881,8 +34882,8 @@
     "gok3"
   ],
   "腳": [
-    "gok3",
-    "goek3"
+    "goek3",
+    "gok3"
   ],
   "角": [
     "gok3",
@@ -34914,8 +34915,8 @@
     "kok3"
   ],
   "涸": [
-    "kok3",
-    "hok6"
+    "hok6",
+    "kok3"
   ],
   "确": [
     "kok3"
@@ -34937,8 +34938,8 @@
     "kok3"
   ],
   "觳": [
-    "kok3",
-    "huk6"
+    "huk6",
+    "kok3"
   ],
   "咢": [
     "ngok6"
@@ -34968,19 +34969,19 @@
     "ngok6"
   ],
   "藥": [
-    "ngok6",
-    "joek6"
+    "joek6",
+    "ngok6"
   ],
   "蘁": [
-    "ngok6",
-    "ng6"
+    "ng6",
+    "ngok6"
   ],
   "諤": [
     "ngok6"
   ],
   "遻": [
-    "ngok6",
-    "ng6"
+    "ng6",
+    "ngok6"
   ],
   "鄂": [
     "ngok6"
@@ -35089,9 +35090,9 @@
     "kwok3"
   ],
   "籗": [
+    "doek3",
     "kwok3",
-    "zok6",
-    "doek3"
+    "zok6"
   ],
   "鞹": [
     "kwok3"
@@ -35180,19 +35181,19 @@
     "zuk1"
   ],
   "卓": [
+    "coek3",
     "cok3",
-    "zoek3",
-    "coek3"
+    "zoek3"
   ],
   "戳": [
+    "coek3",
     "cok3",
-    "zoek3",
-    "coek3"
+    "zoek3"
   ],
   "擉": [
     "cok3",
-    "zuk1",
-    "cuk1"
+    "cuk1",
+    "zuk1"
   ],
   "簎": [
     "cok3"
@@ -35210,8 +35211,8 @@
     "sok3"
   ],
   "欶": [
-    "sok3",
-    "cuk1"
+    "cuk1",
+    "sok3"
   ],
   "洬": [
     "sok3",
@@ -35230,8 +35231,8 @@
     "sok3"
   ],
   "鋸": [
-    "goe3",
-    "geoi3"
+    "geoi3",
+    "goe3"
   ],
   "翗": [
     "koe4"
@@ -35395,8 +35396,8 @@
     "koeng5"
   ],
   "羥": [
-    "koeng5",
-    "coeng1"
+    "coeng1",
+    "koeng5"
   ],
   "膙": [
     "koeng5",
@@ -35482,9 +35483,9 @@
     "zoeng1"
   ],
   "將": [
+    "coeng1",
     "zoeng1",
-    "zoeng3",
-    "coeng1"
+    "zoeng3"
   ],
   "張": [
     "zoeng1",
@@ -35556,13 +35557,13 @@
     "zoeng2"
   ],
   "長": [
+    "coeng4",
     "zoeng2",
-    "zoeng6",
-    "coeng4"
+    "zoeng6"
   ],
   "鞝": [
-    "zoeng2",
-    "soeng5"
+    "soeng5",
+    "zoeng2"
   ],
   "仗": [
     "zoeng3",
@@ -35578,8 +35579,8 @@
     "zoeng3"
   ],
   "悵": [
-    "zoeng3",
-    "coeng3"
+    "coeng3",
+    "zoeng3"
   ],
   "瘴": [
     "zoeng3"
@@ -35645,8 +35646,8 @@
   ],
   "囪": [
     "coeng1",
-    "tung1",
-    "cung1"
+    "cung1",
+    "tung1"
   ],
   "娼": [
     "coeng1"
@@ -35793,8 +35794,8 @@
     "soeng1"
   ],
   "勷": [
-    "soeng1",
-    "joeng4"
+    "joeng4",
+    "soeng1"
   ],
   "商": [
     "soeng1"
@@ -36141,10 +36142,10 @@
     "doek3"
   ],
   "孎": [
-    "doek3",
-    "zuk1",
     "cuk1",
-    "suk6"
+    "doek3",
+    "suk6",
+    "zuk1"
   ],
   "斀": [
     "doek3",
@@ -36183,12 +36184,12 @@
     "koek3"
   ],
   "倬": [
-    "zoek3",
-    "coek3"
+    "coek3",
+    "zoek3"
   ],
   "勺": [
-    "zoek3",
-    "soek3"
+    "soek3",
+    "zoek3"
   ],
   "圴": [
     "zoek3"
@@ -36206,25 +36207,25 @@
     "zoek3"
   ],
   "桌": [
-    "zoek3",
-    "coek3"
+    "coek3",
+    "zoek3"
   ],
   "櫡": [
     "zoek3",
     "zyu6"
   ],
   "汋": [
-    "zoek3",
     "coek3",
-    "joek6"
+    "joek6",
+    "zoek3"
   ],
   "灼": [
-    "zoek3",
-    "coek3"
+    "coek3",
+    "zoek3"
   ],
   "焯": [
-    "zoek3",
-    "coek3"
+    "coek3",
+    "zoek3"
   ],
   "爵": [
     "zoek3"
@@ -36238,8 +36239,8 @@
     "zuk1"
   ],
   "芍": [
-    "zoek3",
-    "coek3"
+    "coek3",
+    "zoek3"
   ],
   "著": [
     "zoek3",
@@ -36253,8 +36254,8 @@
     "zoek3"
   ],
   "鵲": [
-    "zoek3",
-    "coek3"
+    "coek3",
+    "zoek3"
   ],
   "𠦝": [
     "coek3"
@@ -36460,8 +36461,8 @@
     "tyut3"
   ],
   "稅": [
-    "teoi3",
     "seoi3",
+    "teoi3",
     "tyut3"
   ],
   "脫": [
@@ -36469,8 +36470,8 @@
     "tyut3"
   ],
   "蛻": [
-    "teoi3",
-    "seoi3"
+    "seoi3",
+    "teoi3"
   ],
   "螁": [
     "teoi3"
@@ -36503,14 +36504,14 @@
     "teoi4"
   ],
   "魋": [
+    "ceoi4",
     "teoi4",
-    "zeoi1",
-    "ceoi4"
+    "zeoi1"
   ],
   "女": [
+    "jyu5",
     "neoi5",
-    "neoi6",
-    "jyu5"
+    "neoi6"
   ],
   "娞": [
     "neoi5",
@@ -36521,8 +36522,8 @@
     "seoi1"
   ],
   "籹": [
-    "neoi5",
-    "jyu5"
+    "jyu5",
+    "neoi5"
   ],
   "腇": [
     "neoi5"
@@ -36817,8 +36818,8 @@
   ],
   "翑": [
     "geoi2",
-    "keoi4",
-    "jyu6"
+    "jyu6",
+    "keoi4"
   ],
   "舉": [
     "geoi2"
@@ -36954,8 +36955,8 @@
     "keoi1"
   ],
   "呿": [
-    "keoi1",
-    "heoi3"
+    "heoi3",
+    "keoi1"
   ],
   "嶇": [
     "keoi1"
@@ -36964,21 +36965,21 @@
     "keoi1"
   ],
   "焌": [
+    "ceot1",
     "keoi1",
-    "zeon3",
-    "ceot1"
+    "zeon3"
   ],
   "痀": [
+    "jyu2",
     "keoi1",
-    "keoi4",
-    "jyu2"
+    "keoi4"
   ],
   "祛": [
     "keoi1"
   ],
   "紶": [
-    "keoi1",
-    "heoi2"
+    "heoi2",
+    "keoi1"
   ],
   "胠": [
     "keoi1"
@@ -36987,8 +36988,8 @@
     "keoi1"
   ],
   "貙": [
-    "keoi1",
     "ceoi1",
+    "keoi1",
     "syu1"
   ],
   "軀": [
@@ -37088,8 +37089,8 @@
     "keoi4"
   ],
   "佢": [
-    "keoi5",
-    "heoi5"
+    "heoi5",
+    "keoi5"
   ],
   "拒": [
     "keoi5"
@@ -37118,8 +37119,8 @@
     "heoi1"
   ],
   "荂": [
-    "heoi1",
-    "fu1"
+    "fu1",
+    "heoi1"
   ],
   "虛": [
     "heoi1"
@@ -37155,8 +37156,8 @@
     "heoi2"
   ],
   "滸": [
-    "heoi2",
     "fu2",
+    "heoi2",
     "wu2"
   ],
   "煦": [
@@ -37173,8 +37174,8 @@
     "jyu5"
   ],
   "許": [
-    "heoi2",
-    "fu2"
+    "fu2",
+    "heoi2"
   ],
   "詡": [
     "heoi2"
@@ -37207,46 +37208,46 @@
     "zeoi2"
   ],
   "揟": [
-    "zeoi1",
-    "seoi1"
+    "seoi1",
+    "zeoi1"
   ],
   "朘": [
+    "syun1",
     "zeoi1",
     "zeon1",
     "zeon3",
-    "zyun1",
-    "syun1"
+    "zyun1"
   ],
   "椎": [
-    "zeoi1",
-    "ceoi4"
+    "ceoi4",
+    "zeoi1"
   ],
   "棰": [
-    "zeoi1",
-    "ceoi4"
+    "ceoi4",
+    "zeoi1"
   ],
   "沮": [
+    "ceoi1",
     "zeoi1",
     "zeoi2",
     "zeoi3",
-    "zeoi6",
-    "ceoi1"
+    "zeoi6"
   ],
   "狙": [
     "zeoi1"
   ],
   "疽": [
-    "zeoi1",
-    "ceoi1"
+    "ceoi1",
+    "zeoi1"
   ],
   "砠": [
-    "zeoi1",
-    "ceoi1"
+    "ceoi1",
+    "zeoi1"
   ],
   "箠": [
-    "zeoi1",
     "ceoi4",
-    "seoi4"
+    "seoi4",
+    "zeoi1"
   ],
   "菹": [
     "zeoi1"
@@ -37255,15 +37256,15 @@
     "zeoi1"
   ],
   "蛆": [
-    "zeoi1",
-    "ceoi1"
+    "ceoi1",
+    "zeoi1"
   ],
   "跙": [
     "zeoi1"
   ],
   "錐": [
-    "zeoi1",
-    "jeoi1"
+    "jeoi1",
+    "zeoi1"
   ],
   "隹": [
     "zeoi1"
@@ -37290,8 +37291,8 @@
     "zeoi2"
   ],
   "沝": [
-    "zeoi2",
-    "ceoi4"
+    "ceoi4",
+    "zeoi2"
   ],
   "濢": [
     "zeoi2"
@@ -37307,8 +37308,8 @@
     "zeoi3"
   ],
   "惴": [
-    "zeoi3",
-    "cyun2"
+    "cyun2",
+    "zeoi3"
   ],
   "捘": [
     "zeoi3",
@@ -37337,8 +37338,8 @@
     "zyut6"
   ],
   "綷": [
-    "zeoi3",
-    "ceoi3"
+    "ceoi3",
+    "zeoi3"
   ],
   "蕞": [
     "zeoi3",
@@ -37379,12 +37380,12 @@
     "zeoi6"
   ],
   "娷": [
-    "zeoi6",
-    "seoi6"
+    "seoi6",
+    "zeoi6"
   ],
   "嶼": [
-    "zeoi6",
-    "jyu4"
+    "jyu4",
+    "zeoi6"
   ],
   "序": [
     "zeoi6"
@@ -37417,12 +37418,12 @@
     "zeoi6"
   ],
   "芧": [
-    "zeoi6",
-    "cyu5"
+    "cyu5",
+    "zeoi6"
   ],
   "藇": [
-    "zeoi6",
-    "jyu6"
+    "jyu6",
+    "zeoi6"
   ],
   "諈": [
     "zeoi6"
@@ -37431,8 +37432,8 @@
     "zeoi6"
   ],
   "隧": [
-    "zeoi6",
-    "seoi6"
+    "seoi6",
+    "zeoi6"
   ],
   "鱮": [
     "zeoi6"
@@ -37636,9 +37637,9 @@
   ],
   "除": [
     "ceoi4",
-    "zyu6",
     "cyu1",
-    "cyu4"
+    "cyu4",
+    "zyu6"
   ],
   "隨": [
     "ceoi4"
@@ -37695,8 +37696,8 @@
     "seoi1"
   ],
   "繻": [
-    "seoi1",
-    "jyu4"
+    "jyu4",
+    "seoi1"
   ],
   "胥": [
     "seoi1"
@@ -37761,8 +37762,8 @@
     "seoi3"
   ],
   "率": [
-    "seoi3",
     "leot6",
+    "seoi3",
     "seot1"
   ],
   "睟": [
@@ -37792,9 +37793,9 @@
     "seoi3"
   ],
   "說": [
+    "jyut6",
     "seoi3",
-    "syut3",
-    "jyut6"
+    "syut3"
   ],
   "誶": [
     "seoi3",
@@ -37811,8 +37812,8 @@
     "seoi4"
   ],
   "圌": [
-    "seoi4",
-    "cyun4"
+    "cyun4",
+    "seoi4"
   ],
   "垂": [
     "seoi4"
@@ -37965,8 +37966,8 @@
     "deon6"
   ],
   "壿": [
-    "deon1",
-    "cyun4"
+    "cyun4",
+    "deon1"
   ],
   "惇": [
     "deon1"
@@ -37982,8 +37983,8 @@
     "zeon1"
   ],
   "蹲": [
-    "deon1",
-    "cyun4"
+    "cyun4",
+    "deon1"
   ],
   "驐": [
     "deon1"
@@ -38004,8 +38005,8 @@
     "deon6"
   ],
   "沌": [
-    "deon6",
-    "cyun5"
+    "cyun5",
+    "deon6"
   ],
   "潡": [
     "deon6"
@@ -38028,14 +38029,14 @@
     "duk6"
   ],
   "湍": [
+    "cyun2",
     "teon1",
     "tyun1",
-    "zyun2",
-    "cyun2"
+    "zyun2"
   ],
   "芚": [
-    "teon1",
     "ceon1",
+    "teon1",
     "tyun4"
   ],
   "貒": [
@@ -38043,16 +38044,16 @@
     "tyun1"
   ],
   "墥": [
-    "teon2",
-    "dung2"
+    "dung2",
+    "teon2"
   ],
   "畽": [
-    "teon2",
-    "dung2"
+    "dung2",
+    "teon2"
   ],
   "躖": [
-    "teon2",
-    "dyun6"
+    "dyun6",
+    "teon2"
   ],
   "彖": [
     "teon3"
@@ -38061,12 +38062,12 @@
     "teon3"
   ],
   "楯": [
-    "teon5",
-    "seon5"
+    "seon5",
+    "teon5"
   ],
   "盾": [
-    "teon5",
-    "seon5"
+    "seon5",
+    "teon5"
   ],
   "侖": [
     "leon4"
@@ -38231,16 +38232,16 @@
     "zyun1"
   ],
   "屯": [
-    "zeon1",
     "seon4",
-    "tyun4"
+    "tyun4",
+    "zeon1"
   ],
   "嶟": [
     "zeon1"
   ],
   "忳": [
-    "zeon1",
-    "tyun4"
+    "tyun4",
+    "zeon1"
   ],
   "榛": [
     "zeon1"
@@ -38255,8 +38256,8 @@
     "zeon1"
   ],
   "溱": [
-    "zeon1",
-    "ceon4"
+    "ceon4",
+    "zeon1"
   ],
   "潧": [
     "zeon1"
@@ -38277,15 +38278,15 @@
     "zeon1"
   ],
   "肫": [
-    "zeon1",
-    "seon4"
+    "seon4",
+    "zeon1"
   ],
   "臻": [
     "zeon1"
   ],
   "蓁": [
-    "zeon1",
-    "ceon4"
+    "ceon4",
+    "zeon1"
   ],
   "訰": [
     "zeon1",
@@ -38295,8 +38296,8 @@
     "zeon1"
   ],
   "迍": [
-    "zeon1",
-    "tyun4"
+    "tyun4",
+    "zeon1"
   ],
   "遵": [
     "zeon1",
@@ -38307,10 +38308,10 @@
     "zyun3"
   ],
   "鐫": [
+    "syun6",
     "zeon1",
     "zeon3",
-    "zyun1",
-    "syun6"
+    "zyun1"
   ],
   "鱆": [
     "zeon1"
@@ -38345,9 +38346,9 @@
     "zeon6"
   ],
   "純": [
-    "zeon2",
     "seon4",
-    "tyun4"
+    "tyun4",
+    "zeon2"
   ],
   "綧": [
     "zeon2"
@@ -38365,8 +38366,8 @@
     "zeon6"
   ],
   "隼": [
-    "zeon2",
-    "seon2"
+    "seon2",
+    "zeon2"
   ],
   "俊": [
     "zeon3"
@@ -38393,16 +38394,16 @@
     "zeon3"
   ],
   "浚": [
-    "zeon3",
-    "seon3"
+    "seon3",
+    "zeon3"
   ],
   "溍": [
     "zeon3"
   ],
   "濬": [
+    "seon3",
     "zeon3",
-    "zeon6",
-    "seon3"
+    "zeon6"
   ],
   "燇": [
     "zeon3"
@@ -38417,8 +38418,8 @@
     "zeon3"
   ],
   "竣": [
-    "zeon3",
-    "ceon1"
+    "ceon1",
+    "zeon3"
   ],
   "縉": [
     "zeon3"
@@ -38434,9 +38435,9 @@
     "zeon3"
   ],
   "雋": [
-    "zeon3",
     "cyun5",
-    "syun5"
+    "syun5",
+    "zeon3"
   ],
   "餕": [
     "zeon3"
@@ -38445,8 +38446,8 @@
     "zeon3"
   ],
   "鵔": [
-    "zeon3",
-    "seon3"
+    "seon3",
+    "zeon3"
   ],
   "嬧": [
     "zeon6"
@@ -38484,8 +38485,8 @@
   ],
   "踆": [
     "ceon1",
-    "seon1",
-    "cyun1"
+    "cyun1",
+    "seon1"
   ],
   "輴": [
     "ceon1"
@@ -38579,21 +38580,21 @@
     "seon6"
   ],
   "洵": [
-    "seon1",
-    "hyun3"
+    "hyun3",
+    "seon1"
   ],
   "珣": [
     "seon1"
   ],
   "眴": [
-    "seon1",
-    "seon3",
     "hyun3",
-    "jyun6"
+    "jyun6",
+    "seon1",
+    "seon3"
   ],
   "絢": [
-    "seon1",
-    "hyun3"
+    "hyun3",
+    "seon1"
   ],
   "荀": [
     "seon1"
@@ -38670,8 +38671,8 @@
     "seon4"
   ],
   "犉": [
-    "seon4",
-    "jyun4"
+    "jyun4",
+    "seon4"
   ],
   "脣": [
     "seon4"
@@ -38686,8 +38687,8 @@
     "seon4"
   ],
   "吮": [
-    "seon5",
     "cyun5",
+    "seon5",
     "syun5"
   ],
   "迿": [
@@ -38706,9 +38707,9 @@
     "jeon6"
   ],
   "咄": [
+    "cyut3",
     "deot1",
-    "zyut3",
-    "cyut3"
+    "zyut3"
   ],
   "柮": [
     "deot1",
@@ -38770,36 +38771,36 @@
     "leot6"
   ],
   "卒": [
-    "zeot1",
-    "cyut3"
+    "cyut3",
+    "zeot1"
   ],
   "崒": [
     "zeot1",
     "zyut6"
   ],
   "怵": [
-    "zeot1",
     "ceot1",
-    "seot1"
+    "seot1",
+    "zeot1"
   ],
   "捽": [
+    "cyut3",
     "zeot1",
-    "zyut6",
-    "cyut3"
+    "zyut6"
   ],
   "絀": [
-    "zeot1",
     "ceot1",
+    "zeot1",
     "zyut3",
     "zyut6"
   ],
   "訹": [
-    "zeot1",
-    "seot1"
+    "seot1",
+    "zeot1"
   ],
   "黜": [
-    "zeot1",
     "ceot1",
+    "zeot1",
     "zyut3",
     "zyut6"
   ],
@@ -38846,8 +38847,8 @@
     "seot6"
   ],
   "袕": [
-    "seot6",
-    "jyut6"
+    "jyut6",
+    "seot6"
   ],
   "述": [
     "seot6"
@@ -39137,8 +39138,8 @@
     "pui5"
   ],
   "仆": [
-    "fu6",
     "buk6",
+    "fu6",
     "puk1"
   ],
   "付": [
@@ -39346,9 +39347,9 @@
     "wu1"
   ],
   "於": [
-    "wu1",
     "jyu1",
-    "jyu4"
+    "jyu4",
+    "wu1"
   ],
   "杇": [
     "wu1"
@@ -39363,8 +39364,8 @@
     "wu1"
   ],
   "盓": [
-    "wu1",
-    "jyu1"
+    "jyu1",
+    "wu1"
   ],
   "窏": [
     "wu1"
@@ -39379,8 +39380,8 @@
     "wu1"
   ],
   "陓": [
-    "wu1",
-    "jyu1"
+    "jyu1",
+    "wu1"
   ],
   "靰": [
     "wu1"
@@ -39392,12 +39393,12 @@
     "wu2"
   ],
   "捂": [
-    "wu2",
-    "ng6"
+    "ng6",
+    "wu2"
   ],
   "摀": [
-    "wu2",
-    "ng6"
+    "ng6",
+    "wu2"
   ],
   "祜": [
     "wu2",
@@ -39515,8 +39516,8 @@
     "wu6"
   ],
   "芋": [
-    "wu6",
-    "jyu1"
+    "jyu1",
+    "wu6"
   ],
   "蔰": [
     "wu6"
@@ -39705,8 +39706,8 @@
     "mui5"
   ],
   "燘": [
-    "mui5",
-    "fui2"
+    "fui2",
+    "mui5"
   ],
   "妹": [
     "mui6"
@@ -39718,8 +39719,8 @@
     "mui6"
   ],
   "痗": [
-    "mui6",
-    "fui3"
+    "fui3",
+    "mui6"
   ],
   "眛": [
     "mui6"
@@ -40073,8 +40074,8 @@
     "pun4"
   ],
   "蹣": [
-    "pun4",
-    "mun4"
+    "mun4",
+    "pun4"
   ],
   "鞶": [
     "pun4"
@@ -40163,8 +40164,8 @@
   ],
   "貆": [
     "fun1",
-    "wun4",
-    "hyun1"
+    "hyun1",
+    "wun4"
   ],
   "酄": [
     "fun1",
@@ -40299,24 +40300,24 @@
     "wun2"
   ],
   "婉": [
-    "wun2",
-    "jyun2"
+    "jyun2",
+    "wun2"
   ],
   "宛": [
-    "wun2",
     "jyun1",
-    "jyun2"
+    "jyun2",
+    "wun2"
   ],
   "惋": [
-    "wun2",
-    "jyun2"
+    "jyun2",
+    "wun2"
   ],
   "捥": [
     "wun2"
   ],
   "晼": [
-    "wun2",
-    "jyun2"
+    "jyun2",
+    "wun2"
   ],
   "浣": [
     "wun2",
@@ -40340,40 +40341,40 @@
     "wun4"
   ],
   "媛": [
-    "wun4",
     "jyun4",
-    "jyun6"
+    "jyun6",
+    "wun4"
   ],
   "峘": [
     "wun4"
   ],
   "援": [
-    "wun4",
     "jyun4",
-    "jyun6"
+    "jyun6",
+    "wun4"
   ],
   "桓": [
     "wun4"
   ],
   "洹": [
-    "wun4",
-    "jyun4"
+    "jyun4",
+    "wun4"
   ],
   "湲": [
-    "wun4",
-    "jyun4"
+    "jyun4",
+    "wun4"
   ],
   "爰": [
-    "wun4",
-    "jyun4"
+    "jyun4",
+    "wun4"
   ],
   "狟": [
-    "wun4",
-    "hyun1"
+    "hyun1",
+    "wun4"
   ],
   "獂": [
-    "wun4",
-    "jyun4"
+    "jyun4",
+    "wun4"
   ],
   "瓛": [
     "wun4"
@@ -40396,19 +40397,19 @@
     "wun4"
   ],
   "蒝": [
-    "wun4",
-    "jyun4"
+    "jyun4",
+    "wun4"
   ],
   "豲": [
-    "wun4",
-    "jyun4"
+    "jyun4",
+    "wun4"
   ],
   "雈": [
     "wun4"
   ],
   "鶢": [
-    "wun4",
-    "jyun4"
+    "jyun4",
+    "wun4"
   ],
   "晥": [
     "wun5"
@@ -40423,12 +40424,12 @@
     "wun6"
   ],
   "妧": [
-    "wun6",
-    "jyun4"
+    "jyun4",
+    "wun6"
   ],
   "忨": [
-    "wun6",
-    "jyun4"
+    "jyun4",
+    "wun6"
   ],
   "換": [
     "wun6"
@@ -40482,8 +40483,8 @@
   ],
   "捧": [
     "bung2",
-    "pung2",
-    "fung2"
+    "fung2",
+    "pung2"
   ],
   "琫": [
     "bung2"
@@ -40516,12 +40517,12 @@
     "pung4"
   ],
   "蓬": [
-    "pung4",
-    "fung4"
+    "fung4",
+    "pung4"
   ],
   "逢": [
-    "pung4",
-    "fung4"
+    "fung4",
+    "pung4"
   ],
   "鑝": [
     "pung4"
@@ -40940,8 +40941,8 @@
     "tung4"
   ],
   "痋": [
-    "tung4",
-    "cung4"
+    "cung4",
+    "tung4"
   ],
   "瞳": [
     "tung4"
@@ -40958,12 +40959,12 @@
     "tung4"
   ],
   "罿": [
-    "tung4",
-    "cung1"
+    "cung1",
+    "tung4"
   ],
   "艟": [
-    "tung4",
-    "cung1"
+    "cung1",
+    "tung4"
   ],
   "茼": [
     "tung4"
@@ -40990,8 +40991,8 @@
     "nung4"
   ],
   "濃": [
-    "nung4",
-    "jung4"
+    "jung4",
+    "nung4"
   ],
   "穠": [
     "nung4"
@@ -41021,8 +41022,8 @@
     "nung4"
   ],
   "弄": [
-    "nung6",
-    "lung6"
+    "lung6",
+    "nung6"
   ],
   "窿": [
     "lung1",
@@ -41079,8 +41080,8 @@
     "lung4"
   ],
   "谾": [
-    "lung4",
-    "hung1"
+    "hung1",
+    "lung4"
   ],
   "豅": [
     "lung4",
@@ -41171,8 +41172,8 @@
   ],
   "穹": [
     "gung1",
-    "kung4",
-    "hung1"
+    "hung1",
+    "kung4"
   ],
   "紅": [
     "gung1",
@@ -41180,8 +41181,8 @@
   ],
   "芎": [
     "gung1",
-    "kung4",
-    "hung1"
+    "hung1",
+    "kung4"
   ],
   "蚣": [
     "gung1"
@@ -41251,8 +41252,8 @@
     "kung4"
   ],
   "舼": [
-    "kung4",
-    "hung4"
+    "hung4",
+    "kung4"
   ],
   "藭": [
     "kung4"
@@ -41270,9 +41271,9 @@
     "kung4"
   ],
   "壅": [
-    "ngung1",
     "jung1",
-    "jung2"
+    "jung2",
+    "ngung1"
   ],
   "倥": [
     "hung1",
@@ -41420,27 +41421,27 @@
     "zung1"
   ],
   "從": [
-    "zung1",
-    "zung3",
-    "zung6",
     "cung1",
     "cung4",
-    "sung1"
+    "sung1",
+    "zung1",
+    "zung3",
+    "zung6"
   ],
   "忠": [
     "zung1"
   ],
   "忪": [
-    "zung1",
-    "sung1"
+    "sung1",
+    "zung1"
   ],
   "憃": [
-    "zung1",
-    "cung1"
+    "cung1",
+    "zung1"
   ],
   "憧": [
-    "zung1",
-    "cung1"
+    "cung1",
+    "zung1"
   ],
   "朡": [
     "zung1"
@@ -41449,17 +41450,17 @@
     "zung1"
   ],
   "樅": [
-    "zung1",
-    "cung1"
+    "cung1",
+    "zung1"
   ],
   "淙": [
-    "zung1",
     "cung4",
-    "cung6"
+    "cung6",
+    "zung1"
   ],
   "潀": [
-    "zung1",
-    "cung4"
+    "cung4",
+    "zung1"
   ],
   "炂": [
     "zung1"
@@ -41512,8 +41513,8 @@
     "zung1"
   ],
   "蝩": [
-    "zung1",
-    "cung4"
+    "cung4",
+    "zung1"
   ],
   "蝬": [
     "zung1"
@@ -41525,8 +41526,8 @@
     "zung1"
   ],
   "衷": [
-    "zung1",
-    "cung1"
+    "cung1",
+    "zung1"
   ],
   "豵": [
     "zung1"
@@ -41550,8 +41551,8 @@
     "zung1"
   ],
   "鬃": [
-    "zung1",
-    "cung4"
+    "cung4",
+    "zung1"
   ],
   "鬷": [
     "zung1"
@@ -41564,9 +41565,9 @@
     "zung3"
   ],
   "尰": [
+    "cung3",
     "zung2",
-    "zung6",
-    "cung3"
+    "zung6"
   ],
   "摠": [
     "zung2"
@@ -41575,13 +41576,13 @@
     "zung2"
   ],
   "熜": [
-    "zung2",
-    "cung1"
+    "cung1",
+    "zung2"
   ],
   "种": [
+    "cung4",
     "zung2",
-    "zung3",
-    "cung4"
+    "zung3"
   ],
   "種": [
     "zung2",
@@ -41616,8 +41617,8 @@
     "zung3"
   ],
   "錝": [
-    "zung3",
-    "cung4"
+    "cung4",
+    "zung3"
   ],
   "仲": [
     "zung6"
@@ -41626,12 +41627,12 @@
     "zung6"
   ],
   "祌": [
-    "zung6",
-    "cung1"
+    "cung1",
+    "zung6"
   ],
   "緟": [
-    "zung6",
-    "cung4"
+    "cung4",
+    "zung6"
   ],
   "衶": [
     "zung6"
@@ -41643,13 +41644,13 @@
     "zung6"
   ],
   "重": [
-    "zung6",
     "cung4",
-    "cung5"
+    "cung5",
+    "zung6"
   ],
   "頌": [
-    "zung6",
-    "jung4"
+    "jung4",
+    "zung6"
   ],
   "傭": [
     "cung1",
@@ -41874,8 +41875,8 @@
     "sung4"
   ],
   "鰫": [
-    "sung4",
-    "jung4"
+    "jung4",
+    "sung4"
   ],
   "嗡": [
     "jung1"
@@ -42262,8 +42263,8 @@
     "wut6"
   ],
   "泧": [
-    "wut6",
-    "jyut6"
+    "jyut6",
+    "wut6"
   ],
   "秮": [
     "wut6"
@@ -42610,9 +42611,9 @@
     "luk6"
   ],
   "谷": [
-    "luk6",
     "guk1",
-    "juk6"
+    "juk6",
+    "luk6"
   ],
   "踛": [
     "luk6"
@@ -42633,7 +42634,8 @@
     "luk6"
   ],
   "鏕": [
-    "luk6"
+    "luk6",
+    "ou1"
   ],
   "陸": [
     "luk6"
@@ -42775,8 +42777,8 @@
     "huk1"
   ],
   "慉": [
-    "huk1",
-    "cuk1"
+    "cuk1",
+    "huk1"
   ],
   "豰": [
     "huk1"
@@ -42812,9 +42814,9 @@
     "zuk1"
   ],
   "屬": [
+    "suk6",
     "zuk1",
-    "zuk6",
-    "suk6"
+    "zuk6"
   ],
   "捉": [
     "zuk1",
@@ -42824,8 +42826,8 @@
     "zuk1"
   ],
   "柷": [
-    "zuk1",
-    "cuk1"
+    "cuk1",
+    "zuk1"
   ],
   "欘": [
     "zuk1"
@@ -42862,8 +42864,8 @@
     "zuk1"
   ],
   "粥": [
-    "zuk1",
-    "juk6"
+    "juk6",
+    "zuk1"
   ],
   "臅": [
     "zuk1"
@@ -42872,46 +42874,46 @@
     "zuk1"
   ],
   "蠋": [
-    "zuk1",
-    "suk6"
+    "suk6",
+    "zuk1"
   ],
   "蠾": [
-    "zuk1",
-    "suk6"
+    "suk6",
+    "zuk1"
   ],
   "触": [
     "zuk1"
   ],
   "觸": [
-    "zuk1",
-    "cuk1"
+    "cuk1",
+    "zuk1"
   ],
   "踿": [
     "zuk1"
   ],
   "蹙": [
-    "zuk1",
-    "cuk1"
+    "cuk1",
+    "zuk1"
   ],
   "蹴": [
-    "zuk1",
-    "cuk1"
+    "cuk1",
+    "zuk1"
   ],
   "鏃": [
     "zuk1",
     "zuk6"
   ],
   "顣": [
-    "zuk1",
-    "cuk1"
+    "cuk1",
+    "zuk1"
   ],
   "鬻": [
-    "zuk1",
-    "juk6"
+    "juk6",
+    "zuk1"
   ],
   "鸀": [
-    "zuk1",
-    "suk6"
+    "suk6",
+    "zuk1"
   ],
   "俗": [
     "zuk6"
@@ -42923,12 +42925,12 @@
     "zuk6"
   ],
   "瘯": [
-    "zuk6",
-    "cuk1"
+    "cuk1",
+    "zuk6"
   ],
   "簇": [
-    "zuk6",
-    "cuk1"
+    "cuk1",
+    "zuk6"
   ],
   "續": [
     "zuk6"
@@ -43264,12 +43266,12 @@
     "zyu1"
   ],
   "姝": [
-    "zyu1",
-    "syu1"
+    "syu1",
+    "zyu1"
   ],
   "朱": [
-    "zyu1",
-    "syu4"
+    "syu4",
+    "zyu1"
   ],
   "株": [
     "zyu1"
@@ -43281,8 +43283,8 @@
     "zyu1"
   ],
   "洙": [
-    "zyu1",
-    "syu4"
+    "syu4",
+    "zyu1"
   ],
   "瀦": [
     "zyu1"
@@ -43297,16 +43299,16 @@
     "zyu1"
   ],
   "茱": [
-    "zyu1",
-    "syu4"
+    "syu4",
+    "zyu1"
   ],
   "藸": [
-    "zyu1",
-    "cyu4"
+    "cyu4",
+    "zyu1"
   ],
   "藷": [
-    "zyu1",
-    "syu4"
+    "syu4",
+    "zyu1"
   ],
   "蛛": [
     "zyu1"
@@ -43315,8 +43317,8 @@
     "zyu1"
   ],
   "蠩": [
-    "zyu1",
-    "syu4"
+    "syu4",
+    "zyu1"
   ],
   "袾": [
     "zyu1"
@@ -43340,8 +43342,8 @@
     "zyu1"
   ],
   "銖": [
-    "zyu1",
-    "syu4"
+    "syu4",
+    "zyu1"
   ],
   "鮢": [
     "zyu1"
@@ -43362,22 +43364,22 @@
     "zyu2"
   ],
   "砫": [
-    "zyu2",
-    "cyu5"
+    "cyu5",
+    "zyu2"
   ],
   "翥": [
     "zyu2",
     "zyu3"
   ],
   "褚": [
-    "zyu2",
     "cyu2",
-    "cyu5"
+    "cyu5",
+    "zyu2"
   ],
   "貯": [
-    "zyu2",
     "cyu2",
-    "cyu5"
+    "cyu5",
+    "zyu2"
   ],
   "陼": [
     "zyu2"
@@ -43526,8 +43528,8 @@
     "syu1"
   ],
   "毹": [
-    "syu1",
-    "jyu4"
+    "jyu4",
+    "syu1"
   ],
   "瑹": [
     "syu1"
@@ -43563,9 +43565,9 @@
     "syu2"
   ],
   "俞": [
-    "syu3",
     "jyu4",
-    "jyu6"
+    "jyu6",
+    "syu3"
   ],
   "庶": [
     "syu3"
@@ -43974,8 +43976,8 @@
     "jyu5"
   ],
   "峿": [
-    "jyu5",
-    "ng4"
+    "ng4",
+    "jyu5"
   ],
   "敔": [
     "jyu5"
@@ -44021,8 +44023,8 @@
     "jyu5"
   ],
   "鋙": [
-    "jyu5",
-    "ng4"
+    "ng4",
+    "jyu5"
   ],
   "雨": [
     "jyu5",
@@ -44188,16 +44190,16 @@
     "tyun4"
   ],
   "暖": [
-    "nyun5",
-    "hyun1"
+    "hyun1",
+    "nyun5"
   ],
   "渜": [
     "nyun5",
     "nyun6"
   ],
   "煖": [
-    "nyun5",
-    "hyun1"
+    "hyun1",
+    "nyun5"
   ],
   "餪": [
     "nyun5"
@@ -44553,9 +44555,9 @@
     "zyun1"
   ],
   "諯": [
-    "zyun1",
     "cyun3",
-    "syun4"
+    "syun4",
+    "zyun1"
   ],
   "躦": [
     "zyun1"
@@ -44604,9 +44606,9 @@
     "zyun3"
   ],
   "傳": [
+    "cyun4",
     "zyun3",
-    "zyun6",
-    "cyun4"
+    "zyun6"
   ],
   "縳": [
     "zyun3"
@@ -45249,15 +45251,15 @@
     "kyut3"
   ],
   "僪": [
-    "kyut3",
-    "jyut6"
+    "jyut6",
+    "kyut3"
   ],
   "厥": [
     "kyut3"
   ],
   "吷": [
-    "kyut3",
-    "hyut3"
+    "hyut3",
+    "kyut3"
   ],
   "噘": [
     "kyut3"
@@ -45272,13 +45274,13 @@
     "kyut3"
   ],
   "決": [
-    "kyut3",
-    "hyut3"
+    "hyut3",
+    "kyut3"
   ],
   "泬": [
-    "kyut3",
     "hyut3",
-    "jyut6"
+    "jyut6",
+    "kyut3"
   ],
   "獗": [
     "kyut3"
@@ -45357,8 +45359,8 @@
     "zyut3"
   ],
   "啜": [
-    "zyut3",
-    "cyut3"
+    "cyut3",
+    "zyut3"
   ],
   "嚽": [
     "zyut3"
@@ -45383,8 +45385,8 @@
     "zyut3"
   ],
   "歠": [
-    "zyut3",
-    "cyut3"
+    "cyut3",
+    "zyut3"
   ],
   "毲": [
     "zyut3"
@@ -45406,8 +45408,8 @@
     "zyut3"
   ],
   "茁": [
-    "zyut3",
-    "cyut3"
+    "cyut3",
+    "zyut3"
   ],
   "蕝": [
     "zyut3"
