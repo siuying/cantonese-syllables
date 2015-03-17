@@ -4,7 +4,7 @@ Scrape cantonese syllables from CUHK [Multi-function Chinese Character Database]
 
 ## Usage
 
-Use the file [characters.json]() or [sounds.json]().
+Use the file [data/characters.json]() or [data/sounds.json]().
 
 Or generate the data yourself:
 
